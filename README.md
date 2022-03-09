@@ -19,16 +19,16 @@
 
 </div>
 
-## Blocklist Generator
-
-The blocklist generator source code is available [here](https://github.com/elliotwutingfeng/Safe-Browsing-DNSBL-Generator)
-
 ## Blocklists
 
 | File | Download |
 |---|---|
 | Google_hostnames.txt | [Download](Google_hostnames.txt?raw=true) |
 | Google_ipv4.txt | [Download](Google_ipv4.txt?raw=true) |
+
+## Blocklist Generator
+
+The blocklist generator source code is available [here](https://github.com/elliotwutingfeng/Safe-Browsing-DNSBL-Generator)
 
 ## Safe Browsing API vendor
 
