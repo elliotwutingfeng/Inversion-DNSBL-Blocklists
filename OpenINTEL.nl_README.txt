@@ -1,0 +1,94 @@
+===============================================================================
+=== OpenINTEL Active DNS Measurements =========================================
+===============================================================================
+=== Open Access Datasets - TERMS OF USE =======================================
+===============================================================================
+
+Document last updated Monday January 18, 2021
+
+Use of the datasets provided through the OpenINTEL website is subject to the
+terms and conditions set out in this document. PLEASE READ THIS DOCUMENT
+CAREFULLY BEFORE DOWNLOADING OR USING DATA.
+
+0. THE OPENINTEL PROJECT
+
+The OpenINTEL project is a joint project of the University of Twente, SURF,
+SIDN Labs and NLnet Labs. More information on the project can be found on our 
+website:
+
+  https://www.openintel.nl/
+
+1. LICENCE
+
+The open access datasets provided through the OpenINTEL website are subject
+to the Creative Commons CC BY-NC-SA 4.0 licence. This licence entitles you to
+use, modify and redistribute the data for non-commercial purposes, provided
+that redistribution takes place under the same terms, and that you give
+appropriate credit to the source of the data, as stipulated under clause 2
+below. You can find the licence in full at:
+
+  https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Any redistribution of (parts of) OpenINTEL open access data MUST include an
+unmodified copy of this document in full.
+
+2. ATTRIBUTION
+
+If you make use of any of the open access data from the OpenINTEL project,
+you must acknowledge use of this data by including the following attribution
+in any document, web page or other communication:
+
+"The research leading to these results was made possible by OpenINTEL
+(https://www.openintel.nl/), a joint project of the University of
+Twente, SIDN, SURF and NLnet Labs."
+
+Furthermore, if you use open access data from the OpenINTEL project for
+research that is published in a scientific paper, poster or other peer
+reviewed content, you must cite the following paper as describing the
+method through which the data has been collected:
+
+van Rijswijk-Deij, R., Jonker, M., Sperotto, A., & Pras, A. (2016). A High-
+Performance, Scalable Infrastructure for Large-Scale Active DNS Measurements. 
+IEEE Journal on Selected Areas in Communications, 34(7), pp. 1877-1888.
+
+We keep track of research papers that use data from OpenINTEL on our website,
+and would appreciate it if you can notify us of any publications in which you
+use our datasets. Please contact r.m.vanrijswijk@utwente.nl and
+a.sperotto@utwente.nl, and send us the citation of you paper, and, if possible
+a PDF of the paper so we can read it.
+
+3. USE OF THE DOWNLOAD SERVICE
+
+Persons and/or organisations that wish to download data that is made available
+by the OpenINTEL project through its public servers must take reasonable
+measures to ensure that the project's servers do not experience undue load
+because of excessive downloads or automated processes. The OpenINTEL project
+reserves the right to block downloads from any location or address without
+prior notice. Any abuse will be reported to appropriate abuse contact points.
+
+In general we note that datasets are updated once every 24 hours, thus, down-
+loading data more frequently than once per calendar day is generally not
+useful.
+
+4. DISCLAIMER OF WARRANTIES
+
+The following disclaimer applies to all data that is made available to you
+by the OpenINTEL project:
+
+OPENINTEL USES ITS BEST EFFORTS TO PROVIDE DATA IN ACCORDANCE WITH ETHICAL
+PRINCIPLES AND SCIENTIFIC INTEGRITY. HOWEVER, THE DATA PROVIDED HEREIN IS ON AN
+"AS IS" BASIS. NEITHER OPENINTEL, ITS RESEARCHERS, RESEARCH PARTNERS,
+LICENSORS, AND DATA PROVIDERS, NOR SURF, NOR THE UNIVERSITY OF TWENTE, NOR
+SIDN, NOR NLNET LABS MAKE ANY WARRANTY, EITHER IMPLIED OR EXPRESS, OF 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, INCLUDING, BUT NOT LIMITED 
+TO, THE ACCURACY, TIMELINESS, COMPLETENESS, RELIABILITY, OR AVAILABILITY OF 
+OPENINTEL DATA, APPLICATIONS, OR SERVICES ACCESSIBLE THROUGH OR MADE AVAILABLE 
+BY OPENINTEL.
+
+TO THE EXTENT ALLOWED BY LAW, YOU WILL INDEMNIFY, DEFEND AND HOLD HARMLESS
+OPENINTEL, SURF, THE UNIVERSITY OF TWENTE, SIDN AND NLNET LABS FROM ALL 
+LIABILITIES, CLAIMS, DEMANDS, COSTS, JUDGMENTS, DAMAGES, LOSSES AND EXPENSES
+ARISING OUT OF OR IN CONNECTION WITH ANY USE OF THE DATA BY YOU. IN NO EVENT 
+SHALL OPENINTEL, SURF, THE UNIVERSITY OF TWENTE, SIDN OR NLNET LABS BE 
+LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, 
+SPECIAL OR PUNITIVE DAMAGES, ARISING FROM YOUR USE OF THE DATA.
