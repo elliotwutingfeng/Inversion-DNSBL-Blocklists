@@ -22,10 +22,22 @@
 
 ## Blocklists
 
+### Light
+
+Malicious hostnames detected from [Tranco TOP1M](https://tranco-list.eu) and [DomCop TOP10M](https://www.domcop.com/top-10-million-domains).
+
 | File | Download |
-|---|---|
-| Google_hostnames.txt | [Download](Google_hostnames.txt?raw=true) |
-| Google_ipv4.txt | [Download](Google_ipv4.txt?raw=true) |
+|:-:|:-:|
+| Google_hostnames_light.txt | [:floppy_disk:](Google_hostnames_light.txt?raw=true) |
+
+### Full
+
+Malicious hostnames and IPv4 addresses detected from [all sources](https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator#url-sources).
+
+| File | Download |
+|:-:|:-:|
+| Google_hostnames.txt | [:floppy_disk:](Google_hostnames.txt?raw=true) |
+| Google_ipv4.txt | [:floppy_disk:](Google_ipv4.txt?raw=true) |
 
 ## Blocklist Generator
 
