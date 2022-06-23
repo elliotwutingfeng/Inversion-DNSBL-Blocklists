@@ -24,7 +24,7 @@
 
 ### Light
 
-Malicious hostnames detected from [Tranco TOP1M](https://tranco-list.eu) and [DomCop TOP10M](https://www.domcop.com/top-10-million-domains).
+Malicious hostnames detected from [Tranco TOP1M](https://tranco-list.eu), [DomCop TOP10M](https://www.domcop.com/top-10-million-domains) and [Google Threat Analysis Group](https://blog.google/threat-analysis-group).
 
 | File | Download |
 |:-:|:-:|
