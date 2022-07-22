@@ -8,8 +8,10 @@
   </p>
 
   <p align="center">
+  <a href="https://adguard.com"><img src="https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white" alt="AdGuard"/></a>
   <a href="https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html"><img src="https://img.shields.io/badge/pfBlockerNG-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfBlockerNG"/></a>
   <a href="https://pi-hole.net"><img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-hole"/></a>
+  <a href="https://github.com/gorhill/uBlock"><img src="https://img.shields.io/badge/uBlock_Origin-800000?style=for-the-badge&logo=ublock-origin&logoColor=white" alt="uBlock Origin"/></a>
   </p>
 
   <p align="center">
