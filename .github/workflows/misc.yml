@@ -1,4 +1,7 @@
-on: [push]
+on:
+  push:
+    paths:
+      - '**_light.txt'
 name: Update lists with ABP syntax
 jobs:
   abp-syntax:
