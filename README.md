@@ -29,6 +29,7 @@ Malicious hostnames detected from [Tranco TOP1M](https://tranco-list.eu), [DomCo
 | File | Download |
 |:-:|:-:|
 | Google_hostnames_light.txt | [:floppy_disk:](Google_hostnames_light.txt?raw=true) |
+| Google_hostnames_light_ABP.txt | [:floppy_disk:](Google_hostnames_light_ABP.txt?raw=true) |
 
 ### Full
 
@@ -37,6 +38,7 @@ Malicious hostnames and IPv4 addresses detected from [all sources](https://githu
 | File | Download |
 |:-:|:-:|
 | Google_hostnames.txt | [:floppy_disk:](Google_hostnames.txt?raw=true) |
+| Google_hostnames_ABP.txt | [:floppy_disk:](Google_hostnames_ABP.txt?raw=true) |
 | Google_ipv4.txt | [:floppy_disk:](Google_ipv4.txt?raw=true) |
 
 ## Blocklist Generator

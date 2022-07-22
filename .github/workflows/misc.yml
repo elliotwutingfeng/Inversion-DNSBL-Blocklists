@@ -1,0 +1,30 @@
+on: [push]
+name: Update lists with ABP syntax
+jobs:
+  abp-syntax:
+    runs-on: ubuntu-latest
+    steps:
+    - name: sleep for 180 seconds # wait for all lists to be uploaded first
+      run: sleep 180s
+      shell: bash
+
+    - name: checkout repo content
+      uses: actions/checkout@v3
+
+    - name: create ABP lists
+      run: |
+          sed 's/^/\|\|/;s/$/\$all/' Google_hostnames.txt > Google_hostnames_ABP.txt
+          sed 's/^/\|\|/;s/$/\$all/' Google_hostnames_light.txt > Google_hostnames_light_ABP.txt
+
+    - name: commit files
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --name-only --cached --exit-code || git commit -am "Update ABP blocklists"
+
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
