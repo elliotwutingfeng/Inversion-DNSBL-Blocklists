@@ -100,6 +100,7 @@
 ||a-audition.com$all
 ||a2zalltrading.com$all
 ||a2zvisitingcard.com$all
+||a5local.com$all
 ||a5news.in$all
 ||aabtrustmicrocredit.com$all
 ||aafihost.com$all
@@ -107,6 +108,7 @@
 ||aalcovid19.org$all
 ||abautosandimports.com$all
 ||abaxdata.com.au$all
+||abbrv.it$all
 ||abcagency.se$all
 ||abcbox.com.br$all
 ||abdeziners.com$all
@@ -114,11 +116,9 @@
 ||abetterradio.com$all
 ||abiplast.abiplast.org.br$all
 ||abirij.club$all
-||abmt.com.au$all
 ||abnamrocapital.fr$all
 ||abovebeyonddigitalmarketing.com$all
 ||absfinishers.com$all
-||absmaterials.com$all
 ||abuja-icc.com$all
 ||acbd1234.com$all
 ||accbuyertv.ru$all
@@ -182,6 +182,7 @@
 ||agrodiff.com$all
 ||aguideproduct.com$all
 ||aguilarslawn.com$all
+||ahadconsultancy.com$all
 ||ahjtxx.com$all
 ||ahmadalsubaiei.com$all
 ||ahn-cr.info$all
@@ -190,7 +191,6 @@
 ||aibolit77.ru$all
 ||aideral.com$all
 ||aidsandafrica.com$all
-||aiele.org$all
 ||aiimss.com$all
 ||aim-infotech.com$all
 ||aimhousetimes.com$all
@@ -264,7 +264,6 @@
 ||amalfiristorante.com$all
 ||amaliavalderrama.com$all
 ||amanbiradari.org$all
-||amand.ru$all
 ||amandamarmer.com$all
 ||amansworldco.com$all
 ||amapolafilms.es$all
@@ -752,7 +751,6 @@
 ||bugsolutely.cn$all
 ||buhalterinespaslaugoskaina.lt$all
 ||builee.com$all
-||buksaiss.net$all
 ||buliisatc.go.ug$all
 ||bulkwebwhatsapp.com$all
 ||bulurummugla.com$all
@@ -763,7 +761,6 @@
 ||buydevelopquiet.buzz$all
 ||buyeurodocumentsonline.com$all
 ||buyusapaypal.com$all
-||buzz-de-sound.com$all
 ||buzzbonin.com$all
 ||bvnstfopnvdb.com$all
 ||byaylpkuj.com$all
@@ -830,7 +827,6 @@
 ||castironrecipes.net$all
 ||cataldo.mastertop100.org$all
 ||cataloochee-ranch.com$all
-||catblob.xyz$all
 ||cateredbykate.co.uk$all
 ||cathday.com.au$all
 ||causehub.com$all
@@ -859,7 +855,6 @@
 ||cfsecuritysolutions.com$all
 ||cfyves.com$all
 ||cgonline.in$all
-||chaimiart.com$all
 ||chainnews-star.com$all
 ||challengepro.cm$all
 ||chalutzproductions.com$all
@@ -956,9 +951,9 @@
 ||cmace.org.uk$all
 ||cmmwebdesign.com$all
 ||cn-infoworld.com$all
-||cnchomedecor.com$all
 ||co.uk.security-check.ga$all
 ||co2022.online$all
+||cobrevinia.xyz$all
 ||cocainerehab-vip.com$all
 ||coccacoffee.am$all
 ||coco-ranking.com$all
@@ -988,7 +983,6 @@
 ||comcity.com$all
 ||comesashoppingmall.com$all
 ||cometcome.co$all
-||cometous.xyz$all
 ||commercialroofingva.com$all
 ||commonlearning.net$all
 ||community.lazypoets.com$all
@@ -1043,6 +1037,7 @@
 ||court-notices.com$all
 ||coverindialive.in$all
 ||covid19registry.online$all
+||covsmrt.com$all
 ||cowbelldundee.com$all
 ||coyax.xyz$all
 ||coyotte.info$all
@@ -1060,6 +1055,7 @@
 ||crazyrockcreative.com$all
 ||createaudience.com$all
 ||createbb.com$all
+||creativeone.biz$all
 ||creativeskillsforlife.com$all
 ||credimarks.com$all
 ||credimor.ga$all
@@ -1137,6 +1133,7 @@
 ||darusalaam.org$all
 ||dastrid.com$all
 ||databaseebook.com$all
+||datdoblaje.com$all
 ||dattaway.net$all
 ||davaachi.ir$all
 ||davemahmarian.com$all
@@ -1183,7 +1180,6 @@
 ||dentoken.com$all
 ||denverfoodrave.com$all
 ||dercoachingring.com$all
-||derricknow.com$all
 ||descargaspsp.org$all
 ||deseneledublate.blogspot.ro$all
 ||designfacilitation.com$all
@@ -1213,6 +1209,7 @@
 ||dgwygekkxi.xyz$all
 ||dharmabadmart.com$all
 ||dianaheuman.com$all
+||diaspora.stemy.me$all
 ||dibsdepot.com$all
 ||dichvuketoangiare.top$all
 ||dicksnanton.com$all
@@ -1269,7 +1266,6 @@
 ||dizzify.me$all
 ||djavax.net$all
 ||djkernal.com$all
-||djphilip.be$all
 ||djsevere.com$all
 ||djuniversoul.com$all
 ||dl.uploadgram.me$all
@@ -1299,7 +1295,6 @@
 ||doktorf1.com$all
 ||dolcefine.com$all
 ||dollarfreedom.co$all
-||doload.org$all
 ||dominicanoff.com$all
 ||dominionfoodie.com$all
 ||domorewearless.com$all
@@ -1342,7 +1337,6 @@
 ||drudayphadke.com$all
 ||drumcorpsmassive.com$all
 ||drumfanfarealmere.nl$all
-||ds2.nashobmenfiles.com$all
 ||dsdgtx.com$all
 ||dsg-inc.net$all
 ||dshedmisre.com$all
@@ -1447,7 +1441,6 @@
 ||elemblo.com$all
 ||elespectrofotometro.com$all
 ||elezzgroup.net$all
-||elfarolatino.com$all
 ||eli360.com$all
 ||eliteresourcess.com$all
 ||eliteseomarketing.com$all
@@ -1486,7 +1479,6 @@
 ||employeeterminationguidebook.com$all
 ||emporioamara.cl$all
 ||emptunes.jimdofree.com$all
-||emydomain.com$all
 ||enablesas.com$all
 ||encasarevista.es$all
 ||encesspervi.com$all
@@ -1523,6 +1515,7 @@
 ||eruditehyderabad.com$all
 ||erui.cam$all
 ||erwinblock.com$all
+||es-franchise.com$all
 ||escalemodels.com$all
 ||escamillaphotography.com$all
 ||escortcontent.in$all
@@ -1743,7 +1736,6 @@
 ||freeclaim.law$all
 ||freecouponcodes.co.nz$all
 ||freedrivernet.info$all
-||freefiles22.xyz$all
 ||freefiles24.xyz$all
 ||freegb.eu$all
 ||freegrace.net$all
@@ -1870,7 +1862,6 @@
 ||girltrip.com$all
 ||givemeoverthe65.xyz$all
 ||gizione.xyz$all
-||gkimlounejkaaw.com$all
 ||gksbijoy.com$all
 ||gladafraidoccur.buzz$all
 ||gladsandto.buzz$all
@@ -2169,6 +2160,7 @@
 ||idepps.com$all
 ||idoloncomic.com$all
 ||idrovolante.com$all
+||idswinpole.casa$all
 ||iedmsu.ru$all
 ||iexpressusa.com$all
 ||iferjar.xyz$all
@@ -2405,6 +2397,7 @@
 ||jornalvertentesnoticias.com.br$all
 ||jornco.com$all
 ||jortan.co.za$all
+||josephkmuscatphotography.com$all
 ||josephkucinski.com$all
 ||joshchandlerblog.com$all
 ||joshkotsay.com$all
@@ -2425,6 +2418,7 @@
 ||jsoranno.com$all
 ||jstabccimvbw.com$all
 ||jtfwdwfbudqiob.com$all
+||judsamwedding.info$all
 ||jughaiman.com$all
 ||juhityagi.com$all
 ||julienbrandt.com$all
@@ -2604,7 +2598,6 @@
 ||lasuntiljust.xyz$all
 ||lasvegasmustangservice.com$all
 ||latinamericanbusinesssummit.com$all
-||latinchanneltv.es$all
 ||latinoreporterdigital.org$all
 ||latinxarts.com$all
 ||laturballe.info$all
@@ -2653,6 +2646,7 @@
 ||lemonadedetroit.com$all
 ||leniomontalverne.com$all
 ||lenpalace.com$all
+||leonpulsa.web.id$all
 ||lepithec.chez.com$all
 ||lerwicklifeboat.shetland.co.uk$all
 ||lesclesdelapetiteenfance.net$all
@@ -2869,7 +2863,6 @@
 ||masterpaito.guru$all
 ||mastersandhim.buzz$all
 ||mastersoeasy.com$all
-||matari-ad.com$all
 ||matkaom.com$all
 ||matomeranking.com$all
 ||matra-datavision.com$all
@@ -2892,6 +2885,7 @@
 ||mcamechanical.com$all
 ||mcdpropertypros.com$all
 ||mcmhandbags.org$all
+||mcms.ae$all
 ||mcscameroun.com$all
 ||mdabir.ir$all
 ||mea-bh.com$all
@@ -3033,6 +3027,7 @@
 ||momentime.com$all
 ||momotop.cn$all
 ||moms4mitt.com$all
+||monashaikh.com$all
 ||moneyscholar.org$all
 ||monklands.co.uk$all
 ||monkslaw.net$all
@@ -3155,6 +3150,7 @@
 ||naturebyteddiesafrique.com$all
 ||naughygirls.info$all
 ||nav.to$all
+||navasfrias.net$all
 ||naveenvishwakarma.tech$all
 ||navi.hassin.net$all
 ||nb99999.net$all
@@ -3233,6 +3229,7 @@
 ||noalcoholads.org$all
 ||nobulk.com$all
 ||nodebtnosweat.com$all
+||noeldescorsaires.com$all
 ||nohkoterawarner.org$all
 ||noidgallery.net$all
 ||noithathaidan.com$all
@@ -3309,7 +3306,6 @@
 ||okansupeigbo.com$all
 ||okarta.net$all
 ||okaybaby.ie$all
-||olandafurniture.com$all
 ||olanology.com$all
 ||oldmanmarkley.com$all
 ||oldnewgame.altervista.org$all
@@ -3441,7 +3437,6 @@
 ||parentspluswi.org$all
 ||parkavenuesafesight.com$all
 ||parkcityhomesource.com$all
-||parkhouseschool.com$all
 ||parlorhawk.com$all
 ||parsonsinteriorwork.org$all
 ||partidoordenyley.es$all
@@ -3564,7 +3559,6 @@
 ||playdat.biz$all
 ||playerupbo.xyz$all
 ||playviz.com$all
-||playzipgames.co$all
 ||pleasurelounge.com.ng$all
 ||pligg.site$all
 ||plugincube.com$all
@@ -3574,6 +3568,7 @@
 ||pnmls.org$all
 ||poconosmountains.net$all
 ||poderosademais.fun$all
+||podlinespodcon.com$all
 ||pointcard.me$all
 ||pointtur.net$all
 ||pokola.tk$all
@@ -3624,7 +3619,6 @@
 ||pragmaticdev.net$all
 ||prajakcrane.com$all
 ||praktischprojectmeubel.nl$all
-||pramji.com$all
 ||pranaview.com$all
 ||prativaresidentialcollege.com$all
 ||precision.limited$all
@@ -3759,7 +3753,6 @@
 ||rana-medical.com$all
 ||randomlongbox.com$all
 ||rapgeekz.com$all
-||raptology.com$all
 ||ratinweb.com$all
 ||raulperrone.com$all
 ||ravensltd.co.uk$all
@@ -3804,7 +3797,6 @@
 ||redbottomsformen.us.com$all
 ||redcapinvestigations.co.uk$all
 ||redhallow.com$all
-||redirect.to$all
 ||redmanproduction.com$all
 ||redpillphilosophy.com$all
 ||redtrckix.com$all
@@ -3830,7 +3822,6 @@
 ||remtrainingcenter.com$all
 ||rennesegypto.free.fr$all
 ||renosell.jp$all
-||rentagirlfriendmanga.online$all
 ||rentmeet.com$all
 ||rentrerenvie.fr$all
 ||repack-mechanicz.com$all
@@ -3848,7 +3839,6 @@
 ||retirementnext.com$all
 ||retrospectiveband.com$all
 ||retutbtbrstxkf.com$all
-||revampcrm.com$all
 ||revergy.us$all
 ||reversemortgagespace.com$all
 ||reviewso.net$all
@@ -3883,7 +3873,6 @@
 ||rmjwkcugppojnnh.com$all
 ||rnanage-icloud.com$all
 ||roadtofpl.xyz$all
-||robaidulalam.com$all
 ||robbinsdalewhizbangdays.com$all
 ||robenslin.com$all
 ||robertanthonydesign.com$all
@@ -3901,7 +3890,6 @@
 ||roicons.com$all
 ||rokuhelp.com$all
 ||rompnstompcenter.net$all
-||romsdeals.com$all
 ||ronin-network.com$all
 ||roobon.net$all
 ||roofappeal.org$all
@@ -3911,7 +3899,6 @@
 ||roseparadeonline.com$all
 ||roshanjha.com$all
 ||rosieteapot.com$all
-||ross-kkm.ru$all
 ||rotenonsen.com$all
 ||rotoden.com$all
 ||roudar.com$all
@@ -3949,7 +3936,6 @@
 ||ryansirois.com$all
 ||s-mail-google.com$all
 ||s.sk-gaming.com$all
-||s128.shop$all
 ||s15342144.onlinehome-server.info$all
 ||s35g52m2.tw$all
 ||s4ssecurityservices.com$all
@@ -4030,7 +4016,6 @@
 ||search.hassin.net$all
 ||search.kcm.co.kr$all
 ||searchatit.club$all
-||searchcelebrityhd.com$all
 ||searchgoldanbonus.com$all
 ||searchlocalhq.com$all
 ||searstownonline.com$all
@@ -4077,7 +4062,6 @@
 ||sergiomur.com$all
 ||seriednews.com$all
 ||serinfluencer.pt$all
-||seriousdownload.com$all
 ||serversengine.com$all
 ||sesecurity.se$all
 ||set4earth.io$all
@@ -4085,7 +4069,6 @@
 ||sexpostoffice.com$all
 ||seyonechithrananda.com$all
 ||sgal.jp$all
-||sgc.org.in$all
 ||sgoc.club$all
 ||sgsbeautify.com$all
 ||shaadivivahindia.com$all
@@ -4125,7 +4108,6 @@
 ||shouzabimpex.com$all
 ||shremonto.xyz$all
 ||shriomsai.com$all
-||shropshire-promotions.co.uk$all
 ||shropshiresecurity.co.uk$all
 ||shuffleupanddeal.com$all
 ||shutterbugremote.com$all
@@ -4287,13 +4269,13 @@
 ||stedrabute.com$all
 ||steelbeltwrestling.com$all
 ||steetother.com$all
+||stefansakic.eu$all
 ||stepnpc.com$all
 ||sterlingindia.in$all
 ||stetgzs.cn$all
 ||steunlokalehandelaars.be$all
 ||stevenwongblog.com$all
 ||stevesidewalk.com$all
-||stggames.com$all
 ||stintireland.com$all
 ||stixsworld.com$all
 ||stl.sujana.com$all
@@ -4321,6 +4303,7 @@
 ||styleshift.com$all
 ||subarist65.ru$all
 ||subhabratamaitra.com$all
+||subhagruha.in$all
 ||sublimacaonapratica.com.br$all
 ||sublimationdesignbest.com$all
 ||submissivesisterhood.com$all
@@ -4333,6 +4316,7 @@
 ||suniproject.org$all
 ||sunnyup.mx$all
 ||sunrico.com$all
+||sunwork.cl$all
 ||supasic.com$all
 ||superitemdeals.com$all
 ||superprocrossfit.com$all
@@ -4389,7 +4373,6 @@
 ||szsdk.top$all
 ||t0vvu7ww.tw$all
 ||taarakmehtakaooltahchashma.com$all
-||taboadasanz.es$all
 ||tabsugar.com$all
 ||tadalafiles.com$all
 ||tafave.com$all
@@ -4416,7 +4399,6 @@
 ||tao.china-ef.com$all
 ||tapchixuyenviet.com$all
 ||tapoil.com.au$all
-||tardaguila.com.uy$all
 ||taste-spain.com$all
 ||tatianadance.com$all
 ||taxaccountssolutions.co.uk$all
@@ -4433,6 +4415,7 @@
 ||teambernieny.org$all
 ||teamnetwolf.com$all
 ||teamradley.com$all
+||teamstrobelight.com$all
 ||teamviewer-com.ru$all
 ||teamviewer-setup.ru$all
 ||tech-daily.net$all
@@ -4450,7 +4433,6 @@
 ||teleamd.com$all
 ||telechargerjeuxcrack.com$all
 ||telekarta.pro$all
-||teleperformance.co.uk$all
 ||tellsubway.world$all
 ||temgthrop.com$all
 ||templatekingdom.com$all
@@ -4473,7 +4455,6 @@
 ||tftraders.com.br$all
 ||tgmcn.com$all
 ||thailandbusinessplatform.com$all
-||thatstudio.net$all
 ||the31news.com$all
 ||the6340.com$all
 ||theaccomplishedim.com$all
@@ -4524,7 +4505,6 @@
 ||themarketingchef.com$all
 ||themedicann.com$all
 ||themenumanonline.com$all
-||themerc.com.au$all
 ||themes.beryl-project.org$all
 ||themfamily.fr$all
 ||themichaelrosenbaum.com$all
@@ -4543,8 +4523,10 @@
 ||thephotomemories.in$all
 ||thepinkheartgirl.blogspot.de$all
 ||theprintpress.com.au$all
+||theproductkeys.com$all
 ||thepropfolio.co$all
 ||theprudentwife.com$all
+||thequeenmom.com$all
 ||thequestofheart.com$all
 ||theransomcollective.com$all
 ||therau.info$all
@@ -4591,6 +4573,7 @@
 ||thundersmm.com$all
 ||tibapharma.com$all
 ||tibetanmastiff.ru$all
+||ticketingsoftwares.com$all
 ||ticomhost.com$all
 ||tiger-g.com$all
 ||tiggernews.com$all
@@ -4621,7 +4604,6 @@
 ||tommart.com$all
 ||tondar.net$all
 ||toocheapblondes.com$all
-||toofancom.com$all
 ||toolguypr.com$all
 ||toolsadviser.com$all
 ||top100nudism.com$all
@@ -4716,12 +4698,10 @@
 ||turnedto.xyz$all
 ||turtlebayneworleans.com$all
 ||tushawebsites.com$all
-||tutorsploit.com$all
 ||tuyensinhdongnai.edu.vn$all
 ||tuzmp3.co$all
 ||tvetcourses.my$all
 ||tvpicks.net$all
-||twiriock.com$all
 ||twistednturned.com$all
 ||twsserver.com$all
 ||txgrm.com$all
@@ -4789,6 +4769,7 @@
 ||update-it-now.com$all
 ||updatequickhighlytheproduct.vip$all
 ||updatesgps.com$all
+||upfilemienphi.com$all
 ||uploadware.com$all
 ||upsworthy.com$all
 ||ur-l.ru$all
@@ -4802,6 +4783,7 @@
 ||url-q.com$all
 ||usadrive-ins.com$all
 ||usadye.ru$all
+||usbusinessdirectorylistings.com$all
 ||usemono.com$all
 ||useprotection.me$all
 ||user52406.majorcore.space$all
@@ -4824,6 +4806,7 @@
 ||vadomain.com$all
 ||valleyrams.co.uk$all
 ||vancouverislandoutdoor.com$all
+||vandanafoods.com$all
 ||vanilla-andvelvet.blogspot.nl$all
 ||varandao.com.br$all
 ||vardancards.com$all
@@ -4836,7 +4819,6 @@
 ||vaymarket.ru$all
 ||vbcce.org$all
 ||vdawahfrgpo.com$all
-||vdeemgpbyu.xyz$all
 ||vecaxvoothv.com$all
 ||veclip.com$all
 ||vedemlumea.ro$all
@@ -4896,7 +4878,6 @@
 ||vlatkovic.net$all
 ||vmteyhpxdedt.com$all
 ||vn-property.com$all
-||vnameu.net$all
 ||vnfhosting.eu$all
 ||voceaconstantei.ro$all
 ||vodkaandarose.blogspot.co.uk$all
@@ -5050,7 +5031,6 @@
 ||wkoinfo.webredirect.org$all
 ||wldcsbahy.com$all
 ||wlshuluck.net$all
-||wminformatica.net$all
 ||wmjuice.com$all
 ||wmmxjlgvbupx.com$all
 ||wnidciqglxnkda.com$all
