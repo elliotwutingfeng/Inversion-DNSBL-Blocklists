@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-  <img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/Inversion-DNSBL-Blocklists?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
+  <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/Inversion-DNSBL-Blocklists?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
   <a href="https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/commits"><img src="https://img.shields.io/github/last-commit/elliotwutingfeng/Inversion-DNSBL-Blocklists?label=Last%20Updated&style=for-the-badge" alt="Last Updated"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-GREEN?style=for-the-badge" alt="GitHub license"/></a>
   </p>
