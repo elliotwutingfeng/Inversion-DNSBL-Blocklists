@@ -13,8 +13,10 @@ jobs:
 
     - name: create ABP lists
       run: |
-          sed 's/^/\|\|/;s/$/\$all/' Google_hostnames.txt > Google_hostnames_ABP.txt
-          sed 's/^/\|\|/;s/$/\$all/' Google_hostnames_light.txt > Google_hostnames_light_ABP.txt
+          sed 's/^/\|\|/;s/$/\^/' Google_hostnames.txt > Google_hostnames_ABP.txt
+          sed 's/^/\|\|/;s/$/\^/' Google_hostnames_light.txt > Google_hostnames_light_ABP.txt
+          sed 's/^/\|\|/;s/$/\^$all/' Google_hostnames.txt > Google_hostnames_UBO.txt
+          sed 's/^/\|\|/;s/$/\^$all/' Google_hostnames_light.txt > Google_hostnames_light_UBO.txt
 
     - name: commit files
       run: |
