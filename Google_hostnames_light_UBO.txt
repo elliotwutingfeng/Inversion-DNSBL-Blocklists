@@ -1919,6 +1919,7 @@
 ||express-news.me^$all
 ||expressapps.xyz^$all
 ||expressconstruction.net^$all
+||exshipsmuggle.digital^$all
 ||extremephonecards.com^$all
 ||eyesonoz.com^$all
 ||eyjservices.com^$all
