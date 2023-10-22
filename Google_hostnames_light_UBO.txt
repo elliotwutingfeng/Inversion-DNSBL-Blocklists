@@ -45,6 +45,7 @@
 ||2lo.ru^$all
 ||2maimai.com^$all
 ||2plr.com^$all
+||2qlam.com^$all
 ||2skyair.com^$all
 ||2x45.pro^$all
 ||3-6t.com^$all
@@ -255,11 +256,9 @@
 ||agooage.com^$all
 ||agri-tecture.com^$all
 ||agrocapital.com.ua^$all
-||agrodiff.com^$all
 ||agromisa.org^$all
 ||ahand.org^$all
 ||ahjtxx.com^$all
-||ahkim.com^$all
 ||ahn-cr.info^$all
 ||ahsolarpower.com^$all
 ||aicsite.com.au^$all
@@ -547,6 +546,7 @@
 ||asianconservatives.com^$all
 ||asiascoutnetwork.com^$all
 ||askmestudent.com^$all
+||askushosting.com^$all
 ||asm.devstarit.com^$all
 ||asps.live^$all
 ||assembleiadedeusfoz.com.br^$all
@@ -634,7 +634,6 @@
 ||ayurveda-crimea.ru^$all
 ||az4ne.com^$all
 ||azbunny.com^$all
-||azoncontentauthority.com^$all
 ||azuka.in^$all
 ||azwebnet.com^$all
 ||azzaroceramic.com^$all
@@ -671,6 +670,7 @@
 ||barnettforkansas.com^$all
 ||barryspost.net^$all
 ||bartbratke.com^$all
+||basecampstudio.org^$all
 ||basexcamp.com^$all
 ||baskino.biz^$all
 ||bassanoschool.ca^$all
@@ -881,6 +881,7 @@
 ||brackenburncrew.org.za^$all
 ||bragi-studio.com^$all
 ||brainbanana.se^$all
+||braintel.net.pk^$all
 ||brandbuildingmarketing.net^$all
 ||branddevshop.com^$all
 ||bratatech.com^$all
@@ -981,6 +982,7 @@
 ||canada-jobs.com^$all
 ||canadapost-tracking-postescanada.ru^$all
 ||canadianapharmdirect.ru^$all
+||canaldinheirolimpo.xyz^$all
 ||canarstereo.com^$all
 ||canbyasparagusfarm.com^$all
 ||cancerfreelungs.org^$all
@@ -1005,7 +1007,6 @@
 ||caritasdequeretaro.org^$all
 ||carlababb.com^$all
 ||carmencusack.com^$all
-||carminedavisworld.com^$all
 ||carolinaschoolofmassage.com^$all
 ||carolyncollado.com^$all
 ||carpasjaguar.com^$all
@@ -1069,7 +1070,6 @@
 ||cels.top^$all
 ||celsolemes.com^$all
 ||cemsd.pt^$all
-||cemsonline.info^$all
 ||cenotedive.com^$all
 ||centralqq.site^$all
 ||ceramiques.re^$all
@@ -1245,6 +1245,7 @@
 ||cofactor.co^$all
 ||coffeeconnectionpoets.com^$all
 ||coffeetossy.com^$all
+||cognitiveconvergence.com^$all
 ||cognitiveiq.org^$all
 ||cohonduras.com^$all
 ||coinfas.com^$all
@@ -1501,7 +1502,6 @@
 ||davisjs.com^$all
 ||davislawyerpc.com^$all
 ||davnorinsurance.com^$all
-||dawatgaran.com^$all
 ||dazeinamaze.com^$all
 ||dbtechlabs.com^$all
 ||dcache.ml^$all
@@ -1803,6 +1803,7 @@
 ||earthsummit.info^$all
 ||easternrope.com^$all
 ||eastlondonvintage.co.uk^$all
+||eastwesttrack.com^$all
 ||easybusiness-partners.com^$all
 ||easyfinder.su^$all
 ||easyfreesantaletter.com^$all
@@ -2263,6 +2264,7 @@
 ||fullmurah.com^$all
 ||fullvercrack.com^$all
 ||fuma.com.vn^$all
+||fumdec.org^$all
 ||function.name^$all
 ||fundacaolacorosa.com^$all
 ||fundacionteachile.cl^$all
@@ -2270,6 +2272,7 @@
 ||funnelinc.com^$all
 ||funnygames.pro^$all
 ||funnypicturesgallery.net^$all
+||funsocialclub.com^$all
 ||funxion.com^$all
 ||furfreeshopping.com^$all
 ||furinformationcenter.eu^$all
@@ -2662,7 +2665,6 @@
 ||hosam.ws^$all
 ||hosimon.com^$all
 ||host07.info^$all
-||hostazaran.ir^$all
 ||hostboxing.co.uk^$all
 ||hostcoast.com^$all
 ||hosti.ge^$all
@@ -2689,7 +2691,6 @@
 ||howtocureshingles.com^$all
 ||howtomonetize.me^$all
 ||hpcwireless.com^$all
-||hqmode.com^$all
 ||hqpb.com.br^$all
 ||hsbc.us^$all
 ||hsfd.net^$all
@@ -2756,6 +2757,7 @@
 ||ideetcie.com^$all
 ||identifyyourself.biz^$all
 ||idesol.com.br^$all
+||idiomavalencia.com^$all
 ||idle-demo-51330847.web.app^$all
 ||idmcbc.com^$all
 ||idolnewsing.com^$all
@@ -2810,7 +2812,6 @@
 ||independencetrail.org^$all
 ||independentbookmarketinggroup.com^$all
 ||indiadailyphoto.com^$all
-||indianakite.com^$all
 ||indiashoppy.in^$all
 ||indiasphere.net^$all
 ||indiecinema.es^$all
@@ -2861,6 +2862,7 @@
 ||innovativevinyl.com^$all
 ||inoutweile.com^$all
 ||insapundit.com^$all
+||insidetrip.com^$all
 ||insomniaspecialist.com^$all
 ||inspiredprojects.com^$all
 ||instaembed.com^$all
@@ -2910,6 +2912,7 @@
 ||ip-141-94-190.eu^$all
 ||ip-176-31-15.eu^$all
 ||ip-46-105-39.eu^$all
+||ip-66-70-225.net^$all
 ||ipanoramaprints.com^$all
 ||ipassion.it^$all
 ||ipc-dzhankoy.org^$all
@@ -3341,7 +3344,6 @@
 ||leftysautomotive.com^$all
 ||legitdispensaryonline.com^$all
 ||legitgang.com^$all
-||legitnaijanews.com^$all
 ||legitshook.com^$all
 ||legoutdularge.fr^$all
 ||legra.ph^$all
@@ -3670,7 +3672,6 @@
 ||mentalspeakradio.com^$all
 ||meoma.org^$all
 ||mercanhost.com^$all
-||mermaidmagicglitter.com^$all
 ||merosathitv.com^$all
 ||meta-music.ru^$all
 ||meta-ua.space^$all
@@ -3733,7 +3734,6 @@
 ||militaryminiatureshq.com^$all
 ||milk-boy.com^$all
 ||milleniart.com^$all
-||milleniumtalk.co.uk^$all
 ||millionmileblog.com^$all
 ||mindsetmax.com^$all
 ||minecraftors.ru^$all
@@ -3891,6 +3891,7 @@
 ||mycarinsurance.asia^$all
 ||mycdbag.com^$all
 ||mycialiszuri.com^$all
+||mycottagelove.com^$all
 ||myctrlaltdel.com^$all
 ||mydealpoint.com^$all
 ||mydiy.pl^$all
@@ -3910,6 +3911,7 @@
 ||myitzy.com^$all
 ||mykolmered.com^$all
 ||mylandlordreport.com^$all
+||mymicrosite.com^$all
 ||mymilliondollarmovie.com^$all
 ||mynba2k20.xyz^$all
 ||mynetp.com^$all
@@ -4428,6 +4430,7 @@
 ||pine12s.vip^$all
 ||pineapplesaloon.com^$all
 ||pingddns.com^$all
+||pinkkayakpress.com^$all
 ||pinkshadeshop.com^$all
 ||pinzerofive.live^$all
 ||pipolife.net^$all
@@ -4544,7 +4547,6 @@
 ||preferredod.com^$all
 ||pregnancyandfitness.org^$all
 ||premier-plumbing.org^$all
-||premierecollege.edu^$all
 ||prepaidsim.jp^$all
 ||present-box.ru^$all
 ||presentvaluesoftware.com^$all
@@ -4565,7 +4567,6 @@
 ||prix-j-plasma-renuvion.com^$all
 ||priyammalhotra.com^$all
 ||priyanadkarni.com^$all
-||priyobrand.com^$all
 ||prizeably.org^$all
 ||prmflltration.com^$all
 ||pro-form-tech.com^$all
@@ -4752,6 +4753,7 @@
 ||redevelopmenteconomics.com^$all
 ||redfeildance.com^$all
 ||redfl0wrz.click^$all
+||redheadsinc.com^$all
 ||redirect.sgtips.com^$all
 ||redlabsusa.com^$all
 ||redmalagademediacionescolar.org^$all
@@ -4770,7 +4772,6 @@
 ||remodelquicktips.com^$all
 ||renay.co.uk^$all
 ||renhealthcare.org^$all
-||renosell.jp^$all
 ||rentacarkadikoy.com^$all
 ||rentmeet.com^$all
 ||rentmyisland.com^$all
@@ -4865,6 +4866,7 @@
 ||rocketmoney.dev^$all
 ||rocketposts.com^$all
 ||rockologyband.com^$all
+||rockymountainastrologer.com^$all
 ||rockymountainingredients.com^$all
 ||rodchatatickets.com^$all
 ||rodocide.com.br^$all
@@ -4880,6 +4882,7 @@
 ||romanianculture.us^$all
 ||romaniatravel.ru^$all
 ||romb.zt.ua^$all
+||romebymouth.com^$all
 ||romiceramics.com^$all
 ||rongpan.net^$all
 ||ronin-network.com^$all
@@ -5348,7 +5351,6 @@
 ||spotifymagazine.co.uk^$all
 ||sppmis.com^$all
 ||spsbiryanihouse.com^$all
-||spuntinosf.com^$all
 ||spvgg-binsdorf.de^$all
 ||sqoe.ru^$all
 ||srcwhi.top^$all
@@ -5661,6 +5663,7 @@
 ||theloveofthetruth.com^$all
 ||theluckersurvey.top^$all
 ||them.in^$all
+||themadmeatball.com^$all
 ||themastercraftbrewery.com^$all
 ||themearabic.com^$all
 ||themefie.com^$all
@@ -6193,12 +6196,10 @@
 ||webstackpro.com^$all
 ||webtech-portal.com^$all
 ||webtoolsystems.ca^$all
-||webturbonet.com.br^$all
 ||webzag.com^$all
 ||wed-b.shop^$all
 ||wedden-op-sport.com^$all
 ||wedding.krokus73.ru^$all
-||wediscusspets.com^$all
 ||weeddeliveryvancouver.joomla.com^$all
 ||weedlegal.com^$all
 ||weedthemes.net^$all
@@ -6580,6 +6581,7 @@
 ||www.video18x.com^$all
 ||www.videoanimationinc.com^$all
 ||www.viralmarketinghub.com^$all
+||www.virtualentrepreneursassociation.org^$all
 ||www.visa-gift.com^$all
 ||www.voinru.com^$all
 ||www.vort3x.gg^$all
@@ -6627,6 +6629,7 @@
 ||xpredesloviex.com^$all
 ||xptobrasil.com.br^$all
 ||xryjyfb.cn^$all
+||xsquadaffiliates.com^$all
 ||xstockdubai.com^$all
 ||xvkidr.top^$all
 ||xxivmagazine.com.au^$all
