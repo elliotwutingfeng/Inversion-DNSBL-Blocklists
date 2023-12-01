@@ -261,6 +261,7 @@
 ||aiboc.org^$all
 ||aicsite.com.au^$all
 ||aiea.ie^$all
+||aighanim.com^$all
 ||aihaiyang.org^$all
 ||aiimss.com^$all
 ||aijushu.com^$all
@@ -419,6 +420,7 @@
 ||anovelkitchen.com^$all
 ||antabusexr.com^$all
 ||anthonyframe.com^$all
+||anthonyguidry.org^$all
 ||antidotegames.com^$all
 ||antique-edutainment.com^$all
 ||antiviruscheck.info^$all
