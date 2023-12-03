@@ -1834,6 +1834,7 @@
 ||efunlist.com^$all
 ||ege-english.ru^$all
 ||egeekytech.com^$all
+||eglaitou.com^$all
 ||egoistmassage.am^$all
 ||egsearch.com^$all
 ||ehomeovision.com^$all
@@ -3102,6 +3103,7 @@
 ||katarzynawala.pl^$all
 ||katepanth.pl^$all
 ||katerinejanelle.com^$all
+||katherinejohn.com^$all
 ||kathscorner.com^$all
 ||katieandbarry.com^$all
 ||kavyaaccount.in^$all
