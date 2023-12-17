@@ -378,6 +378,7 @@
 ||amirage.net^$all
 ||amitagorji.com^$all
 ||amitechlabs.com^$all
+||amm-c.ru^$all
 ||amnestyhk.org^$all
 ||amolwaghmodepatil.com^$all
 ||amorix.biz^$all
@@ -678,7 +679,6 @@
 ||bdobson.net^$all
 ||beachglowevent.com^$all
 ||beamash.com^$all
-||beastshower.xyz^$all
 ||beasze.live^$all
 ||beautifullike.com^$all
 ||beautifulsaving.com^$all
@@ -799,7 +799,6 @@
 ||blacklabor.org^$all
 ||blackmansionsmusic.com^$all
 ||blackmarketimages.com^$all
-||blacknexus.net^$all
 ||blacksmithsurgical.com^$all
 ||blateshukria.space^$all
 ||bleempowered.com^$all
@@ -877,6 +876,7 @@
 ||bragi-studio.com^$all
 ||brainbanana.se^$all
 ||brainless-einstein.com^$all
+||braintel.net.pk^$all
 ||branddevshop.com^$all
 ||bratatech.com^$all
 ||bratiquehelene.com^$all
@@ -1078,7 +1078,6 @@
 ||changeskingo.com^$all
 ||changidesign.com^$all
 ||changingourdefault.com^$all
-||chaosandkiddos.com^$all
 ||chapelle-crecy.com^$all
 ||chapmancompany.com^$all
 ||charliefell.com^$all
@@ -1135,9 +1134,11 @@
 ||chrislowrymusic.com^$all
 ||christchurchnj.org^$all
 ||christianbookpreviews.com^$all
+||christiannewsservice.com^$all
 ||christinegautreaux.com^$all
 ||christybaron.com^$all
 ||chriswhitewriter.com^$all
+||chromebrowse.com^$all
 ||chto-lechit.su^$all
 ||chuckcreekmur.com^$all
 ||chungdokwan.org.ve^$all
@@ -1146,7 +1147,6 @@
 ||cialisdf.com^$all
 ||cialisedpill.com^$all
 ||cialiswithoutadoctorprescription.com^$all
-||ciaoblog.net^$all
 ||cigaeat.com^$all
 ||cilismg.com^$all
 ||cimarronclub.com^$all
@@ -1568,7 +1568,6 @@
 ||dey-wc.cloud^$all
 ||dfjelement.com^$all
 ||dgssdfgs.top^$all
-||dhlfreight.com^$all
 ||dhobi.win^$all
 ||dhriitilearning.com^$all
 ||di07.biz^$all
@@ -1848,7 +1847,6 @@
 ||eip.org.pe^$all
 ||eitaro.jp^$all
 ||ejap.org^$all
-||ejudged.com^$all
 ||ekalink.ru^$all
 ||el-fix.com^$all
 ||el-gusano.com^$all
@@ -1963,6 +1961,7 @@
 ||escueladedeportes.cl^$all
 ||esecuritys.com^$all
 ||eskayvienexus.net^$all
+||esoesvida.com^$all
 ||esoftworld.co.kr^$all
 ||esosh11.ru^$all
 ||espresso-online.info^$all
@@ -2376,7 +2375,6 @@
 ||giay4men.com^$all
 ||gift-out.cloud^$all
 ||gift4filipino.com^$all
-||giftcardmallmygift.com^$all
 ||giga.uno^$all
 ||giganticurl.com^$all
 ||gigiorsillo.com^$all
@@ -2538,7 +2536,6 @@
 ||harfordneighbors.net^$all
 ||harrismarkshome.com^$all
 ||harrisontenpas.com^$all
-||harryfergusonmemorial.com^$all
 ||hartbootcamp.com^$all
 ||harveybrough.com^$all
 ||has2021.gr^$all
@@ -2760,7 +2757,6 @@
 ||igaming360.com.br^$all
 ||igbsinc.com^$all
 ||igc-grapho.net^$all
-||igetforfree.com^$all
 ||igetmyprize.com^$all
 ||iglesialaboyera.com^$all
 ||ign190.com^$all
@@ -3208,6 +3204,7 @@
 ||krishitchcockmusic.com^$all
 ||kristenbenson.com^$all
 ||kristinearly.com^$all
+||krita.su^$all
 ||ksmithinspires.com^$all
 ||ktverbakk.com^$all
 ||ku777.co^$all
@@ -3241,6 +3238,7 @@
 ||lacagettelocale.fr^$all
 ||lacasagroups.com^$all
 ||lachongcorp.com^$all
+||lacreta.jp^$all
 ||laculturagt.com^$all
 ||ladagebeheer.com^$all
 ||lagauge.us^$all
@@ -3286,7 +3284,6 @@
 ||latannerie.pagesperso-orange.fr^$all
 ||latin-e.com^$all
 ||latorturanoescultura.com^$all
-||laturballe.info^$all
 ||lauber.de^$all
 ||laughing-inside.com^$all
 ||launchadvancedhighlytheproduct.vip^$all
@@ -3509,7 +3506,6 @@
 ||magentotechnology.com^$all
 ||maggiecoulombe.com^$all
 ||magic-hand.vercel.app^$all
-||maidasneeded.com^$all
 ||maidsandmorecleaning.com^$all
 ||mailbox-notification.com^$all
 ||mainjitu.com^$all
@@ -3520,7 +3516,6 @@
 ||makemysitemobile.com^$all
 ||makotocorp.co.jp^$all
 ||malaikahgroup.com^$all
-||malamdarfur.org^$all
 ||malenhancement.ltd^$all
 ||mall1899.com^$all
 ||maltedswu.com^$all
@@ -3649,12 +3644,10 @@
 ||merosathitv.com^$all
 ||meta-music.ru^$all
 ||meta-ua.space^$all
-||metafreelancer.com^$all
 ||metalfreakweb.com^$all
 ||metall.com.cn^$all
 ||metanewspouch.info^$all
 ||metarosefinch.com^$all
-||metatagonline.com^$all
 ||metaversewealthacademy.io^$all
 ||metiers.leden.org^$all
 ||metnights.com^$all
@@ -3707,7 +3700,6 @@
 ||millenniumentertainment.me^$all
 ||millionmileblog.com^$all
 ||miltonious.com^$all
-||mimshack.co.za^$all
 ||minati.ir^$all
 ||mindsetmax.com^$all
 ||minecraftors.ru^$all
@@ -3819,7 +3811,6 @@
 ||mrpdok50.cn^$all
 ||mrproductreviews.info^$all
 ||mrwowsemporium.com^$all
-||msacapital.com.br^$all
 ||mscottspenceportraits.com^$all
 ||msidalocalcouncil.com^$all
 ||msoffice-365.com^$all
@@ -3989,7 +3980,6 @@
 ||newwritersinterface.com^$all
 ||newyorkancestry.com^$all
 ||newyorksri.com^$all
-||nexcar.ir^$all
 ||nexilis-hobbies.com^$all
 ||nexionnetworking.com^$all
 ||nextjs-hasura-boilerplate.vercel.app^$all
@@ -4017,7 +4007,6 @@
 ||niranjanranade.com^$all
 ||nirgryn.com^$all
 ||nitaclaise.com^$all
-||nitrokod.com^$all
 ||nitronet.net^$all
 ||nitzansaar.com^$all
 ||njrb.com.cn^$all
@@ -4217,6 +4206,7 @@
 ||orenda-bg.net^$all
 ||oreopolis.com^$all
 ||organiccorsetusa.com^$all
+||organizeapp.org^$all
 ||organizirai.com^$all
 ||orhanbhr.com^$all
 ||oricut.com^$all
@@ -4368,7 +4358,6 @@
 ||perubatan.org^$all
 ||pervasistx.com^$all
 ||petanimalguide.com^$all
-||peterborten.com^$all
 ||peterbrucephoto.com^$all
 ||petercedenoreview.com^$all
 ||peterjoelharrison.com^$all
@@ -4420,6 +4409,7 @@
 ||pirate3.webcindario.com^$all
 ||pivix.com^$all
 ||piwpak.com^$all
+||pixelreview.co.za^$all
 ||pixpo.net^$all
 ||pizza-poop.ws^$all
 ||pjschafer.com^$all
@@ -4557,6 +4547,7 @@
 ||priyammalhotra.com^$all
 ||priyanadkarni.com^$all
 ||prmflltration.com^$all
+||pro-flugplatz-konstanz.de^$all
 ||pro-form-tech.com^$all
 ||pro-swapper.com^$all
 ||proactivecomputersupport.com^$all
@@ -4620,7 +4611,6 @@
 ||pujapd.top^$all
 ||pulaupramuka-indonesia.com^$all
 ||pulpfictions.xyz^$all
-||pulsemouse.com^$all
 ||puppy.cafe^$all
 ||puraforceremedies.com^$all
 ||pureblogic.com^$all
@@ -4763,7 +4753,6 @@
 ||rentacarkadikoy.com^$all
 ||rentes-cordoba.info^$all
 ||rentmeet.com^$all
-||rentmyisland.com^$all
 ||repairvacuumcleaner.ir^$all
 ||replacedrive.com^$all
 ||reporters-dz.com^$all
@@ -5050,6 +5039,7 @@
 ||secure-ua.top^$all
 ||secure-ua.website^$all
 ||security-check.ga^$all
+||security-license.com^$all
 ||security-my-account.ru^$all
 ||security-protect.org^$all
 ||securityedition.com^$all
@@ -5470,7 +5460,6 @@
 ||sy369.net^$all
 ||syakenya.info^$all
 ||sycowl.com^$all
-||sydcar.com^$all
 ||syeuaw.top^$all
 ||synchighlydevelopedtheproduct.vip^$all
 ||syntax.com.au^$all
@@ -5505,6 +5494,7 @@
 ||tanglenotices.com^$all
 ||tanglewoodretreat.co.nz^$all
 ||tangovagabond.com^$all
+||tankfilthhounds.net^$all
 ||tanpixel.com^$all
 ||taoli99.com^$all
 ||taotechingdaily.com^$all
@@ -5633,6 +5623,7 @@
 ||theipodspot.com^$all
 ||theisef.org^$all
 ||thejunkietwins.com^$all
+||thekingofvapes.com^$all
 ||thekrapress.com^$all
 ||thelawportal.co.uk^$all
 ||thelenassoc.com^$all
@@ -5739,7 +5730,6 @@
 ||tm-znak.ru^$all
 ||tmamediapodcast.com^$all
 ||tmedia.de^$all
-||tmklink.com^$all
 ||tntapk.com^$all
 ||to5fb9.icu^$all
 ||tobaccocontrolintegrity.com^$all
@@ -5797,7 +5787,6 @@
 ||touaru.ru^$all
 ||touchbook.xyz^$all
 ||touchousindia.com^$all
-||touchsmarthomework.com^$all
 ||toursexplorer.com^$all
 ||tourtech.net^$all
 ||towersoflondonfilms.com^$all
@@ -6022,6 +6011,7 @@
 ||vengbers.com^$all
 ||ventyx.com^$all
 ||venus-venus1.top^$all
+||venyl.net^$all
 ||verify-moderators-discord.com^$all
 ||verizonsurveys.today^$all
 ||veronica-castro.com^$all
@@ -6104,6 +6094,7 @@
 ||vnustravel.com^$all
 ||voceabasarabiei.com^$all
 ||vodkaandarose.blogspot.co.uk^$all
+||voice-reason.cfd^$all
 ||voicee.co^$all
 ||voiceland.services^$all
 ||voicer.com^$all
@@ -6344,6 +6335,7 @@
 ||www.celeb-de-tomato.com^$all
 ||www.celulardireto.com.br^$all
 ||www.cesseguranca.com.br^$all
+||www.chaosandkiddos.com^$all
 ||www.chessonlaw.com^$all
 ||www.chq-inc.com^$all
 ||www.circusmaximusfestival.com^$all
@@ -6397,13 +6389,13 @@
 ||www.funisland.com^$all
 ||www.funtasticecards.com^$all
 ||www.gacoan88.com^$all
+||www.gate.ac^$all
 ||www.gem-up.com^$all
 ||www.geosymposium.org^$all
 ||www.goeasysmile.com^$all
 ||www.goldenlinkdigital.com^$all
 ||www.googleplusblog.it^$all
 ||www.gourmetchinahouse.com^$all
-||www.gsmplus.vip^$all
 ||www.guitflix.com^$all
 ||www.haliburtonchamber.com^$all
 ||www.hannahmwells.com^$all
@@ -6496,6 +6488,7 @@
 ||www.reaching.to^$all
 ||www.readingstash.com^$all
 ||www.redknibbles.com^$all
+||www.rentmyisland.com^$all
 ||www.reuvenjepsteinlaw.com^$all
 ||www.revistaespigol.com^$all
 ||www.riffcityguitaroutlet.com^$all
@@ -6539,6 +6532,7 @@
 ||www.superslang.de^$all
 ||www.susymassetti.com^$all
 ||www.sxcallahaninc.com^$all
+||www.sydcar.com^$all
 ||www.tagami-bunguten.com^$all
 ||www.tazfortegalore.com^$all
 ||www.techmediatune.com^$all
@@ -6667,6 +6661,7 @@
 ||yowisata.com^$all
 ||ysaevents.com^$all
 ||yslearn.com^$all
+||ytauthtest.vercel.app^$all
 ||yuletreefarm.com^$all
 ||yuregiremlak.com^$all
 ||yuugigyou.net^$all
