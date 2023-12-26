@@ -91,7 +91,6 @@
 ||77seg.com.br^$all
 ||78-violet.com^$all
 ||790talknow.com^$all
-||7cic.com^$all
 ||7figureadvisor.com^$all
 ||7shw1.com^$all
 ||7uioertsed.com^$all
@@ -151,7 +150,6 @@
 ||ac2u.asia^$all
 ||acasf.com^$all
 ||accademiadelmonferrato.com^$all
-||accelpitch.com^$all
 ||accenn.in^$all
 ||acceptsearch.com^$all
 ||accessearth.azurewebsites.net^$all
@@ -325,6 +323,7 @@
 ||alorkolana.com^$all
 ||aloyad.com^$all
 ||alpandeire.com^$all
+||alpha66.info^$all
 ||alphainternational.com.my^$all
 ||alphatechhome.com^$all
 ||alpileandiet.services^$all
@@ -875,6 +874,7 @@
 ||brayanflores.com^$all
 ||breannmcgregor.com^$all
 ||breckenridge-hills.mo.us^$all
+||brett-atkinson.net^$all
 ||bretthit.com^$all
 ||brettmack.me^$all
 ||brevard-realestate.com^$all
@@ -937,12 +937,12 @@
 ||c-lr.net^$all
 ||c7digital.com^$all
 ||caae-eg.com^$all
+||cabexperiences.com^$all
 ||cabura.beer^$all
 ||cache-dns.com^$all
 ||cactusbistro.com^$all
 ||cactuscomputers.com.au^$all
 ||cadaflora.com^$all
-||cadaservices.net^$all
 ||caelestinum.digital^$all
 ||cafe-in.de^$all
 ||cahuengapethospital.com^$all
@@ -976,7 +976,6 @@
 ||capedeli.com^$all
 ||capnemos.com^$all
 ||capnemoschicago.com^$all
-||caprivi.biz^$all
 ||captivsales.com^$all
 ||caramerica.com^$all
 ||carauntukmembuat.com^$all
@@ -1232,7 +1231,6 @@
 ||colabsforcauses.com^$all
 ||colectivomuuu.org^$all
 ||collabbro.com^$all
-||collaborativelifecoaching.com^$all
 ||collect-a-mag.com^$all
 ||coloors.xyz^$all
 ||coloradowaterfowl.com^$all
@@ -1327,12 +1325,12 @@
 ||crackedaps.com^$all
 ||crackedpc.co^$all
 ||crackerjacker.com^$all
+||cracklink.info^$all
 ||cracksarena.com^$all
 ||cracksmod.com^$all
 ||cracovieavecagnes.com^$all
 ||crafish.cn^$all
 ||craneveyor.us^$all
-||crazylifehacks.com^$all
 ||crcal.org^$all
 ||crcoinico.com^$all
 ||creative3design.net^$all
@@ -1405,13 +1403,13 @@
 ||cyber-lynk.com^$all
 ||cyberloaf.com^$all
 ||cybernetrs.com.br^$all
-||cybersafe.mcttrainingconsultant.com^$all
 ||cyberstratege.com^$all
 ||cychron.com^$all
 ||cyfaircal.com^$all
 ||cygjdkapp.top^$all
 ||cygwin.parentingamerica.com^$all
 ||cyndiseidler.com^$all
+||cynergihealth.com^$all
 ||cytungmaritimemuseum.com^$all
 ||czxfv.cyou^$all
 ||d-log.net^$all
@@ -1532,6 +1530,7 @@
 ||deref.es^$all
 ||derekcedwards.com^$all
 ||dermatocosmetologie.ro^$all
+||desakupekalongan.id^$all
 ||desarrollomor.com^$all
 ||descargarageofempires.com^$all
 ||designbookpress.com^$all
@@ -1556,6 +1555,7 @@
 ||devxstudiv.org^$all
 ||dewadunia.com^$all
 ||dfjelement.com^$all
+||dfsfireworks.com^$all
 ||dgssdfgs.top^$all
 ||dhobi.win^$all
 ||dhriitilearning.com^$all
@@ -1787,6 +1787,7 @@
 ||eaxieinfinity.com^$all
 ||eaysam.com^$all
 ||ebelfarewe.com^$all
+||ebtida.com^$all
 ||ebwptg.top^$all
 ||ecafconstruction.com^$all
 ||ecarecenters.com^$all
@@ -1929,7 +1930,6 @@
 ||entrepreneurfuel.com^$all
 ||entry4hide.cyou^$all
 ||enttuth.org.np^$all
-||entven.com^$all
 ||envangmedia.com^$all
 ||environmentalsurfacesolutions.com^$all
 ||enviropartners.com.au^$all
@@ -2073,7 +2073,6 @@
 ||feedture.com^$all
 ||feelingautoparts.com^$all
 ||feiba365.com^$all
-||feminoteka.pl^$all
 ||fendihandbags-outlet.com^$all
 ||fenero.com^$all
 ||fenzor.com^$all
@@ -2479,6 +2478,7 @@
 ||guarnieri.com.ar^$all
 ||gucciuk.me.uk^$all
 ||guelaguetzasj.com^$all
+||guest-bloggers.com^$all
 ||gughe.org^$all
 ||gujaratirocks.com^$all
 ||gulfafricans.com^$all
@@ -2498,6 +2498,7 @@
 ||gvpedia.com^$all
 ||gwiu.xyz^$all
 ||gyankibatein.com^$all
+||gymfbads.ezzatedros.com^$all
 ||gyu85tg.cfd^$all
 ||h0w-t0-watch.com^$all
 ||h0w-t0-wtch.com^$all
@@ -2670,13 +2671,13 @@
 ||howtocreateyourauthorplatform.com^$all
 ||howtocureshingles.com^$all
 ||howtomonetize.me^$all
-||hpcwireless.com^$all
 ||hqpb.com.br^$all
 ||hsbc.us^$all
 ||hsers.top^$all
 ||hsfi.us^$all
 ||hsptlprdctns.com^$all
 ||http.akamai-trials.com^$all
+||hua-wu.com^$all
 ||hua-yi.com.tw^$all
 ||huaydee888.com^$all
 ||huberheightslocksmith.com^$all
@@ -2824,6 +2825,7 @@
 ||innovaagencia.com^$all
 ||innovantage.in^$all
 ||innovativeautomotives.com^$all
+||innovativehomecare.com^$all
 ||innovativeschooltools.com^$all
 ||innovativevinyl.com^$all
 ||inoutweile.com^$all
@@ -2902,6 +2904,7 @@
 ||israilpost.com^$all
 ||isstscholarship.com^$all
 ||isyncup.com^$all
+||italiancoworking.it^$all
 ||italianews24.net^$all
 ||itelectrostore.com^$all
 ||iter-tass.com^$all
@@ -3155,7 +3158,6 @@
 ||klb-associatesllc.com^$all
 ||kldthermal.com^$all
 ||klikkoboi.com^$all
-||klk.ma^$all
 ||kmabj.com^$all
 ||kmcelroy.com^$all
 ||kmdun.com^$all
@@ -3809,7 +3811,6 @@
 ||mujplynomer.cz^$all
 ||mukoso.com^$all
 ||multievents-prod.com^$all
-||multipleportal.com^$all
 ||multisync.ml^$all
 ||multitudesdoc.com^$all
 ||mumbox.com^$all
@@ -3817,7 +3818,6 @@
 ||munpokharabids.gov.np^$all
 ||muovitimangiacammina.net^$all
 ||murrietainsuranceservices.com^$all
-||musaqaf.com^$all
 ||musicamp3.net^$all
 ||musicjo.com^$all
 ||muslimfamilyday.com^$all
@@ -3871,7 +3871,6 @@
 ||myridyne.com^$all
 ||myrobofranchise.com^$all
 ||myrtlesteahouse.com^$all
-||mysavingdeals.com^$all
 ||myshelerinc.com^$all
 ||mysite-log.shop^$all
 ||mysite-servrz.xyz^$all
@@ -3944,6 +3943,7 @@
 ||network-relocation.com^$all
 ||network-transport.com^$all
 ||networth57.com^$all
+||networthandsalary.com^$all
 ||neudisrupt.com^$all
 ||neurodrinepro.ltd^$all
 ||neuroniapublications.com^$all
@@ -3958,7 +3958,6 @@
 ||news-health.com^$all
 ||newschattogram24.com^$all
 ||newsdaily27.com^$all
-||newsrts.com^$all
 ||newsworldcity.ml^$all
 ||newtownnd.com^$all
 ||newwritersinterface.com^$all
@@ -4081,7 +4080,6 @@
 ||obs-studio.co^$all
 ||obzor-money.space^$all
 ||oceanconxt.com^$all
-||octopia.com.ar^$all
 ||oddtipster.web.app^$all
 ||odjrabot.com^$all
 ||offersintegrity.com^$all
@@ -4175,6 +4173,7 @@
 ||optizoneshoppy.com^$all
 ||optmz1exe.com^$all
 ||opw1ws.vip^$all
+||orangecountylinens.com^$all
 ||orangecountyusta.com^$all
 ||orderingtadalafil.com^$all
 ||ordersbdunks.info^$all
@@ -4495,7 +4494,6 @@
 ||pravis.ru^$all
 ||prchecker.pw^$all
 ||prednisolone911.com^$all
-||preferredod.com^$all
 ||pregnancyandfitness.org^$all
 ||premier-plumbing.org^$all
 ||premiumtheme.org^$all
@@ -4772,6 +4770,7 @@
 ||richardboykinforcookcounty.com^$all
 ||richardhoefer.com^$all
 ||richardini.com^$all
+||richardravosa.com^$all
 ||richjanney.com^$all
 ||richllndmetals.com^$all
 ||richmondmultisports.com^$all
@@ -4914,6 +4913,7 @@
 ||samplelife.win^$all
 ||samsclubsurvey.today^$all
 ||samsonmedia-seo.com^$all
+||sanali.com^$all
 ||sandbox15.preview.cx^$all
 ||sandiegojewelrypawnshops.com^$all
 ||sando.com.au^$all
@@ -4953,6 +4953,7 @@
 ||sawaed.org.uk^$all
 ||sawjbk.top^$all
 ||sayakatap.com^$all
+||sayapeduli.com^$all
 ||sayingspage.com^$all
 ||sayusedhole.live^$all
 ||sbbqgv.top^$all
@@ -5086,7 +5087,6 @@
 ||shawngo.com^$all
 ||shenbebathe.cfd^$all
 ||sheriffbullock.org^$all
-||sherkspear.com^$all
 ||sherwoodfarm.com^$all
 ||shetul.com^$all
 ||shiawasseedems.com^$all
@@ -5247,7 +5247,6 @@
 ||sonidoclash.com^$all
 ||sono.kz^$all
 ||sonorasaurus.com^$all
-||sonyerisson.com^$all
 ||sorryso.com^$all
 ||sortoflife.com^$all
 ||sospeciallabs.com^$all
@@ -5305,8 +5304,8 @@
 ||star123vip.xyz^$all
 ||starliteshoppingmall.com^$all
 ||starsearchtool.com^$all
-||starsong.in^$all
 ||start.cat^$all
+||start.page^$all
 ||startelefonia.it^$all
 ||starthighlyquicktheproduct.vip^$all
 ||starthighlyspeedytheproduct.vip^$all
@@ -5621,7 +5620,6 @@
 ||thepiedpiperofhutzovina.com^$all
 ||thepodcastbeat.live^$all
 ||theposther.com^$all
-||theprz.com^$all
 ||thequaintcottage.net^$all
 ||therealhousewifeofscottsdale.com^$all
 ||thereciperevolution.com^$all
@@ -5712,6 +5710,7 @@
 ||todaynewshub.com^$all
 ||toddbfreese.com^$all
 ||toddcaseygolfcartrepairs.com^$all
+||toddlersintlnursery.com^$all
 ||toertlichkeit.de^$all
 ||tokeandtalk.ca^$all
 ||tokenasia.com^$all
@@ -6148,6 +6147,7 @@
 ||weeddeliveryvancouver.joomla.com^$all
 ||weedlegal.com^$all
 ||weedthemes.net^$all
+||weekendgardener.net^$all
 ||weiyoushaanxi.com^$all
 ||wellnesscharlottesville.com^$all
 ||wellsfargosurvey.services^$all
@@ -6360,7 +6360,6 @@
 ||www.geosymposium.org^$all
 ||www.goeasysmile.com^$all
 ||www.goldenlinkdigital.com^$all
-||www.googleplusblog.it^$all
 ||www.gourmetchinahouse.com^$all
 ||www.guitflix.com^$all
 ||www.haliburtonchamber.com^$all
@@ -6380,7 +6379,6 @@
 ||www.iq4host.com^$all
 ||www.isaacdonnelly.com^$all
 ||www.it3k.us^$all
-||www.italiancoworking.it^$all
 ||www.itoldyouso.com^$all
 ||www.jardindematatena.com^$all
 ||www.jarsonic.com^$all
@@ -6531,6 +6529,7 @@
 ||www.wheelhappybicycles.com^$all
 ||www.whiteradishdesign.com^$all
 ||www.wohnmobil-tipps-app.de^$all
+||www.womansera.com^$all
 ||www.workoutfinishers.com^$all
 ||www.xiaopangkj.space^$all
 ||www.xiuxiuziyuan.com^$all
