@@ -197,6 +197,7 @@
 ||adherant.eu^$all
 ||adigoxin.com^$all
 ||admassmedia.com^$all
+||admovere.org^$all
 ||adorablefurnishing.ml^$all
 ||adoss.xyz^$all
 ||adpostnepal.com^$all
@@ -590,6 +591,7 @@
 ||avtc.co.in^$all
 ||avvvisobper.com^$all
 ||aw-service.nl^$all
+||awaaz.com.bd^$all
 ||awareofcare.com^$all
 ||awarfaregaming.com^$all
 ||awashbrooklyn.com^$all
@@ -654,7 +656,6 @@
 ||batzbatz.ru^$all
 ||baxfj.cfd^$all
 ||bay-57.net^$all
-||bbrbuy.com^$all
 ||bcbn.com.sg^$all
 ||bcdtravel.com.py^$all
 ||bcp.org.ph^$all
@@ -726,7 +727,6 @@
 ||bgvoyage.com^$all
 ||bhartiedu.com^$all
 ||bhimba.com^$all
-||bhmdevelopments.co.uk^$all
 ||bhui7yh.cfd^$all
 ||bi-up.net^$all
 ||biancaloran.com^$all
@@ -926,6 +926,7 @@
 ||buzzfeeed.com^$all
 ||buzzveral.com^$all
 ||bvcvirtual.com^$all
+||bwl-seo.com^$all
 ||by-hand.co.uk^$all
 ||byaylpkuj.com^$all
 ||byronberganza.com^$all
@@ -1303,7 +1304,6 @@
 ||cortlandpreschool.com^$all
 ||coskunotovinc.com^$all
 ||cosmosleft.com^$all
-||costaricanadventures.com^$all
 ||cotixanmexicanrestaurant.com^$all
 ||cottoncounty.in^$all
 ||countryhavenresort.com^$all
@@ -1650,6 +1650,7 @@
 ||domyhomeworkmark.com^$all
 ||donate2educate.org^$all
 ||dongfangjituan.com^$all
+||doniirawan.com^$all
 ||donkeyads.com^$all
 ||donlowesongs.com^$all
 ||donnadove.com^$all
@@ -1777,6 +1778,7 @@
 ||eaysam.com^$all
 ||ebelfarewe.com^$all
 ||ebwptg.top^$all
+||eby82.com^$all
 ||ecafconstruction.com^$all
 ||ecarecenters.com^$all
 ||ecath.ru^$all
@@ -2041,6 +2043,7 @@
 ||fastscrack.com^$all
 ||fastseorankings.com^$all
 ||fatisnotyourfault.com^$all
+||faucetpay.vip^$all
 ||faustel.us^$all
 ||fbr94.com^$all
 ||fbxueyuan.com^$all
@@ -2066,7 +2069,6 @@
 ||ff-old.com^$all
 ||fftrkr.com^$all
 ||fiak.ru^$all
-||fibdo.org^$all
 ||fid-elity.com^$all
 ||fidelou.com^$all
 ||fighttalk.nl^$all
@@ -2264,7 +2266,6 @@
 ||gaspardulliel.net^$all
 ||gastrophoria.com^$all
 ||gasuper.com^$all
-||gatetowers.info^$all
 ||gatexpiring.com^$all
 ||gatherstagingsite.cloudaccess.host^$all
 ||gay4utube.com^$all
@@ -2375,6 +2376,8 @@
 ||gns.ma^$all
 ||go-g3t-s0m3.com^$all
 ||go-g3t-s0m3.net^$all
+||go-style.monster^$all
+||go-unit.monster^$all
 ||goblinvest.com^$all
 ||godoomains.com^$all
 ||godsearchs.com^$all
@@ -2742,6 +2745,7 @@
 ||impact-enterprises.org^$all
 ||impasoftware.com^$all
 ||implementsandmore.com^$all
+||importantapp.space^$all
 ||imprim-pub.fr^$all
 ||in.sv^$all
 ||inactionagain.com^$all
@@ -2850,6 +2854,7 @@
 ||iphones-market.ru^$all
 ||ipresent.org^$all
 ||ipsnewsite.mysite4now.com^$all
+||iptvbillingsolution.com^$all
 ||ipvideosys.com^$all
 ||iran-jbl.com^$all
 ||iranregister.com^$all
@@ -3138,7 +3143,9 @@
 ||kohsamuitaxigreenservice.business.site^$all
 ||kokotrokot.com^$all
 ||koleendeeg.co.za^$all
+||kolotoa.com^$all
 ||komaxtrade.com^$all
+||kompak77.com^$all
 ||konmun.com^$all
 ||konsulat-uganda.de^$all
 ||konyamasajsalonuu.com^$all
@@ -3289,7 +3296,6 @@
 ||lesleymoore.nl^$all
 ||lesvignerons.org^$all
 ||letyourheartrule.com^$all
-||levekunst.com^$all
 ||levelup-yourlife.com^$all
 ||levitrasoso.org^$all
 ||lezard-visuel.com^$all
@@ -3533,6 +3539,7 @@
 ||mayacaves.org^$all
 ||maycham.org.tw^$all
 ||mayfairpark.net.au^$all
+||mayjam.com^$all
 ||mbeddedmaximum.com^$all
 ||mblyjusting.com^$all
 ||mbtshoes.us.com^$all
@@ -3560,7 +3567,6 @@
 ||medicinadeconsultorio.com^$all
 ||medicl.ru^$all
 ||medinetsrl.eu^$all
-||meet-bait.com^$all
 ||meetstendenhms.online^$all
 ||mega-infos.xyz^$all
 ||megaindoor.com.br^$all
@@ -3616,6 +3622,7 @@
 ||michaelsmithproperties.com^$all
 ||michaeltumalaw.com^$all
 ||michelle-s.com^$all
+||michellearbeau.com^$all
 ||michellehaft.com^$all
 ||michiganaoh.com^$all
 ||michigansnowmobiler.com^$all
@@ -3910,7 +3917,6 @@
 ||newyorkancestry.com^$all
 ||newyorksri.com^$all
 ||nexilis-hobbies.com^$all
-||nexionnetworking.com^$all
 ||nextjs-hasura-boilerplate.vercel.app^$all
 ||nextstophorizon.org^$all
 ||nexus-solutions.com^$all
@@ -3989,7 +3995,6 @@
 ||nowistyle.jp^$all
 ||nowywisnicz.com^$all
 ||npacityoutdoor.com^$all
-||npr-europe.ru^$all
 ||nqveqi.top^$all
 ||nsainsburylb.com^$all
 ||nsgsdc.com^$all
@@ -4036,7 +4041,6 @@
 ||office180.net^$all
 ||officialgenerator.cloud^$all
 ||officialsbengalsnflauthentics.com^$all
-||offlineinstallerdownload.com^$all
 ||offsebike.cyou^$all
 ||offshoredrive.com^$all
 ||offshorewindpowersystemsoftexas.com^$all
@@ -4725,7 +4729,6 @@
 ||risolutions.co.uk^$all
 ||riversideallofusornone.org^$all
 ||riyadhcleaning.net^$all
-||riyadhwhitewater.com^$all
 ||rizkitech.my.id^$all
 ||rkzinc.com^$all
 ||rkzod.sbs^$all
@@ -4825,6 +4828,7 @@
 ||safer4all.nl^$all
 ||sagamingth.net^$all
 ||sagegardencatering.com^$all
+||sagrabistro.com^$all
 ||sahely.com^$all
 ||sahmjobs.com^$all
 ||sahuaritajujutsu.com^$all
@@ -4913,6 +4917,7 @@
 ||scit.edu.cn^$all
 ||scontipronto.com^$all
 ||scoobyads.com^$all
+||scorlove.com^$all
 ||scorphq.com^$all
 ||scotalt.net^$all
 ||scotchandpretzels.com^$all
@@ -4931,7 +4936,6 @@
 ||search4bbm.com^$all
 ||searchestracker.com^$all
 ||searchgoldanbonus.com^$all
-||searchlocalhq.com^$all
 ||sebastian-kull.me^$all
 ||sec0afcu.com^$all
 ||secitweb.com^$all
@@ -5197,9 +5201,7 @@
 ||spectrumrisk.co.uk^$all
 ||speechyroid.co^$all
 ||speedcash1win.ru^$all
-||speedfan.su^$all
 ||speeker.freehostia.com^$all
-||spflashtool.ru^$all
 ||spicevillage.online^$all
 ||spinabifidanaturally.com^$all
 ||spiritsent.com^$all
@@ -5351,6 +5353,7 @@
 ||sycowl.com^$all
 ||sydcar.com^$all
 ||syeuaw.top^$all
+||sykespro.com^$all
 ||synchighlydevelopedtheproduct.vip^$all
 ||synkron.com^$all
 ||syntax.com.au^$all
@@ -5364,7 +5367,6 @@
 ||t4a.co.za^$all
 ||t9m.ru^$all
 ||ta-shanghai.com^$all
-||taarakmehtakaooltahchashma.com^$all
 ||tacticalseo.com^$all
 ||tadalafildiscount.com^$all
 ||tadalafilisale.com^$all
@@ -5410,6 +5412,7 @@
 ||tchostel.org^$all
 ||tda-elektro.ru^$all
 ||teaburn.email^$all
+||team100.pro^$all
 ||teamartissance.github.io^$all
 ||teamjohnsonwebdesign.com^$all
 ||teamshosholoza.com^$all
@@ -5699,7 +5702,6 @@
 ||trailconnections.com^$all
 ||trancascapital.com^$all
 ||tranfdtzarina.digital^$all
-||transcendpeople.com^$all
 ||transdata.cn^$all
 ||transecute.com^$all
 ||transferwiser.io^$all
@@ -5855,6 +5857,7 @@
 ||utopiabookings.com^$all
 ||utopiix.com^$all
 ||utrimcleanseblog.com^$all
+||uttarainfotech.com^$all
 ||uxdgpy.top^$all
 ||uxoslo.com^$all
 ||uyfjnqkdmswaxm.com^$all
@@ -5925,7 +5928,6 @@
 ||video-hned.com^$all
 ||videoflix.biz^$all
 ||videogamerlaw.com^$all
-||videopad-video-editor.ru^$all
 ||videouplay.com^$all
 ||viennadnes.com^$all
 ||vietvodao.ch^$all
@@ -6053,7 +6055,6 @@
 ||websitesthatwork.info^$all
 ||websorc.com^$all
 ||webstackpro.com^$all
-||webstorm.co.za^$all
 ||webtech-portal.com^$all
 ||webzag.com^$all
 ||wed-b.shop^$all
@@ -6063,6 +6064,7 @@
 ||weedlegal.com^$all
 ||weedthemes.net^$all
 ||weekendgardener.net^$all
+||weinora.com^$all
 ||wellnesscharlottesville.com^$all
 ||wellsfargosurvey.services^$all
 ||wenso.co.uk^$all
@@ -6189,7 +6191,6 @@
 ||www.adstar.com^$all
 ||www.aibasecloud.com^$all
 ||www.allgeier-it.com^$all
-||www.altababah.com^$all
 ||www.altiusinsurance.eu^$all
 ||www.amssoftech.com^$all
 ||www.anemologio.gr^$all
@@ -6201,6 +6202,7 @@
 ||www.atheragi.com^$all
 ||www.baby-medical-questions-and-answers.com^$all
 ||www.bandit4dalt.xyz^$all
+||www.bankfraudalerts.com^$all
 ||www.bankofamericalogin.org^$all
 ||www.bao-zi.net^$all
 ||www.bbmlondon.com^$all
@@ -6364,6 +6366,7 @@
 ||www.platiniumcasino.fr^$all
 ||www.preludico.com^$all
 ||www.prodentalcenters.com^$all
+||www.queroespiar.com^$all
 ||www.radiantnepal.com^$all
 ||www.ramankumarynr.com^$all
 ||www.reaching.to^$all
