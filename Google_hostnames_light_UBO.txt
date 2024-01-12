@@ -197,6 +197,7 @@
 ||admassmedia.com^$all
 ||admovere.org^$all
 ||adorablefurnishing.ml^$all
+||adoremon.vn^$all
 ||adoss.xyz^$all
 ||adpostnepal.com^$all
 ||adriennedonnelly.com.au^$all
@@ -636,6 +637,7 @@
 ||barmachiavelli.com^$all
 ||barnettforkansas.com^$all
 ||barryspost.net^$all
+||barsspirersced.blo.gg^$all
 ||bartbratke.com^$all
 ||basecampstudio.org^$all
 ||basexcamp.com^$all
@@ -933,7 +935,7 @@
 ||cactusbistro.com^$all
 ||cadaflora.com^$all
 ||caelestinum.digital^$all
-||cafe-in.de^$all
+||cage8.com^$all
 ||cahuengapethospital.com^$all
 ||cajuncrawfishpie.com^$all
 ||cakcuk.az^$all
@@ -1082,6 +1084,7 @@
 ||chess-coordinates-trainer.netlify.app^$all
 ||chestishugli.com^$all
 ||chhathpuja.co^$all
+||chiasetatca.net^$all
 ||chicagoroseoftralee.com^$all
 ||chickfilafoundation.com^$all
 ||chikitsa.net^$all
@@ -1139,6 +1142,7 @@
 ||circledex.fi^$all
 ||circleofjudgement.com^$all
 ||circulodelacreatividad.com^$all
+||citatumoxalate.top^$all
 ||citsgroup.net^$all
 ||cjqwds.cn^$all
 ||ckbrown.com^$all
@@ -1359,7 +1363,6 @@
 ||cryptotrues.com^$all
 ||cryptotrustinvestments.com^$all
 ||crystal-core.co.uk^$all
-||crystalseapress.com^$all
 ||crystc2c2.club^$all
 ||cscroma.org^$all
 ||csdconcepcion.cl^$all
@@ -1398,7 +1401,6 @@
 ||cynergihealth.com^$all
 ||cytungmaritimemuseum.com^$all
 ||czxfv.cyou^$all
-||czyleo.com^$all
 ||d-crew.ne.jp^$all
 ||d-log.net^$all
 ||d-service.biz^$all
@@ -1432,6 +1434,7 @@
 ||darlingssupperclub.com^$all
 ||daroncampbell.com^$all
 ||darrellmeyer.com^$all
+||darshansafetyzone.in^$all
 ||dartpad.com^$all
 ||darvin.top^$all
 ||dasmalwerk.eu^$all
@@ -1575,6 +1578,7 @@
 ||digitalvast.com^$all
 ||diglon.com^$all
 ||dilalty.shop^$all
+||dimmichichiama.it^$all
 ||dimosmykis.gr^$all
 ||dinaps.com^$all
 ||dinheiroligeiro.com.br^$all
@@ -2112,7 +2116,6 @@
 ||flippalot.com^$all
 ||fllpalestine.ps^$all
 ||float-offices.de^$all
-||floatingfactory.co^$all
 ||florabond.com^$all
 ||florencewallis.org^$all
 ||florentin.us^$all
@@ -2277,7 +2280,6 @@
 ||gecomuseum.com^$all
 ||geebox.com.cn^$all
 ||geekboypress.com^$all
-||geekfeud.com^$all
 ||geekweekevent.com^$all
 ||gekata.info^$all
 ||geldt.nl^$all
@@ -2446,6 +2448,7 @@
 ||gucciuk.me.uk^$all
 ||guelaguetzasj.com^$all
 ||gughe.org^$all
+||guidetricks.com^$all
 ||gujaratirocks.com^$all
 ||gulfafricans.com^$all
 ||gulfpoleconcerns.com^$all
@@ -2500,6 +2503,7 @@
 ||hayatatateyama.com^$all
 ||hbonews.ru^$all
 ||hbrkix.top^$all
+||hdesignideas.com^$all
 ||hdvideosnet.com^$all
 ||headbacktohealth.com^$all
 ||headlinebrief.com^$all
@@ -2711,8 +2715,8 @@
 ||ign190.com^$all
 ||ignitez.ltd^$all
 ||igotihav.com^$all
+||ihbartmedia.com^$all
 ||ikergarcia.com^$all
-||iko6d.vip^$all
 ||ikuplants.com^$all
 ||ilanguagetranslationdhaka.com^$all
 ||ilikeit.pro^$all
@@ -2720,6 +2724,7 @@
 ||illustration-graphics.com^$all
 ||ilmtrack.com^$all
 ||ilonio.com^$all
+||ima-inc.com^$all
 ||ima-mannheim.com^$all
 ||imagesbug.com^$all
 ||imagineireland.ie^$all
@@ -2748,6 +2753,7 @@
 ||indiecinema.es^$all
 ||indigenouseditorsassociation.ca^$all
 ||indigent.net^$all
+||indigital.top^$all
 ||indlr1.top^$all
 ||indocasino.asia^$all
 ||indosatu.net^$all
@@ -2805,7 +2811,6 @@
 ||interactivemarketing.us^$all
 ||interdemos.net^$all
 ||interior-design-ipad.com^$all
-||internetballers.com^$all
 ||internetinnovations.de^$all
 ||internetnerede.net^$all
 ||internetsitescasino.info^$all
@@ -2846,6 +2851,7 @@
 ||ipsnewsite.mysite4now.com^$all
 ||iptvbillingsolution.com^$all
 ||ipvideosys.com^$all
+||iqrais.com^$all
 ||iran-jbl.com^$all
 ||iranregister.com^$all
 ||irbea.net^$all
@@ -2857,7 +2863,6 @@
 ||isaacmentouri.com^$all
 ||iscb.co.uk^$all
 ||isfahanwushu.ir^$all
-||isharapuppet.com^$all
 ||isiisx.sbs^$all
 ||islamabadescortspoint.com^$all
 ||islebox.com^$all
@@ -2881,7 +2886,6 @@
 ||iur12d.vip^$all
 ||iurl.cz^$all
 ||iurw1.top^$all
-||ivac.org^$all
 ||ivermectinvtab.com^$all
 ||ivinfotech.com^$all
 ||ivs-company.ru^$all
@@ -3132,7 +3136,6 @@
 ||kohsamuitaxigreenservice.business.site^$all
 ||kokotrokot.com^$all
 ||koleendeeg.co.za^$all
-||kolotoa.com^$all
 ||komaxtrade.com^$all
 ||kompak77.com^$all
 ||konmun.com^$all
@@ -3304,6 +3307,7 @@
 ||lifeatf8.com^$all
 ||lifecellproject.org^$all
 ||lifeisbetterwithbooks.com^$all
+||lifelinevietnam.vn^$all
 ||light-bridge.com^$all
 ||lightedminds.com.ng^$all
 ||lightenacquired.xyz^$all
@@ -3336,9 +3340,11 @@
 ||litavrora.ru^$all
 ||liteblue.me^$all
 ||liteblueusps.net^$all
+||littlebrotherssf.org^$all
 ||live-jm.com^$all
 ||livefibratelecom.com.br^$all
 ||livefvg.com^$all
+||livekarmayoga.com^$all
 ||livemoviemagic.com^$all
 ||livepalmcentral.com^$all
 ||liverpoolwebhosting.co.uk^$all
@@ -3493,7 +3499,6 @@
 ||marriedupwithwine.com^$all
 ||marshomeproducts.com^$all
 ||martinforaz.com^$all
-||martxuka.com^$all
 ||marvelbranddesigners.com^$all
 ||maryannspc.com^$all
 ||marymara.com^$all
@@ -3520,6 +3525,7 @@
 ||matthewnoble.com^$all
 ||mattsparkslaw.com^$all
 ||mattwhitteker.com^$all
+||mauihealthguide.com^$all
 ||maund.com^$all
 ||mavijo.site^$all
 ||max-your-media.com^$all
@@ -3601,7 +3607,6 @@
 ||mfx741.icu^$all
 ||mghollander.nl^$all
 ||mgjpjr.top^$all
-||mht.care^$all
 ||miamherald.com^$all
 ||micarritocompras.com^$all
 ||michael-brennan.com^$all
@@ -3611,6 +3616,7 @@
 ||michaelsmithproperties.com^$all
 ||michaeltumalaw.com^$all
 ||michelle-s.com^$all
+||michellearbeau.com^$all
 ||michellehaft.com^$all
 ||michiganaoh.com^$all
 ||michigansnowmobiler.com^$all
@@ -3701,6 +3707,7 @@
 ||money-boom.xyz^$all
 ||money-chishiki.com^$all
 ||money-fund.net^$all
+||moneyclaim.xyz^$all
 ||moniekensauto.com^$all
 ||moniquebarry.com^$all
 ||monkeyfistdigital.com^$all
@@ -3708,6 +3715,7 @@
 ||monoamniotic.org^$all
 ||montana.co.ke^$all
 ||montblancpensoutletsaleonline.com^$all
+||montues.com^$all
 ||moolahblogger.com^$all
 ||mooncakefoods.com^$all
 ||moonovernegril.com^$all
@@ -3882,7 +3890,6 @@
 ||network-relocation.com^$all
 ||network-transport.com^$all
 ||networth57.com^$all
-||networthandsalary.com^$all
 ||neudisrupt.com^$all
 ||neurodrinepro.ltd^$all
 ||neuroniapublications.com^$all
@@ -3920,7 +3927,6 @@
 ||nickycc.com^$all
 ||nicnacs.eu^$all
 ||nicolinas.pt^$all
-||nicosound.anyap.info^$all
 ||niea.org.ng^$all
 ||nigeriapropertyads.com^$all
 ||nightmark.net^$all
@@ -4232,7 +4238,6 @@
 ||pcgameall.com^$all
 ||pclivehelp.online^$all
 ||pcosandlife.com^$all
-||pcprotectivesystem.com^$all
 ||pctalkweb.net^$all
 ||pdf4mac.com^$all
 ||pdforte.com^$all
@@ -4498,7 +4503,6 @@
 ||proxy.osl.state.or.us^$all
 ||proyecta.org^$all
 ||proyectocambalache.org^$all
-||prsociety.net^$all
 ||prudentllaw.ca^$all
 ||prufa.ru^$all
 ||przemyslawrochon.pl^$all
@@ -4526,7 +4530,6 @@
 ||purgeatl.com^$all
 ||purifierserviceind.com^$all
 ||purifychina.cn^$all
-||purplecowventures.co.za^$all
 ||pursekeysandbabies.com^$all
 ||pushmeup.bid^$all
 ||pusjv.com^$all
@@ -4769,7 +4772,6 @@
 ||rootsbistrohouston.com^$all
 ||rootweb.com.mx^$all
 ||rosalcom.com^$all
-||rosamondpurcell.com^$all
 ||roseliamanga.com^$all
 ||rosesgcra.com^$all
 ||rostartmedia.com^$all
@@ -4855,6 +4857,7 @@
 ||sanfordmusicfest.com^$all
 ||sangbadpratidin.net^$all
 ||sangkha.ac.th^$all
+||saniac.com^$all
 ||sanjisat.tk^$all
 ||sankafact.com^$all
 ||sanmeetkaur.com^$all
@@ -4866,6 +4869,7 @@
 ||sarahkarmely.org^$all
 ||sarahlipoff.com^$all
 ||sarahmodeee.blogspot.fr^$all
+||sarahszczypinski.com^$all
 ||saravpackersandmovers.com^$all
 ||sarcs.org^$all
 ||sareeskafe.com^$all
@@ -5148,7 +5152,6 @@
 ||sodap.org^$all
 ||sodopp.com^$all
 ||softengine.co.uk^$all
-||softwarecpanel.com^$all
 ||softwarefactoryllc.com^$all
 ||solarmedium.com^$all
 ||solarprogram.live^$all
@@ -5725,6 +5728,7 @@
 ||tsu.one^$all
 ||tub-porno.ru^$all
 ||tuleceti.com^$all
+||tummygotyummy.com^$all
 ||tunisianstartups.org^$all
 ||tureukworek.com^$all
 ||turimagen.com.ar^$all
@@ -6064,6 +6068,7 @@
 ||wherethegadgets.at^$all
 ||whidbeyteldsl.net^$all
 ||whiffyskunk.com^$all
+||whispardesign.com^$all
 ||white-robot.com^$all
 ||whiteelephanttrading.net^$all
 ||whitemaengdakratom.com^$all
@@ -6073,6 +6078,7 @@
 ||wholefitwellness.com^$all
 ||whujyfali.com^$all
 ||whychymithy.com^$all
+||whyeveryvotecounts.com^$all
 ||wi-fi.wales^$all
 ||wi0l.in^$all
 ||wickvillage.com^$all
@@ -6321,6 +6327,7 @@
 ||www.menumasak.com^$all
 ||www.messepost-online.info^$all
 ||www.mhost.co.tz^$all
+||www.mht.care^$all
 ||www.micmiami.com^$all
 ||www.mirigamadssenanayake.net^$all
 ||www.mitremardelplata.com.ar^$all
@@ -6497,6 +6504,7 @@
 ||yicaige.com^$all
 ||yin12s.vip^$all
 ||ykcedu.com^$all
+||ymalls.in^$all
 ||ymurocks.com^$all
 ||yodnews.ru^$all
 ||yogayoga.ie^$all
