@@ -42,8 +42,10 @@
 ||2ahgsd22.com^$all
 ||2analytics.com^$all
 ||2bbit.com^$all
+||2bemag.com^$all
 ||2ch.anything-navi.net^$all
 ||2fsoft.site^$all
+||2halfmen.com^$all
 ||2lo.ru^$all
 ||2maimai.com^$all
 ||2plr.com^$all
@@ -306,6 +308,7 @@
 ||alljustyou.com^$all
 ||allnaturalbeauty.us^$all
 ||allocate.solutions^$all
+||allstarmemorials.com^$all
 ||alltattedup.com^$all
 ||alltechhope.com^$all
 ||alltorontoescorts.com^$all
@@ -509,6 +512,7 @@
 ||asalunresgicus.ml^$all
 ||asanoxn.com^$all
 ||asdweb.org^$all
+||asecondmind.com^$all
 ||ashevillemtns.com^$all
 ||ashleyfarrand.com^$all
 ||asia999th.net^$all
@@ -598,6 +602,7 @@
 ||ayolaz.com^$all
 ||az4ne.com^$all
 ||azbunny.com^$all
+||azdoc.site^$all
 ||azuka.in^$all
 ||azwebnet.com^$all
 ||azzaroceramic.com^$all
@@ -607,6 +612,7 @@
 ||b53guzrig84y.top^$all
 ||ba-ng.com^$all
 ||baalogistics.net^$all
+||baaskeet.com^$all
 ||babybloggingboomer.com^$all
 ||babynestjes.nu^$all
 ||babysober.com^$all
@@ -619,6 +625,7 @@
 ||bagattinefamily.com^$all
 ||baishengwl.top^$all
 ||balancednews.com^$all
+||balazs-kokai.github.io^$all
 ||balibagus.com^$all
 ||balloonfiestadrivein.com^$all
 ||baltazarworks.com^$all
@@ -653,6 +660,7 @@
 ||baxfj.cfd^$all
 ||bay-57.net^$all
 ||bcbn.com.sg^$all
+||bcph.org^$all
 ||bdbanksinfo.com^$all
 ||bdcommun.com^$all
 ||bddpower.com^$all
@@ -711,7 +719,6 @@
 ||bestvalueshoppingmall.com^$all
 ||bestwebmarks.info^$all
 ||bestwowaddons.com^$all
-||betadzoo.com^$all
 ||betapps.club^$all
 ||betawihosting.net^$all
 ||betflix.one^$all
@@ -783,7 +790,6 @@
 ||blackmansionsmusic.com^$all
 ||blackmarketimages.com^$all
 ||blackthread.io^$all
-||bladate.com^$all
 ||blateshukria.space^$all
 ||bleempowered.com^$all
 ||blessedhcp.com^$all
@@ -827,6 +833,7 @@
 ||bodns.com^$all
 ||bodybioclinic.com^$all
 ||bodydefendersmovie.com^$all
+||bodymindbasedtherapy.com^$all
 ||bodymindspirituniversity.com^$all
 ||bogotaenmariachi.com^$all
 ||boill.com^$all
@@ -1050,7 +1057,6 @@
 ||cfsecuritysolutions.com^$all
 ||cg.fan-web.jp^$all
 ||cgpme93.org^$all
-||cgsinfotechuae.com^$all
 ||chacreations.com^$all
 ||chainnews-star.com^$all
 ||challengepro.cm^$all
@@ -1508,7 +1514,6 @@
 ||deployfreetoken.com^$all
 ||dequans.com^$all
 ||der30s.vip^$all
-||deref.es^$all
 ||derekcedwards.com^$all
 ||dermatocosmetologie.ro^$all
 ||desakupekalongan.id^$all
@@ -1548,7 +1553,6 @@
 ||dickandlottie.com^$all
 ||die-eet-compleet.nl^$all
 ||diegosarraff.com^$all
-||dienlanhhonganh.com^$all
 ||diet-plans.cf^$all
 ||dig506.com^$all
 ||digerians.com^$all
@@ -1736,7 +1740,6 @@
 ||dwebops.net^$all
 ||dy888.tv^$all
 ||dyingduck.com^$all
-||e-exam.vip^$all
 ||e-logodesign.com^$all
 ||e-sixlab.com^$all
 ||e-tronics.nl^$all
@@ -1825,7 +1828,6 @@
 ||elektrischefietsen-aanbieding.nl^$all
 ||elemblo.com^$all
 ||elenabaranova.com^$all
-||elephantgogo.com^$all
 ||elevated-leisure.com^$all
 ||elevon.co^$all
 ||eli360.com^$all
@@ -1899,6 +1901,7 @@
 ||epaper.xinjiangnet.com.cn^$all
 ||epasswordrecovery.com^$all
 ||epeyuu.buzz^$all
+||ephonenews.com^$all
 ||epic-skin-ml.000webhostapp.com^$all
 ||epicductcleaning.com.au^$all
 ||epicmpls.com^$all
@@ -2052,7 +2055,6 @@
 ||fid-elity.com^$all
 ||fidelou.com^$all
 ||fighttalk.nl^$all
-||file1.site^$all
 ||filefrog.net^$all
 ||filehippo.pl^$all
 ||fileroom.io^$all
@@ -2319,15 +2321,12 @@
 ||gift4filipino.com^$all
 ||giga.uno^$all
 ||giganticurl.com^$all
-||gigiorsillo.com^$all
 ||gimex.at^$all
 ||ginden.jp^$all
 ||ginepija.com^$all
 ||giovannipassarelli.com^$all
 ||girlsinthegigcity.com^$all
-||girlsspeakgeek.com^$all
 ||givafamecode.xyz^$all
-||giveaways.icu^$all
 ||giyarc.top^$all
 ||giyim2.com^$all
 ||gjkguu.top^$all
@@ -2417,6 +2416,7 @@
 ||grokett.org^$all
 ||groovi.com.au^$all
 ||ground202.com^$all
+||grunthhyoides.guru^$all
 ||gs1221.com^$all
 ||gs24softeasy.com^$all
 ||gskhanal.com^$all
@@ -2717,6 +2717,7 @@
 ||imfbet123.com^$all
 ||imi4rd.com^$all
 ||immunobytes.com^$all
+||imnotlance.com^$all
 ||impact-enterprises.org^$all
 ||impasoftware.com^$all
 ||implementsandmore.com^$all
@@ -2761,7 +2762,6 @@
 ||inijephoto.com^$all
 ||iniyan.in^$all
 ||iniziostore.com^$all
-||injuryaccidentbronx.com^$all
 ||ink3lo.vip^$all
 ||inkerr.in^$all
 ||inl12s.vip^$all
@@ -2787,6 +2787,7 @@
 ||inspiredtechnologiesinc.com^$all
 ||instaembed.com^$all
 ||instamax.in^$all
+||institutovirginiasatir.org^$all
 ||instrutrack.com^$all
 ||insuranceworry.com^$all
 ||int.kg^$all
@@ -2833,7 +2834,6 @@
 ||iphones-market.ru^$all
 ||ipresent.org^$all
 ||ipsnewsite.mysite4now.com^$all
-||ipvideosys.com^$all
 ||iqrais.com^$all
 ||iran-jbl.com^$all
 ||iranregister.com^$all
@@ -2878,6 +2878,7 @@
 ||jackpotmag.us^$all
 ||jackskyyler.com^$all
 ||jackwagnermusic.com^$all
+||jacobsraw.com^$all
 ||jaguarthemes.com^$all
 ||jahvi.com^$all
 ||jameljohnson.com^$all
@@ -3035,7 +3036,6 @@
 ||kapiolani.jp^$all
 ||kapwamovement.com^$all
 ||karapelech.ca^$all
-||karirussell.com^$all
 ||karlschatz.com^$all
 ||karolmoda.com^$all
 ||kartleast.guru^$all
@@ -3543,6 +3543,7 @@
 ||mcqgeek.com^$all
 ||mcsleazy.net^$all
 ||mcvehil.net^$all
+||md3b0j6hj.com^$all
 ||mecantano.com^$all
 ||medi-graph.com^$all
 ||media-lingo.com^$all
@@ -3563,7 +3564,6 @@
 ||megaxpress.com^$all
 ||megso.in^$all
 ||mehrdadafsari.com^$all
-||meinhaus.ca^$all
 ||meisterkate.com^$all
 ||mejorestilodevida.net^$all
 ||mekaofland.click^$all
@@ -3883,7 +3883,6 @@
 ||newmoondesignstudio.com^$all
 ||newroninentertainment.com^$all
 ||news-health.com^$all
-||news.zordo.in^$all
 ||newschattogram24.com^$all
 ||newsdaily27.com^$all
 ||newsworldcity.ml^$all
@@ -4261,7 +4260,6 @@
 ||pfumc.us^$all
 ||pge.org.ua^$all
 ||pgslot777ww.com^$all
-||phantomwooer.org^$all
 ||philippineweekend.org^$all
 ||phillylo.com^$all
 ||phimvasao.com^$all
@@ -4791,7 +4789,6 @@
 ||rustripo.com^$all
 ||rxhealthquotes.com^$all
 ||ryaca.ca^$all
-||rzem-art.eu^$all
 ||rzvflv.top^$all
 ||s-mail-google.com^$all
 ||s-v-k.com^$all
@@ -4972,6 +4969,7 @@
 ||sgonidis.com^$all
 ||sh-flora.com^$all
 ||shadesofgreenmedia.com^$all
+||shahadathossen.com^$all
 ||shaku1.com^$all
 ||shamail.co.in^$all
 ||shamolykhera.com^$all
@@ -5001,7 +4999,6 @@
 ||shkondin.com^$all
 ||shockedfalter.uno^$all
 ||shoedc.com^$all
-||shoesizechart.org^$all
 ||shoesyeezys.us.com^$all
 ||shopbasecamp.com^$all
 ||shopbreeze.site^$all
@@ -5282,7 +5279,6 @@
 ||sundaybiggs.com^$all
 ||sunnytabs.com^$all
 ||sunrae.com^$all
-||sunseafashion.com^$all
 ||sunsplashcreative.com^$all
 ||sunstyledesign.com^$all
 ||suntracktours.com^$all
@@ -5484,7 +5480,6 @@
 ||them.in^$all
 ||themadmeatball.com^$all
 ||themakeupaddicts.com.ph^$all
-||themefie.com^$all
 ||themethylationdoctor.com^$all
 ||themfamily.fr^$all
 ||themizrahicollection.com^$all
@@ -5867,6 +5862,7 @@
 ||verser.info^$all
 ||vertexmc.net^$all
 ||verybadfrog.com^$all
+||vestsnab.ru^$all
 ||vetao-ura.xyz^$all
 ||vetedeb.xyz^$all
 ||vghu896yh.cfd^$all
@@ -5940,6 +5936,7 @@
 ||voceabasarabiei.com^$all
 ||vodkaandarose.blogspot.co.uk^$all
 ||voice-reason.cfd^$all
+||voicefromthestone.com^$all
 ||voicer.com^$all
 ||voidix.com^$all
 ||volleysangiovanni.com^$all
@@ -6001,7 +5998,9 @@
 ||wearewhatshappening.com^$all
 ||wearoutthesilence.org^$all
 ||web-coms.com^$all
+||web-ebay.cc^$all
 ||webconsult.com.br^$all
+||webdayhoc.net^$all
 ||webdesignbox.co.za^$all
 ||webduhsign.com^$all
 ||webhostingscene.com^$all
@@ -6092,7 +6091,6 @@
 ||wongpakhang.com^$all
 ||woodbineia.org^$all
 ||woodworks-by-donna.com^$all
-||woodworksbrighton.co.uk^$all
 ||wooersgamer.top^$all
 ||wordpublic.com^$all
 ||wordsworthproduction.com^$all
@@ -6233,7 +6231,6 @@
 ||www.example123.com^$all
 ||www.filearns.com^$all
 ||www.flaticons.com^$all
-||www.fmzo.org^$all
 ||www.fndr.fr^$all
 ||www.foodandcrafts.it^$all
 ||www.freeapkhere.com^$all
@@ -6348,6 +6345,7 @@
 ||www.rmexpressglob.com^$all
 ||www.roblox7.com^$all
 ||www.rocketmoney.dev^$all
+||www.romeshuttlelimousine.com^$all
 ||www.rute303.biz^$all
 ||www.saawconcepts.com^$all
 ||www.sabiagrik.com^$all
@@ -6369,6 +6367,7 @@
 ||www.slashplug.com^$all
 ||www.smartpointresearch.com^$all
 ||www.smokinstangs.com^$all
+||www.socialee.in^$all
 ||www.socialtable.co^$all
 ||www.sp3realty.com^$all
 ||www.sparescnx.com^$all
@@ -6379,6 +6378,7 @@
 ||www.sulina.ro^$all
 ||www.super-kiosk.com^$all
 ||www.superslang.de^$all
+||www.surfxtechnologies.com^$all
 ||www.susymassetti.com^$all
 ||www.sxcallahaninc.com^$all
 ||www.tagami-bunguten.com^$all
@@ -6401,7 +6401,6 @@
 ||www.url-x.it^$all
 ||www.uuxiaoshuo.net^$all
 ||www.valedaribeiraresidences.com^$all
-||www.vestsnab.ru^$all
 ||www.vgcbeena.com^$all
 ||www.vhly.com^$all
 ||www.vidacantinawhittier.com^$all
@@ -6561,4 +6560,3 @@
 ||zxdfgt6y.cfd^$all
 ||zxshed.co.uk^$all
 ||zyclefix.com^$all
-||zzkrca.com^$all
