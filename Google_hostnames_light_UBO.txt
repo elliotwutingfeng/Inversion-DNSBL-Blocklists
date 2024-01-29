@@ -383,7 +383,6 @@
 ||anarchetiquette.org^$all
 ||anbaotech.com^$all
 ||ancrugan.com^$all
-||andalusturizm.com^$all
 ||andrew-duplantis.com^$all
 ||andrewlermsider.com^$all
 ||andrewnogal.com^$all
@@ -1139,7 +1138,6 @@
 ||citatumoxalate.top^$all
 ||citsgroup.net^$all
 ||cjqwds.cn^$all
-||ckbrown.com^$all
 ||cl-amzomjods.shop^$all
 ||claescem.com^$all
 ||claraworldmediatv.com^$all
@@ -1248,7 +1246,6 @@
 ||competenciarobotica.cl^$all
 ||compostellaperu.com^$all
 ||compuage.com^$all
-||computercrack.com^$all
 ||conceivedinbk.com^$all
 ||concellocangas.com^$all
 ||concept.my^$all
@@ -1272,6 +1269,7 @@
 ||consultantdeck.com^$all
 ||contactsandspecs.com^$all
 ||contextgrid.com^$all
+||contextnyc.com^$all
 ||contrarian-update.com^$all
 ||conyrinsongs.space^$all
 ||cookiebrew.digital^$all
@@ -1410,7 +1408,6 @@
 ||danielenicliphoto.com^$all
 ||danielforgeorgia.com^$all
 ||daniellechristine.com^$all
-||danielsww2.com^$all
 ||darazlk.vip^$all
 ||dariland.co^$all
 ||daringmansion.top^$all
@@ -1726,6 +1723,7 @@
 ||e-vanesco.com^$all
 ||e2open.org^$all
 ||e2u-dfw.com^$all
+||e4healthgroup.com^$all
 ||eadikesghtalapurcareers.com^$all
 ||eagleny.org^$all
 ||eahandytool.com^$all
@@ -1761,7 +1759,6 @@
 ||ecomappweb.com^$all
 ||ecomedicalbillings.com^$all
 ||econohike.in^$all
-||economeblogs.com^$all
 ||econsulting360.com^$all
 ||ecstatus.capital^$all
 ||edekasaloja.com.br^$all
@@ -1983,7 +1980,6 @@
 ||familyacupuncture.com^$all
 ||familylawyer911.com^$all
 ||famloop.com^$all
-||fanhuddle.com^$all
 ||fannieloumusical.com^$all
 ||fanproj.tv^$all
 ||fansfavoritefan.com^$all
@@ -2006,6 +2002,7 @@
 ||fbr94.com^$all
 ||fbxueyuan.com^$all
 ||fcb-tg.com^$all
+||fccmiddleboro.org^$all
 ||fcda.us^$all
 ||fdossantos.com^$all
 ||fearlessblogger.com^$all
@@ -2302,7 +2299,6 @@
 ||ginden.jp^$all
 ||ginepija.com^$all
 ||giovannipassarelli.com^$all
-||girlsdp.co.in^$all
 ||girlsinthegigcity.com^$all
 ||givafamecode.xyz^$all
 ||giyarc.top^$all
@@ -2331,8 +2327,6 @@
 ||gns.ma^$all
 ||go-g3t-s0m3.com^$all
 ||go-g3t-s0m3.net^$all
-||go-style.monster^$all
-||go-unit.monster^$all
 ||goblinvest.com^$all
 ||godoomains.com^$all
 ||godsearchs.com^$all
@@ -2368,7 +2362,6 @@
 ||gpdchicago.com^$all
 ||grabslick.org^$all
 ||gradesminer.net^$all
-||grafikeys.com^$all
 ||grandmasbrain.com^$all
 ||gransplace.com^$all
 ||graph.org^$all
@@ -2467,6 +2460,7 @@
 ||hayatatateyama.com^$all
 ||hbonews.ru^$all
 ||hbrkix.top^$all
+||hdhub4u.news^$all
 ||hdvideosnet.com^$all
 ||headbacktohealth.com^$all
 ||headexpeditions.com^$all
@@ -2681,7 +2675,6 @@
 ||ign190.com^$all
 ||ignitez.ltd^$all
 ||igotihav.com^$all
-||ihbartmedia.com^$all
 ||ikergarcia.com^$all
 ||ikuplants.com^$all
 ||ilanguagetranslationdhaka.com^$all
@@ -3060,7 +3053,6 @@
 ||kideas.com^$all
 ||kidevs.xyz^$all
 ||kidstorem1.com^$all
-||kigalireport.com^$all
 ||killnetelm.live^$all
 ||kimantsi.com^$all
 ||kimberlyannetucker.com^$all
@@ -3759,7 +3751,6 @@
 ||mycialiszuri.com^$all
 ||mycottagelove.com^$all
 ||mydealpoint.com^$all
-||mydiy.pl^$all
 ||mydrugdir.com^$all
 ||myflightblog.com^$all
 ||myfreshlevant.com^$all
@@ -4088,6 +4079,7 @@
 ||orzia.com^$all
 ||osasunekintza.org^$all
 ||oscell.co.uk^$all
+||osg.uk.com^$all
 ||ositeasse.com^$all
 ||ossdigital.com^$all
 ||ostone.co^$all
@@ -4118,6 +4110,7 @@
 ||p2pna.com^$all
 ||pablo-suave.de^$all
 ||paceythepotto.com^$all
+||pachaterra.net^$all
 ||pacificdigicom.business.site^$all
 ||pacificgoods.net^$all
 ||paddicity.com^$all
@@ -4174,7 +4167,6 @@
 ||paypal-login.jimdosite.com^$all
 ||paypal-net.biz^$all
 ||paypal-proof-generator.threatiscool.repl.co^$all
-||paypalguide.com^$all
 ||paypallogini.org^$all
 ||paysecure.ro^$all
 ||pazitosinc.com^$all
@@ -4333,7 +4325,6 @@
 ||pocket-link5.co^$all
 ||pocket-menu.com^$all
 ||pocketexpress.com^$all
-||podgearshop.com^$all
 ||pointdesign.com^$all
 ||pointe-usa.com^$all
 ||pokemongo-apk.com^$all
@@ -4408,7 +4399,6 @@
 ||prmflltration.com^$all
 ||pro-form-tech.com^$all
 ||pro-swapper.com^$all
-||proartuae.com^$all
 ||probitresearch.com^$all
 ||processs.app.link^$all
 ||procobremexico.org^$all
@@ -4558,7 +4548,6 @@
 ||raybanoutlet.org^$all
 ||rbcb.us^$all
 ||rbkia.org^$all
-||rbrandguitars.com^$all
 ||rc-central.nl^$all
 ||rc-model.com.ar^$all
 ||rc-mushroom.com^$all
@@ -4741,7 +4730,6 @@
 ||rukodelnitsa.info^$all
 ||runmyweb.com^$all
 ||runningshoesmall.com^$all
-||rushdeliverytt.com^$all
 ||rushuessay.com^$all
 ||russellmanagementgroup.com^$all
 ||russianescorts.ind.in^$all
@@ -4753,7 +4741,6 @@
 ||s-v-k.com^$all
 ||s-woman.net^$all
 ||s1288agent.com^$all
-||saabing.com^$all
 ||sabrabagoong.digital^$all
 ||sabunmurah.com^$all
 ||sacget.com^$all
@@ -5282,6 +5269,7 @@
 ||t4a.co.za^$all
 ||t9m.ru^$all
 ||ta-shanghai.com^$all
+||tacklehack.com^$all
 ||tacticalseo.com^$all
 ||tadalafildiscount.com^$all
 ||tadalafilisale.com^$all
@@ -5528,7 +5516,6 @@
 ||tipspinz.com^$all
 ||titangelgoldrusia.com^$all
 ||tjent.com^$all
-||tjsmithsvictorianhouse.com^$all
 ||tl86n6.icu^$all
 ||tlrbsi.com^$all
 ||tltxsb.com^$all
@@ -5669,6 +5656,7 @@
 ||twittercal.com^$all
 ||twitterscheduler.com^$all
 ||twobirdsart.net^$all
+||twok.ca^$all
 ||twy.jp^$all
 ||tylerblalock.com^$all
 ||type-u.net^$all
@@ -5846,6 +5834,7 @@
 ||vinamet.com.vn^$all
 ||vincentmaher.com^$all
 ||vincepontarelli.com^$all
+||vindibonaproductions.com^$all
 ||vindulacms.com^$all
 ||vip-new078.icu^$all
 ||vipciahot.us^$all
@@ -5888,6 +5877,7 @@
 ||voicefromthestone.com^$all
 ||voicer.com^$all
 ||voidix.com^$all
+||voipjoy.com^$all
 ||volleysangiovanni.com^$all
 ||voluntarybenefitsmagazine.com^$all
 ||volupwoman.com^$all
@@ -5929,6 +5919,7 @@
 ||warringtondjs.com^$all
 ||wartamadani.com^$all
 ||waseemmirza.net^$all
+||waselegypt.com^$all
 ||wassylslipak.com^$all
 ||watchcurrentcompletelytheproduct.vip^$all
 ||waterandman.com^$all
@@ -6073,6 +6064,7 @@
 ||wu-yisource.com^$all
 ||wugoapp.com^$all
 ||wunderhaft.blogspot.de^$all
+||wurqaz.com^$all
 ||wusanux.xyz^$all
 ||wvdtips.com^$all
 ||wvsbdc.org^$all
@@ -6326,7 +6318,6 @@
 ||www.thecrypto-coinbase.com^$all
 ||www.theglowpot.com^$all
 ||www.thermalwindowcurtains.com^$all
-||www.togethersolutions.in^$all
 ||www.top-affiliate.com^$all
 ||www.topclack.com^$all
 ||www.uamarket.info^$all
