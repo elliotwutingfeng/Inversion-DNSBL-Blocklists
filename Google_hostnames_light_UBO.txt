@@ -81,7 +81,6 @@
 ||52tuboshu.com^$all
 ||591do.com^$all
 ||5axis-vise.com^$all
-||5ed.xyz^$all
 ||5q65.com^$all
 ||6activate.com^$all
 ||6t09fag307ep.click^$all
@@ -116,6 +115,8 @@
 ||a1fishingseychelles.com^$all
 ||a70z.com^$all
 ||a8websites.co.uk^$all
+||aact.su^$all
+||aaha.pe.kr^$all
 ||aahninfotech.com^$all
 ||aaronpruner.com^$all
 ||aaronspeer.com^$all
@@ -130,7 +131,6 @@
 ||abcgroup.com.hk^$all
 ||abcmall.win^$all
 ||abcshop.win^$all
-||abdullahjama.com^$all
 ||abeerkhalique.com^$all
 ||abelearn.ca^$all
 ||abetterradio.com^$all
@@ -216,6 +216,7 @@
 ||ae888.club^$all
 ||ae8886.net^$all
 ||aedlocator.com.au^$all
+||aep-d.de^$all
 ||aercashsurveynow.top^$all
 ||aerojet.co.ao^$all
 ||aeropause.com^$all
@@ -506,6 +507,7 @@
 ||asalunresgicus.ml^$all
 ||asanoxn.com^$all
 ||asdweb.org^$all
+||aseagro.com.ar^$all
 ||asecondmind.com^$all
 ||ashevillemtns.com^$all
 ||ashleyfarrand.com^$all
@@ -652,7 +654,6 @@
 ||bcbn.com.sg^$all
 ||bdbanksinfo.com^$all
 ||bdcommun.com^$all
-||bddpower.com^$all
 ||beachglowevent.com^$all
 ||beamash.com^$all
 ||beasze.live^$all
@@ -665,6 +666,7 @@
 ||beeralewhatever.co.uk^$all
 ||befitkailua.com^$all
 ||behrens-nds.de^$all
+||beingmemadisen.com^$all
 ||bel.ng^$all
 ||belcolnd.com^$all
 ||belenarjona.com^$all
@@ -721,7 +723,6 @@
 ||bhartiedu.com^$all
 ||bhui7yh.cfd^$all
 ||bi-up.net^$all
-||biaart.ro^$all
 ||biancaloran.com^$all
 ||bibblo.ga^$all
 ||biblias2.com^$all
@@ -869,7 +870,6 @@
 ||brettmack.me^$all
 ||brevard-realestate.com^$all
 ||brewallgrain.com^$all
-||bridge-city-firm-demo.com^$all
 ||bridgetbartonfororegon.com^$all
 ||bridgewater4th.com^$all
 ||bridgewatermcg.com^$all
@@ -880,7 +880,6 @@
 ||brooffer.com^$all
 ||brooklandsarchives.com^$all
 ||brooklynwolf-and-vikingappliancerepair.com^$all
-||brooksli.co.uk^$all
 ||browse.projectocasta.org^$all
 ||brucesetlists.com^$all
 ||bruceyardley.com^$all
@@ -896,6 +895,7 @@
 ||buckeyeexpress.com^$all
 ||bugbulb.email^$all
 ||buildbettertables.com^$all
+||buildingmgmt.info^$all
 ||builtwithnuxt.com^$all
 ||bulldozer-vfx.com^$all
 ||bumdoseout.live^$all
@@ -1362,7 +1362,6 @@
 ||cubit.net^$all
 ||cubostap.com^$all
 ||cues.top^$all
-||cuitcode.com^$all
 ||cullenconwelllaw.com^$all
 ||culm.top^$all
 ||culture-cafe.fr^$all
@@ -1430,7 +1429,6 @@
 ||davidcoin.io^$all
 ||davidgarlitz.com^$all
 ||davidhmastersdds.com^$all
-||davidsimpson.com^$all
 ||davidskillory.com^$all
 ||davidwessel.com^$all
 ||davinciseo.com^$all
@@ -1564,7 +1562,6 @@
 ||direct-online.co.za^$all
 ||directtbcfwr.com^$all
 ||directtgdrbfwr.com^$all
-||directx-windows.ru^$all
 ||dirtontherocks.com^$all
 ||disbaramulla.com^$all
 ||discord-give.com^$all
@@ -1678,6 +1675,7 @@
 ||drugid.info^$all
 ||drugsbrand.info^$all
 ||drum.org^$all
+||drwishcraniosacral.com^$all
 ||drylism.com^$all
 ||ds.obmenvsemfiles.com^$all
 ||ds.obmenvsemfiles.net^$all
@@ -2268,6 +2266,7 @@
 ||get24.host^$all
 ||getabusinessinsurance.com^$all
 ||getdealstravel.com^$all
+||getfreegem.com^$all
 ||getgosu.com^$all
 ||getkoin.org^$all
 ||getkryptopro.org^$all
@@ -2341,6 +2340,7 @@
 ||gomediaglobal.com^$all
 ||gonamod.com^$all
 ||goo23.com^$all
+||good-lifes.com^$all
 ||goodlings.com^$all
 ||goodlov.online^$all
 ||google.com.secure.sci-hub.io^$all
@@ -2545,7 +2545,6 @@
 ||hollitravel.com^$all
 ||hollywoodworkingwriter.com^$all
 ||holtweeklynews.com^$all
-||holycatholicanglican.org^$all
 ||holzland-info.de^$all
 ||homeandgardeningarticles.co.uk^$all
 ||homebiztools.com^$all
@@ -2636,9 +2635,7 @@
 ||ianvaleza.com^$all
 ||ibabylon.cn^$all
 ||ibjos.com^$all
-||ibrc.com.br^$all
 ||ibrewmaster.com^$all
-||iccng.org^$all
 ||icecomputer.us^$all
 ||iceywindflow.gq^$all
 ||icfem-fema.org^$all
@@ -2684,7 +2681,6 @@
 ||ilmtrack.com^$all
 ||ilonio.com^$all
 ||ima-inc.com^$all
-||ima-mannheim.com^$all
 ||imagesbug.com^$all
 ||imagineireland.ie^$all
 ||imaksim.com^$all
@@ -2806,10 +2802,12 @@
 ||ipconfig.com.au^$all
 ||ipcoweb.com^$all
 ||ipdetc.com^$all
+||ipebs.in^$all
 ||ipf.or.th^$all
 ||iphones-market.ru^$all
 ||ipresent.org^$all
 ||ipsnewsite.mysite4now.com^$all
+||iptvbillingsolution.com^$all
 ||iqrais.com^$all
 ||iran-jbl.com^$all
 ||iranregister.com^$all
@@ -3422,7 +3420,6 @@
 ||mailbox-notification.com^$all
 ||mainjitu.com^$all
 ||majobv.com^$all
-||makefastyournid.xyz^$all
 ||makeklick.biz^$all
 ||makemoneysurvey.top^$all
 ||makemysitemobile.com^$all
@@ -3618,7 +3615,6 @@
 ||missionbio.us^$all
 ||missnewjersey.net^$all
 ||misterseekers.com^$all
-||mitarjetasanitariaeuropea.es^$all
 ||mitng.org^$all
 ||mix-architects.com^$all
 ||mixmatchburger.com^$all
@@ -3875,7 +3871,6 @@
 ||nickycc.com^$all
 ||nicnacs.eu^$all
 ||nicolinas.pt^$all
-||niea.org.ng^$all
 ||nigeriapropertyads.com^$all
 ||nightmark.net^$all
 ||nightrealm.info^$all
@@ -4079,7 +4074,6 @@
 ||orzia.com^$all
 ||osasunekintza.org^$all
 ||oscell.co.uk^$all
-||osg.uk.com^$all
 ||ositeasse.com^$all
 ||ossdigital.com^$all
 ||ostone.co^$all
@@ -4227,7 +4221,6 @@
 ||pholkgiant.com^$all
 ||phonelocaltoday.com^$all
 ||phoneservice-repaid.com^$all
-||photo.net.au^$all
 ||photocannon.com^$all
 ||photos-moscar.fr^$all
 ||phptrends.com^$all
@@ -4430,7 +4423,6 @@
 ||protect-link.online^$all
 ||protection-link.online^$all
 ||protection-office.live^$all
-||protesismonterrey.com^$all
 ||proteusenv.com^$all
 ||proton-viewer.com^$all
 ||proudlyyours.com^$all
@@ -4700,7 +4692,6 @@
 ||roostertooth.ca^$all
 ||root-to-market.co.uk^$all
 ||rootsbistrohouston.com^$all
-||rootweb.com.mx^$all
 ||rosalcom.com^$all
 ||roseliamanga.com^$all
 ||rosesgcra.com^$all
@@ -4898,6 +4889,7 @@
 ||server947213.com^$all
 ||servidor-protegido.com^$all
 ||servidorinterspire.com.br^$all
+||sesupholsterycleaning.com.au^$all
 ||set4earth.io^$all
 ||setsandscripture.com^$all
 ||sevenrestaurantbar.com^$all
@@ -5166,7 +5158,6 @@
 ||stfm.cn^$all
 ||stfrancisschoolguma.in^$all
 ||sthtuh.top^$all
-||stjamesanglican.net^$all
 ||stjamesonvenice.co.za^$all
 ||stl.sujana.com^$all
 ||stlsportshistory.com^$all
@@ -5202,6 +5193,7 @@
 ||submergementfodient.sbs^$all
 ||subsidyxpress.com^$all
 ||suburbanheatandcooling.com^$all
+||subway-surf.com^$all
 ||suestalcup.com^$all
 ||sufficientbackyard.email^$all
 ||suiess.top^$all
@@ -5283,7 +5275,6 @@
 ||taktikz.com^$all
 ||takumi.idv.tw^$all
 ||talkbiznow.com^$all
-||talsa.cl^$all
 ||tampabayaerial.com^$all
 ||tandoorimahal.nz^$all
 ||tanglenotices.com^$all
@@ -5376,7 +5367,6 @@
 ||theatrecentrik.com^$all
 ||thebbcworld.com^$all
 ||thebluebiscuit.com^$all
-||theboozehound.com^$all
 ||thecelebritylane.com^$all
 ||thechadvaughn.com^$all
 ||thecheeriodiaries.com^$all
@@ -5433,7 +5423,6 @@
 ||thenonarygames.com^$all
 ||theobjectlab.com^$all
 ||theonlinewatchmovies.com^$all
-||theotoky.com^$all
 ||thepeninsulaquarry.com^$all
 ||thepestleweedschool.com^$all
 ||thepetitepets.com^$all
@@ -5508,7 +5497,6 @@
 ||timdelisle.com^$all
 ||timesheadline.com^$all
 ||timloves.com^$all
-||timon.com.hk^$all
 ||timshi.ai^$all
 ||tinaev.com^$all
 ||tinglobaldeal.com^$all
@@ -5645,7 +5633,6 @@
 ||tuviviet.info^$all
 ||tuxug.com^$all
 ||tvoinu2u.com^$all
-||twcd.org^$all
 ||twilighthub.com^$all
 ||twilio-serverless-example.surge.sh^$all
 ||twin88.fun^$all
@@ -5731,7 +5718,6 @@
 ||url3.site^$all
 ||urucucollyr.uno^$all
 ||usadye.ru^$all
-||usafricanstore.com^$all
 ||usamaa.co.uk^$all
 ||usawebdesign.website^$all
 ||usbfilefinder.com^$all
@@ -5852,6 +5838,7 @@
 ||visisoothe.ltd^$all
 ||visit-ufa.ru^$all
 ||visitdoukkala-abda.com^$all
+||visitmootopia.com^$all
 ||visitnorfolk2012.com^$all
 ||visualclasssoft.com^$all
 ||visualsystem.co^$all
@@ -5919,7 +5906,6 @@
 ||warringtondjs.com^$all
 ||wartamadani.com^$all
 ||waseemmirza.net^$all
-||waselegypt.com^$all
 ||wassylslipak.com^$all
 ||watchcurrentcompletelytheproduct.vip^$all
 ||waterandman.com^$all
@@ -5995,6 +5981,7 @@
 ||wildellc.com^$all
 ||williamkaminski.com^$all
 ||willywagon.net^$all
+||win-crack.com^$all
 ||window-updates-service.com^$all
 ||windsorhillsrent.com^$all
 ||windwardapp.com^$all
@@ -6093,10 +6080,10 @@
 ||www.avrsb.ca^$all
 ||www.baby-medical-questions-and-answers.com^$all
 ||www.bandit4dalt.xyz^$all
-||www.bankfraudalerts.com^$all
 ||www.bankofamericalogin.org^$all
 ||www.bao-zi.net^$all
 ||www.bbmlondon.com^$all
+||www.bddpower.com^$all
 ||www.beaches-lakesides.com^$all
 ||www.beatricefoodsmemorial.org^$all
 ||www.bet83k.com^$all
@@ -6416,7 +6403,6 @@
 ||younganimal.ca^$all
 ||yourabundancesurvey.top^$all
 ||youraccountabilityjournal.com^$all
-||yourarticlesdirectory.com^$all
 ||yourfitnesscorner.com^$all
 ||yourfutureplatform.com^$all
 ||yourstoryvideo.net^$all
@@ -6446,7 +6432,6 @@
 ||zaimu-24.store^$all
 ||zakariaahmadi.com^$all
 ||zaragoza-pirineos2022.com^$all
-||zarechievolley.com^$all
 ||zargotel.org^$all
 ||zaxonoax.com^$all
 ||zaxqjq3w2pit.top^$all
