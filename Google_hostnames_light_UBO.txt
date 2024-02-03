@@ -91,7 +91,6 @@
 ||790talknow.com^$all
 ||7figureadvisor.com^$all
 ||7shw1.com^$all
-||7uioertsed.com^$all
 ||800apples2.com^$all
 ||800eastsantafenm.com^$all
 ||88rdr.com^$all
@@ -514,7 +513,6 @@
 ||asianconservatives.com^$all
 ||asiathemes.asia^$all
 ||askmestudent.com^$all
-||askmytips.com^$all
 ||asm.devstarit.com^$all
 ||asps.live^$all
 ||assembleiadedeusfoz.com.br^$all
@@ -1074,6 +1072,7 @@
 ||chekitut.info^$all
 ||chelsea-keefer.com^$all
 ||cherryslimes.com^$all
+||chess-coordinates-trainer.netlify.app^$all
 ||chestishugli.com^$all
 ||chhathpuja.co^$all
 ||chiasetatca.net^$all
@@ -1328,12 +1327,10 @@
 ||criticschronicle.com^$all
 ||crm-coinbase.com^$all
 ||croaciaaudio.com^$all
-||crocantestudio.com^$all
 ||cropchem-br.com^$all
 ||croroch.com^$all
 ||crossfit550.is^$all
 ||crotonlions.org^$all
-||crowdcreate.co^$all
 ||crowdfundmillionaire.co.uk^$all
 ||cruiseaficionados.com^$all
 ||cruisingsverige.se^$all
@@ -1376,6 +1373,7 @@
 ||cuturl.fr^$all
 ||cvbn8iuj.cfd^$all
 ||cvfn.org^$all
+||cya.net^$all
 ||cyber-lynk.com^$all
 ||cyberloaf.com^$all
 ||cyfaircal.com^$all
@@ -1422,7 +1420,6 @@
 ||databaseebook.com^$all
 ||dataweb.my.id^$all
 ||datesblaze.com^$all
-||datingfox.com^$all
 ||datinghypnotic.life^$all
 ||davehendricks1.com^$all
 ||davidasavanond.com^$all
@@ -1475,6 +1472,7 @@
 ||demartini2018.com^$all
 ||demiramdaunter.space^$all
 ||demohost.co.in^$all
+||demontools.ru^$all
 ||demve-gfc.cloud^$all
 ||demve-gfc.xyz^$all
 ||demve-gfd.online^$all
@@ -1545,7 +1543,6 @@
 ||digitallimegreen.com^$all
 ||digitalmarkindia.com^$all
 ||digitalposition.click^$all
-||digitalreachinc.com^$all
 ||digitalstrike.net^$all
 ||digitalthought.me^$all
 ||digitalvast.com^$all
@@ -1579,7 +1576,6 @@
 ||dizzify.me^$all
 ||djclever.com^$all
 ||djsevere.com^$all
-||djsneak.com^$all
 ||djuniversoul.com^$all
 ||dk-ok.online^$all
 ||dldaen.top^$all
@@ -1775,7 +1771,6 @@
 ||egocomics.com^$all
 ||egsearch.com^$all
 ||ehost-services222.com^$all
-||ehost-services233.com^$all
 ||ehrmann-usa.com^$all
 ||eicomp.ru^$all
 ||eightmediastudios.com^$all
@@ -1870,7 +1865,6 @@
 ||epasswordrecovery.com^$all
 ||epeyuu.buzz^$all
 ||ephonenews.com^$all
-||epic-skin-ml.000webhostapp.com^$all
 ||epicductcleaning.com.au^$all
 ||epicmpls.com^$all
 ||epicureancyclist.com^$all
@@ -1964,7 +1958,6 @@
 ||factbees.com^$all
 ||faecollective.net^$all
 ||failproofhiring.com^$all
-||failzoma.ru^$all
 ||fairwindsweb.com^$all
 ||fairworthrealestate.com^$all
 ||falconhvacpros.com^$all
@@ -2071,7 +2064,6 @@
 ||float-offices.de^$all
 ||florabond.com^$all
 ||florencewallis.org^$all
-||florentin.us^$all
 ||florhamvillagecamera.com^$all
 ||floridabackyard.org^$all
 ||floridapiers.com^$all
@@ -2156,7 +2148,6 @@
 ||friendandfoebook.com^$all
 ||friendsofbitterlake.org^$all
 ||friendsofgeorgia.com^$all
-||frmedvgr.com^$all
 ||fromagegrille.com^$all
 ||fromair.ru^$all
 ||fromdemotodestiny.com^$all
@@ -2546,7 +2537,6 @@
 ||homekithero.com^$all
 ||homesharetas.com.au^$all
 ||homesjobonline.com^$all
-||homesteadgraphics.com^$all
 ||homployeehub.com^$all
 ||honeybunchesfloral.com^$all
 ||honeytrapagency.co.uk^$all
@@ -2587,6 +2577,7 @@
 ||hqpb.com.br^$all
 ||hsers.top^$all
 ||hsfi.us^$all
+||hshssllc.org^$all
 ||hsptlprdctns.com^$all
 ||hua-wu.com^$all
 ||hua-yi.com.tw^$all
@@ -2849,7 +2840,6 @@
 ||jamestownproject.org^$all
 ||jamiagohorpur.com^$all
 ||jamieleighto.com^$all
-||jamiemodonnell.com^$all
 ||janeandsteven.com^$all
 ||janhendriks.net^$all
 ||janiallan.com^$all
@@ -2997,6 +2987,7 @@
 ||kapwamovement.com^$all
 ||karapelech.ca^$all
 ||karlschatz.com^$all
+||karolinkabulgaria.com^$all
 ||karolmoda.com^$all
 ||kartleast.guru^$all
 ||kasa-vubu.info^$all
@@ -3124,7 +3115,6 @@
 ||kvkcs.com^$all
 ||kvnational.us^$all
 ||kwatlantamidtown.com^$all
-||kwtpost.com^$all
 ||kyngsam.com^$all
 ||kyokushinkai-valencia.com^$all
 ||kyroslawoffices.com^$all
@@ -3357,6 +3347,7 @@
 ||luckyok.top^$all
 ||luckypeak.vip^$all
 ||luckytownpress.com^$all
+||luckywinner-web1.com^$all
 ||lucvidal.com^$all
 ||lugasport.info^$all
 ||luka.ge^$all
@@ -3620,6 +3611,7 @@
 ||mobbedupinc.com^$all
 ||mobfa.org^$all
 ||mobialy.com^$all
+||mobicast.vn^$all
 ||mobilegrandrapids.com^$all
 ||mobileshield.net^$all
 ||mobilevps.com^$all
@@ -3763,7 +3755,6 @@
 ||myworldshots.com^$all
 ||n-o-t-a.com^$all
 ||nachinai.com^$all
-||nadies.de^$all
 ||naffico.com^$all
 ||naghshmehr.com^$all
 ||naifthadeu.com.br^$all
@@ -3808,7 +3799,6 @@
 ||netflix-activate.com^$all
 ||netflix-clone-react-typescript.vercel.app^$all
 ||netflix-static-ui-clone.herokuapp.com^$all
-||netflix.us19.list-manage.com^$all
 ||nether-zone.com^$all
 ||nethosting.web.tr^$all
 ||netneo.de^$all
@@ -3948,6 +3938,7 @@
 ||obs-studio.co^$all
 ||obzor-money.space^$all
 ||oceanconxt.com^$all
+||oceanicquest.com^$all
 ||oddtipster.web.app^$all
 ||odjrabot.com^$all
 ||offersintegrity.com^$all
@@ -4145,7 +4136,6 @@
 ||paysecure.ro^$all
 ||pazitosinc.com^$all
 ||pazsanchez.com^$all
-||pbexperts.ru^$all
 ||pcappsfull.com^$all
 ||pcdh.org^$all
 ||pcgameall.com^$all
@@ -4208,6 +4198,7 @@
 ||pi1f.in^$all
 ||piacererestaurant.com^$all
 ||piazzagrande.info^$all
+||picasa2.ru^$all
 ||piccolinaadventures.com^$all
 ||pickleballglory.com^$all
 ||pickofiles.com^$all
@@ -4649,6 +4640,7 @@
 ||rockcreditrepairs.com^$all
 ||rocketburlesque.com^$all
 ||rocketcarrental.com^$all
+||rockhotel-tour.com^$all
 ||rockologyband.com^$all
 ||rockymountainingredients.com^$all
 ||rodchatatickets.com^$all
@@ -4665,7 +4657,6 @@
 ||romancreates.com^$all
 ||romaniatravel.ru^$all
 ||romb.zt.ua^$all
-||romebymouth.com^$all
 ||romiceramics.com^$all
 ||rongpan.net^$all
 ||ronin-network.com^$all
@@ -5174,7 +5165,6 @@
 ||submergementfodient.sbs^$all
 ||subpix.bet^$all
 ||subsidyxpress.com^$all
-||suburbanheatandcooling.com^$all
 ||subway-surf.com^$all
 ||suestalcup.com^$all
 ||sufficientbackyard.email^$all
@@ -5576,12 +5566,10 @@
 ||traveler365.com^$all
 ||travelpak.co.uk^$all
 ||treadmillsandellipticalmachines.com^$all
-||tree-creative.com^$all
 ||trellislane.com^$all
 ||trenchlessubmarine.com^$all
 ||trenux.com^$all
 ||triceptual.co.uk^$all
-||trickytechy.com^$all
 ||triffictottenham.co.uk^$all
 ||trinidadreina.com^$all
 ||trip-quest.com^$all
@@ -6049,6 +6037,7 @@
 ||www.aimage.it^$all
 ||www.allgeier-it.com^$all
 ||www.altiusinsurance.eu^$all
+||www.americaontrack.org^$all
 ||www.amssoftech.com^$all
 ||www.anemologio.gr^$all
 ||www.apollotv.net^$all
@@ -6092,11 +6081,11 @@
 ||www.commonap.org^$all
 ||www.comparefactory.com^$all
 ||www.contentcalendar.io^$all
-||www.convert2mp3.net^$all
 ||www.corrierenet.com^$all
 ||www.cowndog.com^$all
 ||www.cpupk.com^$all
 ||www.creamanmitsu.jp^$all
+||www.cromatica.in^$all
 ||www.crsorgi-gov-in.in^$all
 ||www.crtnepal.org^$all
 ||www.daiphatstore.com^$all
@@ -6256,7 +6245,6 @@
 ||www.seeword.shop^$all
 ||www.setvnow.com^$all
 ||www.shareofficesolutions.com^$all
-||www.shirazidistributing.com^$all
 ||www.shox.cc^$all
 ||www.sidoharjo.com^$all
 ||www.sign-apple.com^$all
