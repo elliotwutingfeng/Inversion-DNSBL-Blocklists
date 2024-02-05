@@ -191,7 +191,6 @@
 ||adcommdev.com^$all
 ||adderstrike.com^$all
 ||addfactor.com^$all
-||addfun.club^$all
 ||addresslibya.co^$all
 ||addymeira.net^$all
 ||adeslas.seguroysalud.es^$all
@@ -202,6 +201,7 @@
 ||adorablefurnishing.ml^$all
 ||adoss.xyz^$all
 ||adpostnepal.com^$all
+||adreaminmind.com^$all
 ||adriennedonnelly.com.au^$all
 ||adriennedumas.com^$all
 ||adsclik.co^$all
@@ -548,7 +548,6 @@
 ||aufseite1.com^$all
 ||augenblickmal.info^$all
 ||augmentin.store^$all
-||augustevening.com^$all
 ||auknceiwould.com^$all
 ||auks.top^$all
 ||aurorapacific.com.ph^$all
@@ -874,6 +873,7 @@
 ||brettmack.me^$all
 ||brevard-realestate.com^$all
 ||brewallgrain.com^$all
+||bri-institute.ac.id^$all
 ||bridgetbartonfororegon.com^$all
 ||bridgewater4th.com^$all
 ||bridgewatermcg.com^$all
@@ -922,6 +922,7 @@
 ||buzzveral.com^$all
 ||bvcvirtual.com^$all
 ||by-hand.co.uk^$all
+||by-suzette.com^$all
 ||byronberganza.com^$all
 ||bytefury.com^$all
 ||bzxw3.top^$all
@@ -1130,7 +1131,6 @@
 ||cialisedpill.com^$all
 ||cialiswithoutadoctorprescription.com^$all
 ||ciecoo.com^$all
-||cigaeat.com^$all
 ||cimarronclub.com^$all
 ||cimj.org^$all
 ||cincodemayohawaii.com^$all
@@ -1329,6 +1329,7 @@
 ||credittokeys.com^$all
 ||creedcodecult.com^$all
 ||criadorsites.com^$all
+||cristianolucarelli.com^$all
 ||criticschronicle.com^$all
 ||crm-coinbase.com^$all
 ||croaciaaudio.com^$all
@@ -1879,6 +1880,7 @@
 ||eponlinemom-sg.com^$all
 ||eprices.net^$all
 ||erebelfare.xyz^$all
+||erfen.xin^$all
 ||erfiedesign.com^$all
 ||erickemphfer.com^$all
 ||erindowning.com^$all
@@ -2855,6 +2857,7 @@
 ||janiallan.com^$all
 ||jankatuin.com^$all
 ||janwahl.com^$all
+||jaroslavhach.com^$all
 ||jasabadutsulap.com^$all
 ||jasaservicepanggilanbandung.com^$all
 ||jasonratzlaff.com^$all
@@ -2894,7 +2897,6 @@
 ||jettenvy.com^$all
 ||jettllc.biz^$all
 ||jewnoqvxyo.com^$all
-||jheer.org^$all
 ||jiluyisheng.com^$all
 ||jimmyrojas.com.co^$all
 ||jined.ddns.net^$all
@@ -3419,6 +3421,7 @@
 ||manaram.technology^$all
 ||manymoneysurvey.top^$all
 ||mapaescolar.com.br^$all
+||mapleleafcounselling.co.uk^$all
 ||mapmyworld.co.in^$all
 ||mapness.net^$all
 ||maralika.com^$all
@@ -3520,6 +3523,7 @@
 ||mejorestilodevida.net^$all
 ||mekaofland.click^$all
 ||melhorrango.com.br^$all
+||mellilaw.com^$all
 ||meltingpot.ws^$all
 ||memnison.com^$all
 ||menaraengineers.com^$all
@@ -3971,6 +3975,7 @@
 ||oishikoji.com^$all
 ||okayama-tonkatsu.com^$all
 ||okbpku.icu^$all
+||okinawa-sinka.jp^$all
 ||okiwake.com^$all
 ||olanology.com^$all
 ||oldclee.com^$all
@@ -4188,6 +4193,7 @@
 ||petizaction.org^$all
 ||petridisbabyboom.gr^$all
 ||petrifiedunrest.net^$all
+||pfhoe.com^$all
 ||pfumc.us^$all
 ||pge.org.ua^$all
 ||pgslot777ww.com^$all
@@ -4367,7 +4373,6 @@
 ||privatesalesonly.com^$all
 ||privatesemi.com^$all
 ||prix-j-plasma-renuvion.com^$all
-||priyammalhotra.com^$all
 ||priyanadkarni.com^$all
 ||prmflltration.com^$all
 ||pro-form-tech.com^$all
@@ -4631,7 +4636,6 @@
 ||riversideallofusornone.org^$all
 ||riyadhcleaning.net^$all
 ||rizkitech.my.id^$all
-||rkzinc.com^$all
 ||rkzod.sbs^$all
 ||rlymckense.com^$all
 ||rmaticalac.com^$all
@@ -4824,6 +4828,7 @@
 ||sebastian-kull.me^$all
 ||sec0afcu.com^$all
 ||secitweb.com^$all
+||secret-folder-simple-firebase1.web.app^$all
 ||secure-ua.top^$all
 ||secure-ua.website^$all
 ||security-check.ga^$all
@@ -4877,6 +4882,7 @@
 ||sewaswasth.com^$all
 ||sex3dsimulator.com^$all
 ||sexhay.fun^$all
+||seychelles.uk.com^$all
 ||seychellesprestige.com^$all
 ||sfa-sd.com^$all
 ||sfmanagementgroup.com^$all
@@ -4904,6 +4910,7 @@
 ||shawngo.com^$all
 ||shenbebathe.cfd^$all
 ||sheriffbullock.org^$all
+||sherwoodfarm.com^$all
 ||shiftthis.net^$all
 ||shinko-et.com^$all
 ||shiosapo.jpn.org^$all
@@ -5129,7 +5136,6 @@
 ||stefana.us^$all
 ||stefmobil.com^$all
 ||stehlikphotography.com^$all
-||stephaniebennetthenry.com^$all
 ||stephenhsegal.com^$all
 ||steptosell.com^$all
 ||sterlingindia.in^$all
@@ -5367,7 +5373,6 @@
 ||thedatabahn.com^$all
 ||thedesigamer.com^$all
 ||thedev.se^$all
-||thedevilinsidethebeltway.com^$all
 ||thedirsite.com^$all
 ||thedoozies.com^$all
 ||thedramastore.org^$all
@@ -5614,6 +5619,7 @@
 ||tutoringonlineclass.com^$all
 ||tuviviet.info^$all
 ||tuxug.com^$all
+||tv.oon.my.id^$all
 ||tvoinu2u.com^$all
 ||twilighthub.com^$all
 ||twilio-serverless-example.surge.sh^$all
@@ -5842,7 +5848,6 @@
 ||vniel.co.kr^$all
 ||vnustravel.com^$all
 ||voceabasarabiei.com^$all
-||vodkaandarose.blogspot.co.uk^$all
 ||voice-reason.cfd^$all
 ||voicefromthestone.com^$all
 ||voicer.com^$all
@@ -5963,7 +5968,6 @@
 ||williamkaminski.com^$all
 ||willywagon.net^$all
 ||window-updates-service.com^$all
-||windsorhillsrent.com^$all
 ||windwardapp.com^$all
 ||winnersoffers.com^$all
 ||winniecooper.net^$all
@@ -6097,7 +6101,6 @@
 ||www.cowndog.com^$all
 ||www.cpupk.com^$all
 ||www.creamanmitsu.jp^$all
-||www.cromatica.in^$all
 ||www.crsorgi-gov-in.in^$all
 ||www.crtnepal.org^$all
 ||www.daiphatstore.com^$all
