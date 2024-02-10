@@ -93,7 +93,6 @@
 ||78-violet.com^$all
 ||790talknow.com^$all
 ||7figureadvisor.com^$all
-||7shw1.com^$all
 ||800apples2.com^$all
 ||800eastsantafenm.com^$all
 ||88rdr.com^$all
@@ -216,7 +215,6 @@
 ||adventuredistricthotels.com^$all
 ||ae888.club^$all
 ||ae8886.net^$all
-||aedlocator.com.au^$all
 ||aep-d.de^$all
 ||aercashsurveynow.top^$all
 ||aerorato.com^$all
@@ -239,7 +237,6 @@
 ||agilityconfeccoes.com.br^$all
 ||agooage.com^$all
 ||agri-tecture.com^$all
-||agrocapital.com.ua^$all
 ||ahand.org^$all
 ||ahavietnam.com.vn^$all
 ||ahjtxx.com^$all
@@ -301,7 +298,6 @@
 ||aljaberpartners.com^$all
 ||all-about-wolves.com^$all
 ||allaboutexotics.com^$all
-||alldealsoz.com^$all
 ||allegreplusbonandrini.com^$all
 ||allegrosound.com^$all
 ||allenedmondsshoes.us^$all
@@ -376,7 +372,6 @@
 ||amnestyhk.org^$all
 ||amolwaghmodepatil.com^$all
 ||amorix.biz^$all
-||amoxipilin.com^$all
 ||amrszxrx.com^$all
 ||amuwiki.com^$all
 ||amykirk.com^$all
@@ -504,6 +499,7 @@
 ||arunas.tk^$all
 ||arundelschool.net^$all
 ||arztcomm.com^$all
+||as-kartons.de^$all
 ||as9105.com^$all
 ||asalunresgicus.ml^$all
 ||asanoxn.com^$all
@@ -535,6 +531,7 @@
 ||atlanticcbd.org^$all
 ||atoforme.live^$all
 ||atomaus.com^$all
+||atomicbillboards.com^$all
 ||atomicpope.com^$all
 ||atomictprojects.co.za^$all
 ||atoosacademy.com^$all
@@ -1170,6 +1167,7 @@
 ||clix.pw^$all
 ||clone-with-react-js-4cae9.web.app^$all
 ||cloth-ears.co.uk^$all
+||cloud.tabdigital.eu^$all
 ||cloud25.xyz^$all
 ||clouddefdataweb.com^$all
 ||cloudfire.quest^$all
@@ -1426,6 +1424,7 @@
 ||davidcoin.io^$all
 ||davidgarlitz.com^$all
 ||davidhmastersdds.com^$all
+||davidpetherick.com^$all
 ||davidskillory.com^$all
 ||davidwessel.com^$all
 ||davinciseo.com^$all
@@ -1433,6 +1432,7 @@
 ||davislawyerpc.com^$all
 ||davnorinsurance.com^$all
 ||dawnloadonline.com^$all
+||dayerlogistics.com^$all
 ||daylondeon.com^$all
 ||dazeinamaze.com^$all
 ||dcache.ml^$all
@@ -1483,6 +1483,7 @@
 ||denknowle.com^$all
 ||dental-kit.clinic^$all
 ||dental-placement.com^$all
+||dentistryoflakeland.com^$all
 ||denvish.net^$all
 ||depanneurquebecois.com^$all
 ||deployfreetoken.com^$all
@@ -1984,7 +1985,6 @@
 ||fashionreporters.com^$all
 ||fashmark.com^$all
 ||fastify.com^$all
-||fastip.es^$all
 ||fastloans24.net^$all
 ||fastscrack.com^$all
 ||fastseorankings.com^$all
@@ -2075,6 +2075,7 @@
 ||floridapiers.com^$all
 ||flottwellpromenade.de^$all
 ||flowcc.top^$all
+||flowerstlc.com^$all
 ||flowup.biz^$all
 ||flyingsquidgames.com^$all
 ||flytectelecom.com.py^$all
@@ -2641,7 +2642,6 @@
 ||id-content.ru^$all
 ||idealauto.org^$all
 ||ideassjsu.org^$all
-||ideay.net.ni^$all
 ||ideetcie.com^$all
 ||identifyyourself.biz^$all
 ||idesol.com.br^$all
@@ -2878,6 +2878,7 @@
 ||jenniferselbylong.com^$all
 ||jeoleuro.com^$all
 ||jeremiahtheatricals.com^$all
+||jerryrutherford.com^$all
 ||jerusalemsminneapolis.com^$all
 ||jesusnanak.com^$all
 ||jetblue.today^$all
@@ -2897,7 +2898,6 @@
 ||jksde.top^$all
 ||jlamim.com.br^$all
 ||jmalin.com^$all
-||jmsdpublishing.com^$all
 ||jmusicworld.com^$all
 ||jnan.net^$all
 ||jnantours.com^$all
@@ -3238,6 +3238,7 @@
 ||lidyapos.com^$all
 ||lie32e.vip^$all
 ||lifeatf8.com^$all
+||lifecarstore.com^$all
 ||lifecellproject.org^$all
 ||lifeisbetterwithbooks.com^$all
 ||lifelinevietnam.vn^$all
@@ -3676,7 +3677,6 @@
 ||movieplayshow.com^$all
 ||movingimagecork.net^$all
 ||movplayer.net^$all
-||moxii.com^$all
 ||moz-secure.com^$all
 ||mposlotid.com^$all
 ||mr-rick.com^$all
@@ -3731,7 +3731,6 @@
 ||myglobaldirs.com^$all
 ||mygoodnesscakes.com^$all
 ||mygov03-ato.com^$all
-||myisraelsource.com^$all
 ||myitzy.com^$all
 ||mykolmered.com^$all
 ||mylandlordreport.com^$all
@@ -4134,6 +4133,7 @@
 ||paygonline.online^$all
 ||paypal-login.jimdosite.com^$all
 ||paypal-net.biz^$all
+||paypal-proof-generator.threatiscool.repl.co^$all
 ||paypallogini.org^$all
 ||paysecure.ro^$all
 ||pazitosinc.com^$all
@@ -4198,7 +4198,6 @@
 ||photos-moscar.fr^$all
 ||phptrends.com^$all
 ||phrenetic.org^$all
-||physx.su^$all
 ||pi1f.in^$all
 ||piacererestaurant.com^$all
 ||piazzagrande.info^$all
@@ -4341,7 +4340,6 @@
 ||prchecker.pw^$all
 ||prednisolone911.com^$all
 ||pregnancyandfitness.org^$all
-||premier-plumbing.org^$all
 ||present-box.ru^$all
 ||presentvaluesoftware.com^$all
 ||presidentobamaimpersonator.com^$all
@@ -4456,6 +4454,7 @@
 ||questermail.com^$all
 ||questionthedogma.com^$all
 ||quick-back.com^$all
+||quick-cpu.ru^$all
 ||quick1nstall11.com^$all
 ||quickentrance.com^$all
 ||quickinformations.com^$all
@@ -4527,6 +4526,7 @@
 ||redcapinvestigations.co.uk^$all
 ||reddeaprendizaje.com^$all
 ||redditstatic.co^$all
+||redempb.com^$all
 ||redevelopmenteconomics.com^$all
 ||redfeildance.com^$all
 ||redirect.sgtips.com^$all
@@ -4542,6 +4542,7 @@
 ||reiswijsneuzen.nl^$all
 ||rek-profstyle.ru^$all
 ||reloadcodes.com^$all
+||remaildr.com^$all
 ||rememberdominic.com^$all
 ||remodelquicktips.com^$all
 ||renay.co.uk^$all
@@ -4557,9 +4558,7 @@
 ||rescas.com^$all
 ||rescoremem.uno^$all
 ||resenhasincera.com^$all
-||reservaciones.com^$all
 ||reservations-desk.com^$all
-||reset-windows-password.com^$all
 ||residencialanaville.com.br^$all
 ||resmedia.vn^$all
 ||restaurantebrisa.com^$all
@@ -4607,7 +4606,6 @@
 ||rinconestudiantil.com^$all
 ||rine.co.in^$all
 ||rioaccess.com^$all
-||riojasgroup.com^$all
 ||rip1.com^$all
 ||rippleplastic.com^$all
 ||rishta4you.com^$all
@@ -5217,7 +5215,6 @@
 ||syakenya.info^$all
 ||sydcar.com^$all
 ||syeuaw.top^$all
-||sykespro.com^$all
 ||synchighlydevelopedtheproduct.vip^$all
 ||syntax.com.au^$all
 ||syokubutu.com^$all
@@ -5302,6 +5299,7 @@
 ||teetch.co^$all
 ||teknoendns.com^$all
 ||tekskydemo.com^$all
+||tekstilteknik.com^$all
 ||tele-doctor24.de^$all
 ||telegamr.com^$all
 ||telegcn.com^$all
@@ -5386,6 +5384,7 @@
 ||themizrahicollection.com^$all
 ||themmsystem.wpengine.com^$all
 ||themobileupdates.com^$all
+||themocbrand.com^$all
 ||themostlyhealthy.com^$all
 ||thenantucketbasket.com^$all
 ||thenewztime.com^$all
@@ -5474,7 +5473,6 @@
 ||tionininance.com^$all
 ||tipspinz.com^$all
 ||titangelgoldrusia.com^$all
-||tjent.com^$all
 ||tl86n6.icu^$all
 ||tlrbsi.com^$all
 ||tltxsb.com^$all
@@ -5528,6 +5526,7 @@
 ||toslawe.nl^$all
 ||totakenowgainsurvey.top^$all
 ||total-health-fitness.com^$all
+||totalcomfortsolutionsac.com^$all
 ||totalimpressions.com^$all
 ||totallyhempcrazy.com^$all
 ||touchbook.xyz^$all
@@ -5615,7 +5614,6 @@
 ||twy.jp^$all
 ||tylerblalock.com^$all
 ||type-u.net^$all
-||u.kfd.me^$all
 ||u111.com^$all
 ||ua-consumerpanel.frge.io^$all
 ||ua-login.top^$all
@@ -6032,6 +6030,7 @@
 ||www.acchh.org^$all
 ||www.adstar.com^$all
 ||www.adultingwebseries.com^$all
+||www.agrocapital.com.ua^$all
 ||www.aibasecloud.com^$all
 ||www.aimage.it^$all
 ||www.allgeier-it.com^$all
@@ -6047,6 +6046,7 @@
 ||www.avrsb.ca^$all
 ||www.baby-medical-questions-and-answers.com^$all
 ||www.bandit4dalt.xyz^$all
+||www.bankfraudalerts.com^$all
 ||www.bankofamericalogin.org^$all
 ||www.bao-zi.net^$all
 ||www.bbmlondon.com^$all
@@ -6146,6 +6146,7 @@
 ||www.itoldyouso.com^$all
 ||www.jardindematatena.com^$all
 ||www.jarsonic.com^$all
+||www.jmsdpublishing.com^$all
 ||www.joautum.top^$all
 ||www.juicylipco.com^$all
 ||www.juniorun.com^$all
@@ -6222,6 +6223,7 @@
 ||www.reaching.to^$all
 ||www.readingstash.com^$all
 ||www.redknibbles.com^$all
+||www.reservaciones.com^$all
 ||www.reuvenjepsteinlaw.com^$all
 ||www.revistaespigol.com^$all
 ||www.riffcityguitaroutlet.com^$all
@@ -6252,6 +6254,7 @@
 ||www.smartpointresearch.com^$all
 ||www.sminfosoft.com^$all
 ||www.smokinstangs.com^$all
+||www.smv.co^$all
 ||www.socialtable.co^$all
 ||www.sp3realty.com^$all
 ||www.sparescnx.com^$all
@@ -6285,7 +6288,6 @@
 ||www.vhly.com^$all
 ||www.vidacantinawhittier.com^$all
 ||www.video18x.com^$all
-||www.vintagesmargaretriver.com.au^$all
 ||www.viralmarketinghub.com^$all
 ||www.virtualentrepreneursassociation.org^$all
 ||www.visa-gift.com^$all
@@ -6384,6 +6386,7 @@
 ||yqbing.com^$all
 ||ysaevents.com^$all
 ||yslearn.com^$all
+||ytauthtest.vercel.app^$all
 ||yuletreefarm.com^$all
 ||yuugigyou.net^$all
 ||yybtfl.top^$all
