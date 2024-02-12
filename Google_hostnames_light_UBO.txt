@@ -120,6 +120,7 @@
 ||a1fishingseychelles.com^$all
 ||a70z.com^$all
 ||a8websites.co.uk^$all
+||aact.su^$all
 ||aaha.pe.kr^$all
 ||aahninfotech.com^$all
 ||aaronpruner.com^$all
@@ -534,6 +535,7 @@
 ||atomicpope.com^$all
 ||atomictprojects.co.za^$all
 ||atscorp.tech^$all
+||atweenchokra.digital^$all
 ||atxcommunications.com^$all
 ||auburnsnipnclip.com^$all
 ||audioramabc.com^$all
@@ -657,7 +659,6 @@
 ||beautifullike.com^$all
 ||beautifulsaving.com^$all
 ||beauty-advices.com^$all
-||beccareed.com^$all
 ||beckarchitects.com^$all
 ||bedradio.co.kr^$all
 ||bedsandbolts.co.uk^$all
@@ -895,6 +896,7 @@
 ||buildbettertables.com^$all
 ||builtwithnuxt.com^$all
 ||bulldozer-vfx.com^$all
+||bumbuajaib.com^$all
 ||bumdoseout.live^$all
 ||bunox.net^$all
 ||buntspecht.us^$all
@@ -982,6 +984,7 @@
 ||carvalu.com^$all
 ||casademontecristo-chicago.com^$all
 ||casadocorretor.net.br^$all
+||casalgarcia.com.br^$all
 ||casapalmeraharia.com^$all
 ||casciosmarketbistro.com^$all
 ||cashin.store^$all
@@ -1456,7 +1459,6 @@
 ||deepbeatzradio.com^$all
 ||deeprooted.nyc^$all
 ||deeptapes.com^$all
-||def-device.com^$all
 ||defender-control.ru^$all
 ||defenderpczone.site^$all
 ||defenestratestudios.com^$all
@@ -1591,6 +1593,7 @@
 ||dmcodyssey.org^$all
 ||dmsbp.hu^$all
 ||dn42br.azurewebsites.net^$all
+||dn4vp4.pro^$all
 ||dnfrl1.top^$all
 ||dnspao.com^$all
 ||dnsspeed.info^$all
@@ -1725,7 +1728,6 @@
 ||eadikesghtalapurcareers.com^$all
 ||eagleny.org^$all
 ||eahandytool.com^$all
-||earth01.info^$all
 ||earthsummit.info^$all
 ||easternrope.com^$all
 ||eastsideforhire.com^$all
@@ -1969,6 +1971,7 @@
 ||failproofhiring.com^$all
 ||fairwindsweb.com^$all
 ||faithapplied.org^$all
+||fakeflix.th3wall.codes^$all
 ||falconhvacpros.com^$all
 ||falforum.org^$all
 ||fallbox.icu^$all
@@ -2368,6 +2371,7 @@
 ||greener-grass.ru^$all
 ||greenery-path.cfd^$all
 ||greenflydesign.com^$all
+||greenfolio.com^$all
 ||greenlife.ps^$all
 ||greenmangostudio.com^$all
 ||greenprintlandscapes.com.au^$all
@@ -3287,7 +3291,6 @@
 ||liviofranceschini.com^$all
 ||livpureimprovehelt.today^$all
 ||livrosebolinhos.com^$all
-||lizzyford.com^$all
 ||ljcms.org^$all
 ||llanidloesmarket.co.uk^$all
 ||llelevenlabs.com^$all
@@ -4294,7 +4297,6 @@
 ||pokertbrnewss.com^$all
 ||poldenet.live^$all
 ||politicsla.com^$all
-||poloina.cc^$all
 ||pololnlex.com^$all
 ||poltishok.xyz^$all
 ||polygonatl.com^$all
@@ -4325,7 +4327,6 @@
 ||powerpt.ru^$all
 ||pozdrive.ru^$all
 ||ppburgos.es^$all
-||ppclm.es^$all
 ||ppmataro.com^$all
 ||pr-strategy.com.ua^$all
 ||practicies.org^$all
@@ -4507,7 +4508,6 @@
 ||readinginheels.com^$all
 ||readysetwife.com^$all
 ||realfemalemasturbation.org^$all
-||reallyprosecution.cn^$all
 ||realnoevremya.website^$all
 ||realroi.ru^$all
 ||rebrn.com^$all
@@ -4737,7 +4737,6 @@
 ||saniac.com^$all
 ||sankafact.com^$all
 ||santapaulhillier.com^$all
-||sapna25.com^$all
 ||sappercoding.com^$all
 ||sarahaudreysalon.com^$all
 ||sarahchaussee.com^$all
@@ -4996,6 +4995,7 @@
 ||smatthewliao.com^$all
 ||smboilerworks.com^$all
 ||smilz.net^$all
+||sminfosoft.com^$all
 ||smkcorpatarin1.sch.id^$all
 ||smmberlin.com^$all
 ||smokergensui.com^$all
@@ -5229,6 +5229,7 @@
 ||tadalafilxtabs.com^$all
 ||tailwindtrading.org^$all
 ||taiwanxima.com^$all
+||takakuya.com^$all
 ||takedownfightmedia.com^$all
 ||takeonafrica.com^$all
 ||takglobalutama.com^$all
@@ -5241,7 +5242,6 @@
 ||tanglenotices.com^$all
 ||tanglewoodretreat.co.nz^$all
 ||tangovagabond.com^$all
-||tankfilthhounds.net^$all
 ||tanwi1234.github.io^$all
 ||taoli99.com^$all
 ||taotechingdaily.com^$all
@@ -5307,6 +5307,7 @@
 ||templeagents.com^$all
 ||tennisbafra.org^$all
 ||teoddnrfwuv.com^$all
+||teramais.com.br^$all
 ||terechtgesteld.nl^$all
 ||terrariumshop.ro^$all
 ||terrasantacoffee.com^$all
@@ -5325,7 +5326,6 @@
 ||the31news.com^$all
 ||the6340.com^$all
 ||the70sproject.com^$all
-||theanupama.net^$all
 ||theapprenticeandthejourneyman.com^$all
 ||theater-monsters.com^$all
 ||theatrecentrik.com^$all
@@ -5698,7 +5698,6 @@
 ||utrimcleanseblog.com^$all
 ||uwaki110.jp^$all
 ||uxdgpy.top^$all
-||uyfjnqkdmswaxm.com^$all
 ||uz-panel-verified-series.rest^$all
 ||uzi116.com^$all
 ||vabavjkbvbebubgubbvbbvbuwruibifvffjbvnfj203.sbs^$all
@@ -5820,7 +5819,6 @@
 ||vnustravel.com^$all
 ||voice-reason.cfd^$all
 ||voicefromthestone.com^$all
-||voicer.com^$all
 ||voidix.com^$all
 ||voipjoy.com^$all
 ||volleysangiovanni.com^$all
@@ -6248,7 +6246,6 @@
 ||www.sirenamorena.com^$all
 ||www.slashplug.com^$all
 ||www.smartpointresearch.com^$all
-||www.sminfosoft.com^$all
 ||www.smokinstangs.com^$all
 ||www.smv.co^$all
 ||www.socialtable.co^$all
@@ -6351,7 +6348,6 @@
 ||yeezysupplystore.com^$all
 ||yeezyy.us.com^$all
 ||yehuda-vaserman.com^$all
-||yelitzonpc.com^$all
 ||yellowknifeinn.com^$all
 ||yemekkulubum.com^$all
 ||yersseqx.click^$all
