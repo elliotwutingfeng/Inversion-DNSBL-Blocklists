@@ -263,7 +263,6 @@
 ||airport-ksa.com^$all
 ||airpump.ru^$all
 ||aiziol999.com^$all
-||ajax-tr.com^$all
 ||ajedrez.ga^$all
 ||ajkertech.xyz^$all
 ||ajmanholding.ae^$all
@@ -349,7 +348,6 @@
 ||amazingramayanaballet.com^$all
 ||amazon666.vip^$all
 ||amazoncreditsyou.com^$all
-||amazonfbamaster.de^$all
 ||amazonsurvey.today^$all
 ||ambbet.fun^$all
 ||amberinstituteandtheologicalseminary.org^$all
@@ -1324,6 +1322,7 @@
 ||creedcodecult.com^$all
 ||criadorsites.com^$all
 ||cristianolucarelli.com^$all
+||cristianomachado.com.br^$all
 ||criticschronicle.com^$all
 ||crm-coinbase.com^$all
 ||croaciaaudio.com^$all
@@ -1793,10 +1792,10 @@
 ||elcandelerodeluz.org^$all
 ||eldo.top^$all
 ||elearningchampion.com^$all
-||electricbeach.org^$all
 ||electricitybilling.com^$all
 ||electronicatriplea.com^$all
 ||electronicsolvers.com^$all
+||elegant-mayer-72bf28.netlify.app^$all
 ||elek-ke.cloud^$all
 ||elektrischefietsen-aanbieding.nl^$all
 ||elemblo.com^$all
@@ -1868,7 +1867,6 @@
 ||entry4hide.cyou^$all
 ||enttuth.org.np^$all
 ||envangmedia.com^$all
-||environmentalsurfacesolutions.com^$all
 ||envisionphoto.com^$all
 ||eovlfc.top^$all
 ||epaper.xinjiangnet.com.cn^$all
@@ -2121,7 +2119,6 @@
 ||forum.neosmartpen.com^$all
 ||forumsmaroc.com^$all
 ||fostats.com^$all
-||fotc.org.au^$all
 ||fotocopiadorasprofesionalescanarias.ml^$all
 ||fotografiasdesoyluna.com^$all
 ||fougereformayor.com^$all
@@ -2198,9 +2195,9 @@
 ||gabapentinsdf.com^$all
 ||gabarronfoundation.org^$all
 ||gabjam.com^$all
+||gadeer.org^$all
 ||gadian.org^$all
 ||gaeast.ghanadistricts.gov.gh^$all
-||gainforfree.com^$all
 ||gainmuscleandloseweight.com^$all
 ||galeriemetropolis.com^$all
 ||galore.biz^$all
@@ -2208,7 +2205,6 @@
 ||gamecron.com^$all
 ||gamegloom.com^$all
 ||gamer-view.com^$all
-||gamervalvet.com^$all
 ||gamespottingnetworks.com^$all
 ||gamevibe-65.shop^$all
 ||gaminesilverlake.com^$all
@@ -2397,7 +2393,6 @@
 ||guarnieri.com.ar^$all
 ||gucciuk.me.uk^$all
 ||guelaguetzasj.com^$all
-||gughe.org^$all
 ||gujaratirocks.com^$all
 ||gulfafricans.com^$all
 ||gulfpoleconcerns.com^$all
@@ -2687,7 +2682,6 @@
 ||implementsandmore.com^$all
 ||importantapp.space^$all
 ||imprim-pub.fr^$all
-||in-shot.ru^$all
 ||in.sv^$all
 ||inactionagain.com^$all
 ||inazhashim.com^$all
@@ -2735,7 +2729,6 @@
 ||inlr2e.vip^$all
 ||innerhorizonspa.com^$all
 ||inno-msp.mk^$all
-||innoshop.org^$all
 ||innovaagencia.com^$all
 ||innovadesa.com^$all
 ||innovantage.in^$all
@@ -2946,7 +2939,6 @@
 ||ju-fa.hu^$all
 ||jualsenapan.com^$all
 ||juanitachronowski.com^$all
-||juanjosedelaney.com.ar^$all
 ||juegario.com^$all
 ||juicysexstories.com^$all
 ||julianbarkat.com^$all
@@ -3466,7 +3458,6 @@
 ||maund.com^$all
 ||mavijo.site^$all
 ||max-your-media.com^$all
-||maximsoldatkin.com^$all
 ||maxinet.net.br^$all
 ||maxiplanet.de^$all
 ||maxiurl.com^$all
@@ -3647,7 +3638,6 @@
 ||monkeymediahouse.com^$all
 ||monoamniotic.org^$all
 ||montana.co.ke^$all
-||montanaritecnologia.com.br^$all
 ||montblancpensoutletsaleonline.com^$all
 ||montues.com^$all
 ||monyrwrds.com^$all
@@ -3673,7 +3663,6 @@
 ||moto.netlib.re^$all
 ||motorbikeheadgear.com^$all
 ||motorclips.com.au^$all
-||motorcyclle.xyz^$all
 ||mountainoffire.ipower.com^$all
 ||mountainspringsmotelwi.com^$all
 ||moveicon.com^$all
@@ -3702,6 +3691,7 @@
 ||multisync.ml^$all
 ||multitudesdoc.com^$all
 ||mumbox.com^$all
+||munipaimas.gob.pe^$all
 ||munpokharabids.gov.np^$all
 ||muovitimangiacammina.net^$all
 ||murrietainsuranceservices.com^$all
@@ -3975,6 +3965,7 @@
 ||olmanbrice.com^$all
 ||olympiafriends.com^$all
 ||om3s4.top^$all
+||omafit.net^$all
 ||omcdemopage.com^$all
 ||omega-watchess.us.com^$all
 ||omegabooking.com.tn^$all
@@ -4327,6 +4318,7 @@
 ||powerpt.ru^$all
 ||pozdrive.ru^$all
 ||ppburgos.es^$all
+||ppcengine.net^$all
 ||ppmataro.com^$all
 ||pr-strategy.com.ua^$all
 ||practicies.org^$all
@@ -4339,6 +4331,7 @@
 ||prchecker.pw^$all
 ||prednisolone911.com^$all
 ||pregnancyandfitness.org^$all
+||premiocarlosponce.pe^$all
 ||present-box.ru^$all
 ||presentvaluesoftware.com^$all
 ||presidentobamaimpersonator.com^$all
@@ -4785,6 +4778,7 @@
 ||scotchandpretzels.com^$all
 ||scottishtowncrier.com^$all
 ||scottpatrickabel.com^$all
+||scottwade.com^$all
 ||screensequence.com^$all
 ||scriptletts.com^$all
 ||sculpedmanky.uno^$all
@@ -5002,6 +4996,7 @@
 ||smokesouth.com^$all
 ||smokinhotbbqmyrtlebeach.com^$all
 ||smoothfactor.de^$all
+||smv.co^$all
 ||sn7.org^$all
 ||snapdefense.com^$all
 ||snaresamaze.uno^$all
@@ -5500,6 +5495,7 @@
 ||tonyrizo.com^$all
 ||tonysconstruction.net^$all
 ||toodan.cn^$all
+||toolsutilities.web.app^$all
 ||toomtarm.com^$all
 ||topa21.co.jp^$all
 ||topgdog.com^$all
@@ -5665,7 +5661,6 @@
 ||unnumelom.com^$all
 ||unt-log.com^$all
 ||unusual-travel-destinations.com^$all
-||upartsocks.com^$all
 ||upbringpignora.website^$all
 ||upcracks.com^$all
 ||update-it-now.com^$all
@@ -5857,7 +5852,6 @@
 ||wanna-bees.com.au^$all
 ||wapbaike.net^$all
 ||wares4pc.com^$all
-||warmcoat.uk^$all
 ||warringtondjs.com^$all
 ||wartamadani.com^$all
 ||waseemmirza.net^$all
@@ -6219,6 +6213,7 @@
 ||www.redknibbles.com^$all
 ||www.reservaciones.com^$all
 ||www.reuvenjepsteinlaw.com^$all
+||www.reveldistro.com^$all
 ||www.revistaespigol.com^$all
 ||www.riffcityguitaroutlet.com^$all
 ||www.rigenerationline.it^$all
@@ -6235,7 +6230,6 @@
 ||www.savefromnets.com^$all
 ||www.savepauldingco.com^$all
 ||www.sbsgreenville.com^$all
-||www.scottwade.com^$all
 ||www.scrapbolt.hu^$all
 ||www.seeword.shop^$all
 ||www.setvnow.com^$all
@@ -6247,7 +6241,6 @@
 ||www.slashplug.com^$all
 ||www.smartpointresearch.com^$all
 ||www.smokinstangs.com^$all
-||www.smv.co^$all
 ||www.socialtable.co^$all
 ||www.sp3realty.com^$all
 ||www.sparescnx.com^$all
