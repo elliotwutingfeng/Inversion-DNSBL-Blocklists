@@ -121,6 +121,7 @@
 ||a1advance.ca^$all
 ||a1fishingseychelles.com^$all
 ||a70z.com^$all
+||a9droid.com^$all
 ||aaha.pe.kr^$all
 ||aahninfotech.com^$all
 ||aaronpruner.com^$all
@@ -168,6 +169,7 @@
 ||accqtrak.com^$all
 ||accurateastrologys.com^$all
 ||accure.com.au^$all
+||accutaneple.com^$all
 ||acdrecycling.co.uk^$all
 ||acequalityplumbingheating.com^$all
 ||acgbvf.top^$all
@@ -202,7 +204,6 @@
 ||adigoxin.com^$all
 ||aditimathurkumar.com^$all
 ||admassmedia.com^$all
-||admovere.org^$all
 ||adorablefurnishing.ml^$all
 ||adpostnepal.com^$all
 ||adriennedonnelly.com.au^$all
@@ -233,7 +234,6 @@
 ||agasitalimpiantisrls.it^$all
 ||ageless-society.com^$all
 ||agenayampotong.com^$all
-||agenciapuromole.com^$all
 ||agentspalko.com^$all
 ||agentstartcenter.com^$all
 ||ageofmary.com^$all
@@ -287,7 +287,6 @@
 ||alborzapi.ir^$all
 ||alchemistdigital.ae^$all
 ||alejandrosbarpa.com^$all
-||aleksderk.ru^$all
 ||aleppo24.com^$all
 ||alertsx.com^$all
 ||ales.top^$all
@@ -481,6 +480,7 @@
 ||armtoken.io^$all
 ||armymedicaltechnology.com^$all
 ||arna.net^$all
+||arnottsind-de.co.id^$all
 ||aroma-case.com^$all
 ||ars-sartoria.com^$all
 ||artasang.com^$all
@@ -771,6 +771,7 @@
 ||bitconnect.com^$all
 ||bitlink.vn^$all
 ||bitstarz-casinos.com^$all
+||bittercrackbabies.com^$all
 ||biwa-kosmetik.de^$all
 ||biz-suppo.com^$all
 ||biztipsblog.com^$all
@@ -790,7 +791,6 @@
 ||blackmoonapi.com^$all
 ||blackthread.io^$all
 ||blateshukria.space^$all
-||bleempowered.com^$all
 ||blessedhcp.com^$all
 ||bletechnolabs.com^$all
 ||blindambitionspeaking.com^$all
@@ -857,7 +857,6 @@
 ||bossru.com^$all
 ||boustahe.com^$all
 ||boutiqueviking.fr^$all
-||bowerymusic.co.uk^$all
 ||boxhost.com.br^$all
 ||bozolisand.com^$all
 ||bqg330.com^$all
@@ -883,6 +882,7 @@
 ||bridgewater4th.com^$all
 ||bridgewatermcg.com^$all
 ||brightlnsight.co^$all
+||brintonengineering.com^$all
 ||brjsw.cn^$all
 ||brokenwinggz.com^$all
 ||brooffer.com^$all
@@ -1255,6 +1255,7 @@
 ||conceivedinbk.com^$all
 ||concellocangas.com^$all
 ||concept.my^$all
+||conchdesktop.com^$all
 ||conectbm.net.br^$all
 ||confidentialrecordings.com^$all
 ||congorama.com^$all
@@ -1297,7 +1298,6 @@
 ||countrywoodsrvpark.com^$all
 ||coupmonitor.com^$all
 ||coupongccnew.com^$all
-||couponpep.com^$all
 ||courrielche.com^$all
 ||courseherofree219.ml^$all
 ||courseherofree220.ml^$all
@@ -1371,7 +1371,6 @@
 ||curfewmuta.guru^$all
 ||curo.cl^$all
 ||customer-supportnumber.net^$all
-||customwardrobes.co.uk^$all
 ||cutepage.com^$all
 ||cutetwinkstube.com^$all
 ||cuts2.com^$all
@@ -1424,6 +1423,7 @@
 ||dartpad.com^$all
 ||darvin.top^$all
 ||darwenpropertyblog.co.uk^$all
+||dasmalwerk.eu^$all
 ||daspasvoordelig.nl^$all
 ||dastoks.com^$all
 ||data-mining.co^$all
@@ -1469,12 +1469,12 @@
 ||defenderpczone.site^$all
 ||defenestratestudios.com^$all
 ||defensivecomputing.us^$all
-||definebilgi.com^$all
 ||defiteqturkiye.com^$all
 ||defxy.top^$all
 ||delcastilloarellano.com^$all
 ||deli.bz^$all
 ||delightpro.ru^$all
+||deliveryoka.com^$all
 ||deliworkshopexpress.xyz^$all
 ||dell-small-business.com^$all
 ||deltaairlinessuvey.today^$all
@@ -1608,6 +1608,7 @@
 ||doblive.email^$all
 ||docs-shared.com^$all
 ||docsflowsys.com^$all
+||doctorgallardo.com^$all
 ||doctorinforme.com^$all
 ||doctorkawaii.com^$all
 ||doctorrazon.com^$all
@@ -1725,6 +1726,7 @@
 ||dwebops.net^$all
 ||dy888.tv^$all
 ||dyingduck.com^$all
+||e-faxsent.com^$all
 ||e-logodesign.com^$all
 ||e-sixlab.com^$all
 ||e-tronics.nl^$all
@@ -1741,6 +1743,7 @@
 ||easymoneysurvey.space^$all
 ||easypiks.com^$all
 ||easyslot666.com^$all
+||eatmaipu.cl^$all
 ||eaxieinfinity.com^$all
 ||eaysam.com^$all
 ||ebelfarewe.com^$all
@@ -1774,7 +1777,6 @@
 ||edrxfast.online^$all
 ||edtsiu.top^$all
 ||edu-zone.net^$all
-||educasites.net^$all
 ||edydlploms.com^$all
 ||ee.sb^$all
 ||eferverhot.net^$all
@@ -1805,6 +1807,7 @@
 ||elektrischefietsen-aanbieding.nl^$all
 ||elemblo.com^$all
 ||elenabaranova.com^$all
+||elephantgogo.com^$all
 ||elevated-leisure.com^$all
 ||eli360.com^$all
 ||elijahogutu.com^$all
@@ -1998,6 +2001,7 @@
 ||fcda.us^$all
 ||fdossantos.com^$all
 ||fearlessblogger.com^$all
+||feedmekc.com^$all
 ||feedture.com^$all
 ||feelflashlight.info^$all
 ||feelflashnight.info^$all
@@ -2090,7 +2094,6 @@
 ||followingmenow.com^$all
 ||fondesign.net^$all
 ||foobrdigital.com^$all
-||foodstories.co.in^$all
 ||foodsurvey.email^$all
 ||footworkbar.com^$all
 ||for-hessautomation.com^$all
@@ -2253,7 +2256,6 @@
 ||getdealstravel.com^$all
 ||getgosu.com^$all
 ||getkoin.org^$all
-||getkryptopro.org^$all
 ||getlucidvpn.com^$all
 ||getmecodes.xyz^$all
 ||getmygif-3two.cfd^$all
@@ -2395,7 +2397,6 @@
 ||gunicinden.com^$all
 ||gunthersplumbing.com^$all
 ||guntycon.com^$all
-||gurbulak.com^$all
 ||gurgaon.co.in^$all
 ||gutai.com^$all
 ||gutenver.tv^$all
@@ -2453,6 +2454,7 @@
 ||healthydaytoday.com^$all
 ||healthyeatingidea.com^$all
 ||heartburnnomore.life^$all
+||heatherfonseca.com^$all
 ||heatherwarnerdesigns.com^$all
 ||heatwell.email^$all
 ||heaven-technology.com^$all
@@ -2891,7 +2893,6 @@
 ||jksde.top^$all
 ||jlamim.com.br^$all
 ||jmalin.com^$all
-||jmsteakhouse.com^$all
 ||jmusicworld.com^$all
 ||jnan.net^$all
 ||jnantours.com^$all
@@ -2975,6 +2976,7 @@
 ||kalmboss.com^$all
 ||kalugaqueens.com^$all
 ||kamdora.com^$all
+||kanigui.com^$all
 ||kanunnikovao.ru^$all
 ||kaoarts.com^$all
 ||kapiolani.jp^$all
@@ -3400,6 +3402,7 @@
 ||mailbox-notification.com^$all
 ||maingift.online^$all
 ||mainjitu.com^$all
+||majidb.com^$all
 ||majobv.com^$all
 ||makeklick.biz^$all
 ||makemoneysurvey.top^$all
@@ -3466,7 +3469,6 @@
 ||mavijo.site^$all
 ||max-your-media.com^$all
 ||maxiplanet.de^$all
-||maxiurl.com^$all
 ||maxsegcursoead.com.br^$all
 ||maxxtorque.com^$all
 ||mayacaves.org^$all
@@ -4198,6 +4200,7 @@
 ||phixitrepaircenter.com^$all
 ||phoenixazaccountingtax.com^$all
 ||pholkgiant.com^$all
+||phonecontrol.com^$all
 ||phonelocaltoday.com^$all
 ||phoneservice-repaid.com^$all
 ||photocannon.com^$all
@@ -4526,6 +4529,7 @@
 ||ravenridgetrees.com^$all
 ||rawfoodsonabudget.com^$all
 ||raybanoutlet.org^$all
+||razormarkets.com^$all
 ||rbcb.us^$all
 ||rbkia.org^$all
 ||rc-central.nl^$all
@@ -4795,6 +4799,7 @@
 ||scaryhorrormovies.com^$all
 ||sceneryunlimited.net^$all
 ||schenectadydri.com^$all
+||schitthaus.com^$all
 ||schluesseldienst-sen.de^$all
 ||scholarshipprize.online^$all
 ||schweinfurt-now.de^$all
@@ -4821,6 +4826,7 @@
 ||sec0afcu.com^$all
 ||secitweb.com^$all
 ||secret-folder-simple-firebase1.web.app^$all
+||securawindows.co.uk^$all
 ||secure-ua.top^$all
 ||secure-ua.website^$all
 ||security-check.ga^$all
@@ -5205,6 +5211,7 @@
 ||supremechickensa.com^$all
 ||surehebat.com^$all
 ||suremarket.net^$all
+||surestrikepest.com^$all
 ||surf7.info^$all
 ||surfsupsouthshore.com^$all
 ||surgicalbariatric.com^$all
@@ -5300,7 +5307,6 @@
 ||techidal.de^$all
 ||techintersection.com^$all
 ||techmeat.net^$all
-||techmobi.com.ng^$all
 ||technewsbeats.com^$all
 ||technicalnewsguru.com^$all
 ||techniel.es^$all
@@ -5402,7 +5408,6 @@
 ||themfamily.fr^$all
 ||themizrahicollection.com^$all
 ||themmsystem.wpengine.com^$all
-||themobileupdates.com^$all
 ||themocbrand.com^$all
 ||themostlyhealthy.com^$all
 ||thenantucketbasket.com^$all
@@ -5741,6 +5746,7 @@
 ||vapmanagement.com^$all
 ||vaporloungenewyork.com^$all
 ||vappielle.com^$all
+||vardenafiltab.com^$all
 ||vardir.icu^$all
 ||varietyjob.com^$all
 ||varisthainfracon.com^$all
@@ -5864,7 +5870,6 @@
 ||vto-vsetraktora.ru^$all
 ||vuelvetequila.com^$all
 ||vumbukatt.com^$all
-||vuvan.com^$all
 ||vybero.in^$all
 ||vyoufinder.com^$all
 ||vz-help.com^$all
@@ -5886,7 +5891,6 @@
 ||wares4pc.com^$all
 ||warringtondjs.com^$all
 ||wartamadani.com^$all
-||wasedasports.com^$all
 ||waseemmirza.net^$all
 ||wassylslipak.com^$all
 ||waterandman.com^$all
@@ -6106,7 +6110,6 @@
 ||www.cowndog.com^$all
 ||www.cpupk.com^$all
 ||www.cracksoftpc.com^$all
-||www.crb8.org.br^$all
 ||www.creamanmitsu.jp^$all
 ||www.crsorgi-gov-in.in^$all
 ||www.crtnepal.org^$all
