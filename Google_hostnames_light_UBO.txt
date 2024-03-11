@@ -175,7 +175,6 @@
 ||acgbvf.top^$all
 ||achayot.org^$all
 ||acitel.net.br^$all
-||acli.co^$all
 ||aclockbestpills.online^$all
 ||acpowsor.com^$all
 ||acthealthwellness.com^$all
@@ -235,7 +234,6 @@
 ||agenayampotong.com^$all
 ||agentspalko.com^$all
 ||agentstartcenter.com^$all
-||ageofmary.com^$all
 ||agiledimension.com^$all
 ||agilityconfeccoes.com.br^$all
 ||agooage.com^$all
@@ -526,6 +524,7 @@
 ||assterism.blogspot.jp^$all
 ||astalok.com^$all
 ||astoria-hosting.com^$all
+||astramg.ru^$all
 ||astrucking-hosting.net^$all
 ||astuto-consulting.com^$all
 ||asugardetox.com^$all
@@ -586,7 +585,6 @@
 ||avtc.co.in^$all
 ||avvvisobper.com^$all
 ||aw-service.nl^$all
-||awareofcare.com^$all
 ||awarfaregaming.com^$all
 ||awashbrooklyn.com^$all
 ||awelcomeintl.com^$all
@@ -1095,6 +1093,7 @@
 ||chiasetatca.net^$all
 ||chicagoroseoftralee.com^$all
 ||chickfilafoundation.com^$all
+||chiesacristiana.eu^$all
 ||childcrisisresponsemn.org^$all
 ||chilloutmebel.ru^$all
 ||chimairaworld.com^$all
@@ -1182,6 +1181,7 @@
 ||clipncrazy.com^$all
 ||clix.pw^$all
 ||clone-with-react-js-4cae9.web.app^$all
+||clonidinetabs.com^$all
 ||cloth-ears.co.uk^$all
 ||cloud25.xyz^$all
 ||clouddefdataweb.com^$all
@@ -1231,6 +1231,7 @@
 ||com-new.us^$all
 ||com-validation.top^$all
 ||com-verification.top^$all
+||com.app^$all
 ||com.black^$all
 ||com.camera^$all
 ||com.fail^$all
@@ -1323,7 +1324,6 @@
 ||creativepartyconcepts.com^$all
 ||creativesolutions.co.nz^$all
 ||creativestudio.net.in^$all
-||creativewave.pl^$all
 ||creativity.cafe^$all
 ||credit-immobilier-ace.com^$all
 ||credittokeys.com^$all
@@ -1692,7 +1692,6 @@
 ||dsfares.com^$all
 ||dsflford.ru^$all
 ||dshedmisre.com^$all
-||dsignpost.com^$all
 ||dsmcityride.com^$all
 ||dstc.ac.th^$all
 ||dstevermo.com^$all
@@ -1984,7 +1983,6 @@
 ||farmsandbeyond.com^$all
 ||farwesttimesdaily.com^$all
 ||fashionreporters.com^$all
-||fashmark.com^$all
 ||fastify.com^$all
 ||fastloans24.net^$all
 ||fastscrack.com^$all
@@ -2330,7 +2328,6 @@
 ||gopherplan.org^$all
 ||goplayvideo.com^$all
 ||gor-dez-company.ru^$all
-||gorenice.pl^$all
 ||gorgianhomes.com^$all
 ||gorzvuk.com^$all
 ||gotclip.com^$all
@@ -2352,6 +2349,7 @@
 ||graveyardtavern.com^$all
 ||greatluck4u.com^$all
 ||greatmoneysurvey.top^$all
+||greatsoftware.net^$all
 ||greener-grass.ru^$all
 ||greenery-path.cfd^$all
 ||greenflydesign.com^$all
@@ -2624,6 +2622,7 @@
 ||icitizenforum.com^$all
 ||icketmaster.com^$all
 ||icloud-imap.com^$all
+||icmbrokers.com^$all
 ||icohotel.com^$all
 ||iconconsulting.in^$all
 ||icosa.co^$all
@@ -2798,6 +2797,7 @@
 ||isfahanwushu.ir^$all
 ||isiisx.sbs^$all
 ||islamabadescortspoint.com^$all
+||islamiccenter.com^$all
 ||islebox.com^$all
 ||ismaelventura.com^$all
 ||israilpost.com^$all
@@ -2999,7 +2999,6 @@
 ||kcspl.co.in^$all
 ||kcynvd-mail.com^$all
 ||keas.top^$all
-||keep-clean.xyz^$all
 ||keeperies.com^$all
 ||keepfits.org^$all
 ||keepmoneyout.org^$all
@@ -3200,7 +3199,6 @@
 ||leedscarpetcleaning.com^$all
 ||leentechhosting.com^$all
 ||lefoods.com^$all
-||lefthandrightbrainpod.com^$all
 ||leftwithtomorrow.com^$all
 ||leftysautomotive.com^$all
 ||legitdispensaryonline.com^$all
@@ -3244,7 +3242,6 @@
 ||lilgrads.com^$all
 ||lillianwittefibe.com^$all
 ||lillilee.com^$all
-||limetorrents.info^$all
 ||liminal-analytics.org^$all
 ||limitedexchange.com^$all
 ||lincing.com^$all
@@ -3336,7 +3333,6 @@
 ||lowerwestsidewinebar.com.au^$all
 ||lozsky.com^$all
 ||lrfconections.com.br^$all
-||lrlanated.guru^$all
 ||lsoplexis.com^$all
 ||lspdgiu.com^$all
 ||lspower.xyz^$all
@@ -3510,7 +3506,6 @@
 ||mehrdadafsari.com^$all
 ||meisterkate.com^$all
 ||mejorestilodevida.net^$all
-||melkart.io^$all
 ||mellilaw.com^$all
 ||meltingpot.ws^$all
 ||memnison.com^$all
@@ -3570,7 +3565,6 @@
 ||millsdesignsgroup.com^$all
 ||minati.ir^$all
 ||minecraftors.ru^$all
-||mined.to^$all
 ||minhalacademy.org^$all
 ||minhaskamal.github.io^$all
 ||minhbien.org^$all
@@ -3837,6 +3831,7 @@
 ||ney5.xyz^$all
 ||nftcryptoandstocknews.com^$all
 ||nftw.me^$all
+||ngchatworld.com^$all
 ||ngduc.vercel.app^$all
 ||ngschoolpub.org^$all
 ||nhungwithyou.com^$all
@@ -3860,6 +3855,7 @@
 ||njrb.com.cn^$all
 ||njur.us^$all
 ||nkaa.org^$all
+||nlgphiladelphia.org^$all
 ||nmctm.org^$all
 ||noapologiespress.com^$all
 ||noarsrafting.com^$all
@@ -3983,6 +3979,7 @@
 ||oneillconsultingnj.com^$all
 ||oneloveinitiative.org^$all
 ||onephuket.com^$all
+||onetouch30.com^$all
 ||onewarmcoat.com^$all
 ||onewayticketphil.com^$all
 ||onionsystem33.com^$all
@@ -4038,7 +4035,6 @@
 ||organizeapp.org^$all
 ||organizirai.com^$all
 ||orguhobi.com^$all
-||orhanbhr.com^$all
 ||oricut.com^$all
 ||originalairjordanshoes.com^$all
 ||oriontimes.com^$all
@@ -4062,7 +4058,6 @@
 ||outeyeanywhen.space^$all
 ||outsiders-agency.com^$all
 ||outstanher.com^$all
-||ovenrepairing.com^$all
 ||over-the-rhine-movie.com^$all
 ||overcacneaan.com^$all
 ||owensforgeorgia.com^$all
@@ -4070,7 +4065,6 @@
 ||ownthebiz.com^$all
 ||oxbowparish.com^$all
 ||oxidev.com^$all
-||oxymium.fr^$all
 ||oyekirurgiskpoliklinikk.no^$all
 ||oyemathias.com^$all
 ||oyndr.com^$all
@@ -4159,7 +4153,6 @@
 ||pensionatbryggan.se^$all
 ||penzagard.ru^$all
 ||pepecine.com^$all
-||pepperminthelmet.com^$all
 ||peregiacc.co.uk^$all
 ||perfectcuttreeservice.com^$all
 ||perfectlydestressed.com^$all
@@ -4390,6 +4383,7 @@
 ||projetimmo13.fr^$all
 ||projetoacesso.org.br^$all
 ||promolandforapp.com^$all
+||promoteblackauthors.com^$all
 ||pronecktor.com^$all
 ||propertyvendorng.com^$all
 ||prosaix.com^$all
@@ -4974,7 +4968,6 @@
 ||sixad.com.br^$all
 ||sixtyfournetworksltd.com^$all
 ||siyamalhotra.com^$all
-||siyaniewinebar.ru^$all
 ||sjandcocreative.com^$all
 ||sk-mosaic.ru^$all
 ||skb-kontur.com^$all
@@ -5784,7 +5777,6 @@
 ||vickersvantage.com^$all
 ||vickeymalonekennedy.com^$all
 ||vickymappin.co.uk^$all
-||vicolin.com^$all
 ||vicsbahn.com^$all
 ||victorariassole.com^$all
 ||victoriafranklindillon.com^$all
@@ -5929,7 +5921,6 @@
 ||wellnesscharlottesville.com^$all
 ||wellsfargosurvey.services^$all
 ||welrauns.top^$all
-||wenso.co.uk^$all
 ||wepecket.com^$all
 ||wesale.pk^$all
 ||wesoftware.net^$all
