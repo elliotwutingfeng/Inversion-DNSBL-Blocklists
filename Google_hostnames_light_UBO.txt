@@ -122,6 +122,7 @@
 ||a1fishingseychelles.com^$all
 ||a70z.com^$all
 ||a9droid.com^$all
+||aact.su^$all
 ||aaha.pe.kr^$all
 ||aahninfotech.com^$all
 ||aamdomain.com^$all
@@ -129,7 +130,6 @@
 ||aaronspeer.com^$all
 ||aascircle.com^$all
 ||aavalonservices.com^$all
-||abagroup.co.za^$all
 ||abb12.net^$all
 ||abc-for-kids.com^$all
 ||abc92.ru^$all
@@ -402,7 +402,6 @@
 ||annasweetdreams.com^$all
 ||annerstubertauthor.com^$all
 ||annuadvisors.com^$all
-||anoboy.su^$all
 ||anonymes-france.eu^$all
 ||anonyvox.com^$all
 ||anovelkitchen.com^$all
@@ -524,7 +523,6 @@
 ||assterism.blogspot.jp^$all
 ||astalok.com^$all
 ||astoria-hosting.com^$all
-||astramg.ru^$all
 ||astrucking-hosting.net^$all
 ||astuto-consulting.com^$all
 ||asugardetox.com^$all
@@ -903,6 +901,7 @@
 ||bublikmattress.com^$all
 ||buckbucknft.com^$all
 ||buckeyeexpress.com^$all
+||buckeyewoodproducts.com^$all
 ||bugbulb.email^$all
 ||buildbettertables.com^$all
 ||builtwithnuxt.com^$all
@@ -1237,6 +1236,7 @@
 ||com.fail^$all
 ||com.hospital^$all
 ||com.ink^$all
+||com.mobile^$all
 ||com.online^$all
 ||com.secure.sci-hub.org^$all
 ||com.website^$all
@@ -1324,6 +1324,7 @@
 ||creativepartyconcepts.com^$all
 ||creativesolutions.co.nz^$all
 ||creativestudio.net.in^$all
+||creativewave.pl^$all
 ||creativity.cafe^$all
 ||credit-immobilier-ace.com^$all
 ||credittokeys.com^$all
@@ -1381,7 +1382,6 @@
 ||cya.net^$all
 ||cyanfox-rom.com^$all
 ||cyber-lynk.com^$all
-||cyberloaf.com^$all
 ||cyfaircal.com^$all
 ||cygnetturf.com^$all
 ||cygwin.parentingamerica.com^$all
@@ -1517,7 +1517,6 @@
 ||devanity.com^$all
 ||devaronafineart.com^$all
 ||devicehardreset.com^$all
-||deviouseye.com^$all
 ||devlab.us^$all
 ||devlud.com.br^$all
 ||devm.tech^$all
@@ -1633,7 +1632,6 @@
 ||donnalloyd.com^$all
 ||donniemcclurkinepk.com^$all
 ||donunger.com^$all
-||doorson-line.com^$all
 ||doorsopenalberta.com^$all
 ||doovii.com^$all
 ||doownl0ad3s.com^$all
@@ -2109,7 +2107,6 @@
 ||fortboxx.com^$all
 ||fortunapromo.com^$all
 ||forum.neosmartpen.com^$all
-||forumsmaroc.com^$all
 ||fostats.com^$all
 ||fotografiasdesoyluna.com^$all
 ||fougereformayor.com^$all
@@ -2224,6 +2221,7 @@
 ||geebox.com.cn^$all
 ||geekboypress.com^$all
 ||geekweekevent.com^$all
+||geistdesgeldes.com^$all
 ||gekata.info^$all
 ||geldt.nl^$all
 ||gemanepa.com^$all
@@ -2272,6 +2270,7 @@
 ||giay4men.com^$all
 ||gift-out.cloud^$all
 ||gift4filipino.com^$all
+||gigumexico.com^$all
 ||ginden.jp^$all
 ||ginepija.com^$all
 ||giovannipassarelli.com^$all
@@ -2415,7 +2414,6 @@
 ||halodev.org^$all
 ||haltowe.info^$all
 ||hamptonscommunityradio.org^$all
-||hancockleadership.com^$all
 ||handcraftedtequila.com^$all
 ||hankhaneygolf.com^$all
 ||hapifun.com^$all
@@ -2506,6 +2504,7 @@
 ||historicfirstbaptist.org^$all
 ||history.cultural-china.com^$all
 ||historykygovenors.com^$all
+||hitechropes.com^$all
 ||hitthescene.net^$all
 ||hizolin.com^$all
 ||hjonsonlaw.com^$all
@@ -2622,7 +2621,6 @@
 ||icitizenforum.com^$all
 ||icketmaster.com^$all
 ||icloud-imap.com^$all
-||icmbrokers.com^$all
 ||icohotel.com^$all
 ||iconconsulting.in^$all
 ||icosa.co^$all
@@ -2696,6 +2694,7 @@
 ||indosatu.net^$all
 ||inds.us^$all
 ||indusmarket.ru^$all
+||inertiaengineering.com^$all
 ||inescasals.com^$all
 ||inetku.net.id^$all
 ||infiniteloot.in^$all
@@ -2744,6 +2743,7 @@
 ||intelwebs.ru^$all
 ||interactivemarketing.us^$all
 ||interdemos.net^$all
+||interhop.net^$all
 ||interior-design-ipad.com^$all
 ||internetinnovations.de^$all
 ||internetnerede.net^$all
@@ -2791,7 +2791,6 @@
 ||irishblogdirectory.com^$all
 ||irm.com.mx^$all
 ||ironscience.co.uk^$all
-||irymountain.com.ua^$all
 ||isaacmentouri.com^$all
 ||iscb.co.uk^$all
 ||isfahanwushu.ir^$all
@@ -2866,7 +2865,6 @@
 ||jengkoil.com^$all
 ||jenkinsinsgroup.com^$all
 ||jennadewanunwrapped.com^$all
-||jenniferhershman.com^$all
 ||jenniferselbylong.com^$all
 ||jeoleuro.com^$all
 ||jeremiahtheatricals.com^$all
@@ -2885,7 +2883,6 @@
 ||jined.ddns.net^$all
 ||jitiem.ru^$all
 ||jitsrl.com^$all
-||jkanime.cam^$all
 ||jksde.top^$all
 ||jlamim.com.br^$all
 ||jmalin.com^$all
@@ -2999,6 +2996,7 @@
 ||kcspl.co.in^$all
 ||kcynvd-mail.com^$all
 ||keas.top^$all
+||keep-clean.xyz^$all
 ||keeperies.com^$all
 ||keepfits.org^$all
 ||keepmoneyout.org^$all
@@ -3220,7 +3218,6 @@
 ||lfyd.in^$all
 ||lgbttoursneworleans.com^$all
 ||liaision.com^$all
-||liamvasik.com^$all
 ||lianyuwenfeng.com^$all
 ||libertycorporate.site^$all
 ||libido-femme.net^$all
@@ -3484,7 +3481,6 @@
 ||mecantano.com^$all
 ||medi-graph.com^$all
 ||media-lingo.com^$all
-||mediafirecdn.com^$all
 ||mediasocialnews.com^$all
 ||medicalpaysolutions.com^$all
 ||medicina-ucr.com^$all
@@ -3565,7 +3561,6 @@
 ||millsdesignsgroup.com^$all
 ||minati.ir^$all
 ||minecraftors.ru^$all
-||minhalacademy.org^$all
 ||minhaskamal.github.io^$all
 ||minhbien.org^$all
 ||mini-spotify-rose.vercel.app^$all
@@ -3764,7 +3759,6 @@
 ||nationalappsbd.com^$all
 ||nationalhostingsolutions.com^$all
 ||nationalpcsolutions.com^$all
-||natostrap.com^$all
 ||naturaldownload.com^$all
 ||naturopathyresortspa.com^$all
 ||navercrt.com^$all
@@ -3831,7 +3825,6 @@
 ||ney5.xyz^$all
 ||nftcryptoandstocknews.com^$all
 ||nftw.me^$all
-||ngchatworld.com^$all
 ||ngduc.vercel.app^$all
 ||ngschoolpub.org^$all
 ||nhungwithyou.com^$all
@@ -4080,7 +4073,6 @@
 ||pageantlandpodcast.com^$all
 ||pagieportal.com^$all
 ||paidtoclicksites.com^$all
-||paintbynumberkit.com^$all
 ||paintedtreasuresdenver.com^$all
 ||paka2next.com^$all
 ||pakalon.com^$all
@@ -4807,7 +4799,6 @@
 ||sebastian-kull.me^$all
 ||sec0afcu.com^$all
 ||secitweb.com^$all
-||secret-folder-simple-firebase1.web.app^$all
 ||secure-ua.top^$all
 ||secure-ua.website^$all
 ||security-check.ga^$all
@@ -4857,7 +4848,6 @@
 ||servidorinterspire.com.br^$all
 ||set4earth.io^$all
 ||setsandscripture.com^$all
-||settingsppup.com^$all
 ||sevenrestaurantbar.com^$all
 ||severprostor.ru^$all
 ||sewaswasth.com^$all
@@ -4894,6 +4884,7 @@
 ||shenbebathe.cfd^$all
 ||sheriffbullock.org^$all
 ||sherwoodfarm.com^$all
+||shibacryptonews.com^$all
 ||shiftthis.net^$all
 ||shinko-et.com^$all
 ||shiotsu-used-car.com^$all
@@ -5014,6 +5005,7 @@
 ||smokesouth.com^$all
 ||smokinhotbbqmyrtlebeach.com^$all
 ||smoothfactor.de^$all
+||smswa.in^$all
 ||sn7.org^$all
 ||snapdefense.com^$all
 ||sndatatech.com^$all
@@ -5612,7 +5604,6 @@
 ||tutoringonlineclass.com^$all
 ||tuviviet.info^$all
 ||tuxug.com^$all
-||tvoinu2u.com^$all
 ||twilighthub.com^$all
 ||twilio-serverless-example.surge.sh^$all
 ||twin88.fun^$all
@@ -5904,6 +5895,7 @@
 ||webout.life^$all
 ||webpct.com^$all
 ||webprimemail.com^$all
+||webpythons.com^$all
 ||webresources.live^$all
 ||webrootsquad.org^$all
 ||websitesthatwork.info^$all
@@ -5937,6 +5929,7 @@
 ||white-robot.com^$all
 ||whiteelephanttrading.net^$all
 ||whitemarshchildcare.com^$all
+||whiteninjacomics.com^$all
 ||whitespacemag.com^$all
 ||whitesrv.com^$all
 ||whodsautsurvey.space^$all
@@ -6207,6 +6200,7 @@
 ||www.moenipulation.co.uk^$all
 ||www.musicianschannel.com^$all
 ||www.nailscars.com^$all
+||www.natostrap.com^$all
 ||www.nenasperu.pe^$all
 ||www.nerdnuts.com^$all
 ||www.netflexandsweat.com^$all
