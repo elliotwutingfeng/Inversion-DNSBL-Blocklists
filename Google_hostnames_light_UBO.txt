@@ -196,6 +196,7 @@
 ||adamshop.cc^$all
 ||adandhost.com^$all
 ||adbison-track.com^$all
+||adbit.in^$all
 ||adcommdev.com^$all
 ||adderstrike.com^$all
 ||addfactor.com^$all
@@ -626,6 +627,7 @@
 ||babynestjes.nu^$all
 ||babysober.com^$all
 ||bachelorsthatcook.com^$all
+||back40film.com^$all
 ||backpng.com^$all
 ||bacskaikulturpalota.hu^$all
 ||bactolife.today^$all
@@ -810,7 +812,6 @@
 ||blackgeeksofdragoncon.com^$all
 ||blackjackxlivegamez.com^$all
 ||blackleatherhandbag.com^$all
-||blackmansionsmusic.com^$all
 ||blackmarketimages.com^$all
 ||blackmoonapi.com^$all
 ||blackpoolwebsites.com^$all
@@ -1183,7 +1184,6 @@
 ||circledex.fi^$all
 ||circleofjudgement.com^$all
 ||citatumoxalate.top^$all
-||citizenfirewall.in^$all
 ||citsgroup.net^$all
 ||cjqwds.cn^$all
 ||cl-amzomjods.shop^$all
@@ -1276,6 +1276,7 @@
 ||com.hospital^$all
 ||com.ink^$all
 ||com.mobile^$all
+||com.secure^$all
 ||com.secure.sci-hub.org^$all
 ||com.website^$all
 ||comcity.com^$all
@@ -1548,7 +1549,6 @@
 ||desarrollomor.com^$all
 ||descargarageofempires.com^$all
 ||designbookpress.com^$all
-||designcapsula.com^$all
 ||designjewelrystore.com^$all
 ||designmakedo.com^$all
 ||despanpouran.com^$all
@@ -1607,7 +1607,6 @@
 ||dilalty.shop^$all
 ||dimosmykis.gr^$all
 ||dinaps.com^$all
-||dinheiroligeiro.com.br^$all
 ||dinnerspecialmenu.com^$all
 ||dio-iwitama.co.id^$all
 ||diocesisciudadquesada.org^$all
@@ -1635,7 +1634,6 @@
 ||diwanghazza.com^$all
 ||dizzify.me^$all
 ||djclever.com^$all
-||djjoakim.com^$all
 ||djsevere.com^$all
 ||djuniversoul.com^$all
 ||dk-ok.online^$all
@@ -1779,7 +1777,6 @@
 ||dwebops.net^$all
 ||dy888.tv^$all
 ||dyingduck.com^$all
-||e-faxsent.com^$all
 ||e-logodesign.com^$all
 ||e-sixlab.com^$all
 ||e-temple.in^$all
@@ -1790,6 +1787,7 @@
 ||eagleny.org^$all
 ||eahandytool.com^$all
 ||earthsummit.info^$all
+||easternelectrical.net.au^$all
 ||easternrope.com^$all
 ||eastsideforhire.com^$all
 ||easyfinder.su^$all
@@ -1825,7 +1823,6 @@
 ||ecstatus.capital^$all
 ||edekasaloja.com.br^$all
 ||edfonline.org^$all
-||editorialdesafio.com^$all
 ||editorweb360.com^$all
 ||edjamesphotography.com^$all
 ||edrxfast.online^$all
@@ -2170,7 +2167,6 @@
 ||forget-me.net^$all
 ||forinta.com^$all
 ||formation-2020.fr^$all
-||formsy.io^$all
 ||fornecedordaindustria.com.br^$all
 ||forpitssake.org^$all
 ||fortboxx.com^$all
@@ -2446,6 +2442,7 @@
 ||griceartists.com^$all
 ||groovi.com.au^$all
 ||ground202.com^$all
+||groverband.com^$all
 ||gruponatal.com^$all
 ||gs1221.com^$all
 ||gs24softeasy.com^$all
@@ -2465,7 +2462,6 @@
 ||guelaguetzasj.com^$all
 ||gujaratirocks.com^$all
 ||gulbargadiocese.com^$all
-||gulfafricans.com^$all
 ||gulfpoleconcerns.com^$all
 ||gulsproductions.com^$all
 ||gumun07.online^$all
@@ -2613,11 +2609,13 @@
 ||homekithero.com^$all
 ||homesharetas.com.au^$all
 ||homesjobonline.com^$all
+||homeworkklub.com^$all
 ||homployeehub.com^$all
 ||honeybunchesfloral.com^$all
 ||honeytrapagency.co.uk^$all
 ||hongluosi.com^$all
 ||hoonassoc.com^$all
+||hopeful-raman-1f72d9.netlify.app^$all
 ||hopp.org^$all
 ||hopperatx.com^$all
 ||horizon-inc.info^$all
@@ -3135,7 +3133,6 @@
 ||kingjamesbiblestudyoftulsa.com^$all
 ||kingscentre.org.uk^$all
 ||kingslandcurrent.com^$all
-||kingsvalleycharterschool.org^$all
 ||kinokong.ws^$all
 ||kinotonik.net^$all
 ||kinoza.ru^$all
@@ -3336,8 +3333,6 @@
 ||lifecellproject.org^$all
 ||lifeisbetterwithbooks.com^$all
 ||lifelinevietnam.vn^$all
-||light-bridge.com^$all
-||lightedminds.com.ng^$all
 ||lightenacquired.xyz^$all
 ||lightnode.us^$all
 ||likijs.icu^$all
@@ -3637,7 +3632,6 @@
 ||metrodancesd.com^$all
 ||metrohosting.net^$all
 ||metsiselektrik.com^$all
-||mevsfitness.com^$all
 ||mewd.gov.zm^$all
 ||mexicoparamexicanos.com^$all
 ||mfk-photos.com^$all
@@ -3657,6 +3651,7 @@
 ||michigansnowmobiler.com^$all
 ||microcerpt.com^$all
 ||microsoft.com.select^$all
+||microsoft.netcore.app^$all
 ||microsoftlearning.de^$all
 ||midaircawny.space^$all
 ||midwestchaplains.org^$all
@@ -3915,7 +3910,6 @@
 ||netflix-static-ui-clone.herokuapp.com^$all
 ||nether-zone.com^$all
 ||nethosting.web.tr^$all
-||netporntv.com^$all
 ||nettek.com^$all
 ||network-relocation.com^$all
 ||networth57.com^$all
@@ -4051,6 +4045,7 @@
 ||obgonim.com^$all
 ||obietto.com^$all
 ||objectifargent.fr^$all
+||objectmerch.com^$all
 ||obmj.net^$all
 ||obriengrouparena.com.au^$all
 ||obs-studio.co^$all
@@ -4097,7 +4092,6 @@
 ||omegabooking.com.tn^$all
 ||omgomgomg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd-onion.net^$all
 ||omgomgomg5j4yrr4mjdv3h5c5xfvxtqqs2in7smi65mjps7wvkmqmtqd-onion.org^$all
-||omsafm.com^$all
 ||on-fish.ru^$all
 ||oneillconsultingnj.com^$all
 ||oneloveinitiative.org^$all
@@ -4175,7 +4169,6 @@
 ||otopols.com^$all
 ||ottawaphoto.com^$all
 ||ouct.org^$all
-||ouranoupolis-akrogiali.gr^$all
 ||ourmatrixclub.com^$all
 ||ournewportal.com^$all
 ||ourotherlocation.com^$all
@@ -4211,7 +4204,6 @@
 ||paka2next.com^$all
 ||pakalon.com^$all
 ||pakcs.org^$all
-||palazzocostanzo.com^$all
 ||paleoepic.com^$all
 ||palmerworks.com^$all
 ||pameladewlendingteam.com^$all
@@ -4221,6 +4213,7 @@
 ||panfil.tk^$all
 ||pangkalanmaya.com^$all
 ||pantheoncrafters.com^$all
+||paoloentertainment.com^$all
 ||paperangeldesigns.com^$all
 ||papercutny.com^$all
 ||papi55.fun^$all
@@ -4983,6 +4976,7 @@
 ||sendapotato.com^$all
 ||sendmantic.com^$all
 ||senicarque.com^$all
+||seniorsoftball.com^$all
 ||senorthemes.com^$all
 ||seo-od.com^$all
 ||seo-realty.ru^$all
@@ -5048,7 +5042,6 @@
 ||shinko-et.com^$all
 ||shiotsu-used-car.com^$all
 ||shishi-net.com^$all
-||shjwomenchess.com^$all
 ||shkondin.com^$all
 ||shockedfalter.uno^$all
 ||shoedc.com^$all
@@ -5162,7 +5155,6 @@
 ||smokesouth.com^$all
 ||smokinhotbbqmyrtlebeach.com^$all
 ||smoothfactor.de^$all
-||smswa.in^$all
 ||sn7.org^$all
 ||snapdefense.com^$all
 ||sndatatech.com^$all
@@ -5630,6 +5622,7 @@
 ||threeremainproductions.com^$all
 ||thresholdplace.com^$all
 ||thriftmepretty.com^$all
+||thrive-health.com^$all
 ||thucphamtci.com^$all
 ||thunda.com.au^$all
 ||ti-files.org^$all
@@ -5674,6 +5667,7 @@
 ||todirectory.com^$all
 ||toertlichkeit.de^$all
 ||tokeandtalk.ca^$all
+||token-creator-lac.vercel.app^$all
 ||tokenpockety.cn^$all
 ||tokenpockety.pro^$all
 ||tokens.kelta.com^$all
@@ -5835,7 +5829,6 @@
 ||unamich.org^$all
 ||uncconsultation.org^$all
 ||unclestu.com^$all
-||under-eden.net^$all
 ||underdoeg.com^$all
 ||unearedbee.top^$all
 ||unest.vn^$all
@@ -5984,6 +5977,7 @@
 ||vincentmaher.com^$all
 ||vincepontarelli.com^$all
 ||vindulacms.com^$all
+||vinotelia.com.mx^$all
 ||vip-new078.icu^$all
 ||vipescortbayantr.org^$all
 ||vipresearch.net^$all
@@ -6168,6 +6162,7 @@
 ||wisataalam.xyz^$all
 ||wiseprotec.com^$all
 ||wishyouwereherelife.com^$all
+||witchhuntmovie.com^$all
 ||withachanceof.com^$all
 ||withluvdesign.com^$all
 ||withoutscript.com^$all
@@ -6511,7 +6506,6 @@
 ||www.vhly.com^$all
 ||www.vidacantinawhittier.com^$all
 ||www.video18x.com^$all
-||www.vinotelia.com.mx^$all
 ||www.viralmarketinghub.com^$all
 ||www.virtualentrepreneursassociation.org^$all
 ||www.visa-gift.com^$all
