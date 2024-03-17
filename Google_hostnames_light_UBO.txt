@@ -402,7 +402,6 @@
 ||angelwire.net^$all
 ||anglofilmia.com^$all
 ||anglokomblog.com^$all
-||anhinsthm.com^$all
 ||anidcounts.com.au^$all
 ||animagemella.it^$all
 ||ankur.com.bd^$all
@@ -572,7 +571,6 @@
 ||australiaassessments.com^$all
 ||australian-systemsbiology.org^$all
 ||autauto.ru^$all
-||autaza.com^$all
 ||autcatholicy.com^$all
 ||auth-payoneer.com^$all
 ||authentic-me.com^$all
@@ -588,6 +586,7 @@
 ||avandatubex.com^$all
 ||avanti-cash.com^$all
 ||avatardialler.com^$all
+||avd-pro.com^$all
 ||aventodesigns.com^$all
 ||averagecarguy.com^$all
 ||aviationglossary.com^$all
@@ -650,7 +649,6 @@
 ||bankofireland.live^$all
 ||bannronn.com^$all
 ||bantot.net^$all
-||barbarafrances.com^$all
 ||barbarahensley.com^$all
 ||barbecue-party.com^$all
 ||bargainbargain.com.au^$all
@@ -1174,6 +1172,7 @@
 ||cialisdf.com^$all
 ||cialisedpill.com^$all
 ||cialiswithoutadoctorprescription.com^$all
+||cidsbook.com^$all
 ||ciecoo.com^$all
 ||cimarronclub.com^$all
 ||cimj.org^$all
@@ -1276,6 +1275,7 @@
 ||com.hospital^$all
 ||com.ink^$all
 ||com.mobile^$all
+||com.online^$all
 ||com.secure^$all
 ||com.secure.sci-hub.org^$all
 ||com.website^$all
@@ -1338,6 +1338,7 @@
 ||countrywoodsrvpark.com^$all
 ||coupmonitor.com^$all
 ||coupongccnew.com^$all
+||couponmaster.co.uk^$all
 ||courrielche.com^$all
 ||courseherofree219.ml^$all
 ||courseherofree220.ml^$all
@@ -1475,7 +1476,6 @@
 ||datesblaze.com^$all
 ||dating-freeonlineserviceguide.com^$all
 ||datinghypnotic.life^$all
-||davehendricks1.com^$all
 ||davidasavanond.com^$all
 ||davidgarlitz.com^$all
 ||davidhmastersdds.com^$all
@@ -1787,7 +1787,6 @@
 ||eagleny.org^$all
 ||eahandytool.com^$all
 ||earthsummit.info^$all
-||easternelectrical.net.au^$all
 ||easternrope.com^$all
 ||eastsideforhire.com^$all
 ||easyfinder.su^$all
@@ -2011,6 +2010,7 @@
 ||eye94.org^$all
 ||eziebart.com^$all
 ||ezine-articles.com^$all
+||ezonecomputers.co.nz^$all
 ||ezpaycell.com^$all
 ||f0rn0one.com^$all
 ||f3littlerock.com^$all
@@ -2038,7 +2038,6 @@
 ||fanproj.tv^$all
 ||fansfavoritefan.com^$all
 ||fansonly.info^$all
-||faragebride.com^$all
 ||farerpreknit.life^$all
 ||farhangname.info^$all
 ||farmsandbeyond.com^$all
@@ -2084,6 +2083,7 @@
 ||fighttalk.nl^$all
 ||figjamonline.com^$all
 ||filaras.com^$all
+||file-space.org^$all
 ||filefrog.net^$all
 ||fileroom.io^$all
 ||filmatik.nl^$all
@@ -2150,7 +2150,6 @@
 ||focusgoldcorp.com^$all
 ||fofoa-fuamoa.com^$all
 ||fogbankdiallyl.top^$all
-||followingmenow.com^$all
 ||fondesign.net^$all
 ||foobrdigital.com^$all
 ||foodsurvey.email^$all
@@ -2255,6 +2254,7 @@
 ||galeriemetropolis.com^$all
 ||galore.biz^$all
 ||gambling-casinousa.space^$all
+||game7thebook.com^$all
 ||gamecron.com^$all
 ||gamegloom.com^$all
 ||gamer-view.com^$all
@@ -2354,7 +2354,6 @@
 ||ginepija.com^$all
 ||giovannipassarelli.com^$all
 ||girlsforfun.today^$all
-||girlsinthegigcity.com^$all
 ||givafamecode.xyz^$all
 ||giyarc.top^$all
 ||giyim2.com^$all
@@ -2594,7 +2593,6 @@
 ||hmetruk.com^$all
 ||hntgl.com^$all
 ||hobbystoreshockwave.com^$all
-||hof20.nl^$all
 ||hoigameachau.com^$all
 ||hokkeist.info^$all
 ||holams.com^$all
@@ -2803,6 +2801,7 @@
 ||iniyan.in^$all
 ||iniziostore.com^$all
 ||ink3lo.vip^$all
+||inka.my^$all
 ||inl12s.vip^$all
 ||inl3u3.vip^$all
 ||inl5se.vip^$all
@@ -3155,6 +3154,7 @@
 ||kmdun.com^$all
 ||kmsactivator.co^$all
 ||kmspico-download.com^$all
+||kniga-v-uhe.ru^$all
 ||knightsoccerleague.org^$all
 ||knigomiry.ru^$all
 ||knollslab.com^$all
@@ -3621,7 +3621,6 @@
 ||mensaprex.com^$all
 ||mentalspeakradio.com^$all
 ||mentorgraphy.com^$all
-||meplo.com.br^$all
 ||mercadoagricola.com.br^$all
 ||merkezyazilim.com^$all
 ||mesquitegaragedoorrepairs.com^$all
@@ -3931,6 +3930,7 @@
 ||newsbeala.com^$all
 ||newschattogram24.com^$all
 ||newseurope.eu^$all
+||newsforyou.me^$all
 ||newsherenow.ru^$all
 ||newsworldcity.ml^$all
 ||newtownnd.com^$all
@@ -4245,6 +4245,7 @@
 ||paybbynft.com^$all
 ||paydragons.com^$all
 ||paygonline.online^$all
+||paymani.in^$all
 ||paypal-login.jimdosite.com^$all
 ||paypal-net.biz^$all
 ||paypal-proof-generator.threatiscool.repl.co^$all
@@ -4282,7 +4283,6 @@
 ||periskop.info^$all
 ||perlahost.com^$all
 ||perlanyc.com^$all
-||permission3000.com^$all
 ||perquandotuamore.me^$all
 ||personalbabygifts.co.uk^$all
 ||personalinjurylawnews.info^$all
@@ -4652,6 +4652,8 @@
 ||readinginheels.com^$all
 ||readysetwife.com^$all
 ||realfemalemasturbation.org^$all
+||realidadedigital.com.br^$all
+||realmondsnow.com^$all
 ||realnoevremya.website^$all
 ||realnorka.com^$all
 ||realroi.ru^$all
@@ -4738,6 +4740,7 @@
 ||richardravosa.com^$all
 ||richllndmetals.com^$all
 ||richmondmultisports.com^$all
+||ridacoprinting.com^$all
 ||ridgewayng.com^$all
 ||rightime.com^$all
 ||rima2d.top^$all
@@ -4976,7 +4979,6 @@
 ||sendapotato.com^$all
 ||sendmantic.com^$all
 ||senicarque.com^$all
-||seniorsoftball.com^$all
 ||senorthemes.com^$all
 ||seo-od.com^$all
 ||seo-realty.ru^$all
@@ -5115,7 +5117,6 @@
 ||skb-kontur.com^$all
 ||skechersshoesoutlets.com^$all
 ||sketch-plus.com^$all
-||skill.clinic^$all
 ||skinsground.com^$all
 ||skitergia.com^$all
 ||skitolive.com^$all
@@ -5123,6 +5124,7 @@
 ||skupka-fast.ru^$all
 ||skydaygame.ml^$all
 ||skyeherbals.com^$all
+||skylinecities.com^$all
 ||skylinesolutions.org^$all
 ||skypharmacyareview.ru^$all
 ||skyterrain.net^$all
@@ -5147,8 +5149,8 @@
 ||smartvark.com^$all
 ||smash137.net^$all
 ||smellthatcoffee.co.uk^$all
+||smh.com.my^$all
 ||smilz.net^$all
-||sminfosoft.com^$all
 ||smkcorpatarin1.sch.id^$all
 ||smmberlin.com^$all
 ||smokergensui.com^$all
@@ -5305,6 +5307,7 @@
 ||stripedfatcat.github.io^$all
 ||stroika-kazan.ru^$all
 ||strongblackspaces.com^$all
+||strtape.cloud^$all
 ||sts9wavespell.com^$all
 ||studentki-xxx.com^$all
 ||studiodellaporta.it^$all
@@ -5555,7 +5558,6 @@
 ||themfamily.fr^$all
 ||themizrahicollection.com^$all
 ||themmsystem.wpengine.com^$all
-||themocbrand.com^$all
 ||themostlyhealthy.com^$all
 ||thenandnowautoaz.com^$all
 ||thenantucketbasket.com^$all
@@ -5584,6 +5586,7 @@
 ||thesuperiorstoneworks.com^$all
 ||thetchaixoo.com^$all
 ||thethreadsthatbindus.net^$all
+||thetreemaker.com^$all
 ||theuniononline.com^$all
 ||theurbanpython.com^$all
 ||thevacuumshop.net^$all
@@ -5769,7 +5772,6 @@
 ||trustwellet.github.io^$all
 ||tryadultcoloringbooks.com^$all
 ||tryupshot.com^$all
-||tscretreats.org^$all
 ||tsu.one^$all
 ||tub-porno.ru^$all
 ||tuc.mx^$all
@@ -5815,6 +5817,7 @@
 ||udonwiki.com^$all
 ||ufafc.org^$all
 ||uggs.net.co^$all
+||uh.cx^$all
 ||uicflamesbasketball.com^$all
 ||ukbestwriters.com^$all
 ||ukedrevenu.xyz^$all
