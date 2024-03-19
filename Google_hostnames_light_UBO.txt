@@ -126,7 +126,6 @@
 ||a1fishingseychelles.com^$all
 ||a70z.com^$all
 ||a9droid.com^$all
-||aact.su^$all
 ||aaha.pe.kr^$all
 ||aahninfotech.com^$all
 ||aamdomain.com^$all
@@ -580,7 +579,6 @@
 ||authenticartstudio.com^$all
 ||autisticlike.com^$all
 ||auto-ankauf-flensburg.com^$all
-||automaster.kz^$all
 ||automotivekia.com^$all
 ||autonomic-communication.org^$all
 ||autopistadepuertorico.com^$all
@@ -589,7 +587,6 @@
 ||avandatubex.com^$all
 ||avanti-cash.com^$all
 ||avatardialler.com^$all
-||avd-pro.com^$all
 ||aventodesigns.com^$all
 ||averagecarguy.com^$all
 ||aviationglossary.com^$all
@@ -650,6 +647,7 @@
 ||banimunoz.com^$all
 ||banking-refund.com^$all
 ||bankofireland.live^$all
+||bankofkentuckycenter.com^$all
 ||bannronn.com^$all
 ||bantot.net^$all
 ||barbarahensley.com^$all
@@ -725,7 +723,6 @@
 ||best14rates.com^$all
 ||best24-files.com^$all
 ||bestairpurifierforsmoke.online^$all
-||bestbiblestudyonearth.com^$all
 ||bestdayofferr.xyz^$all
 ||bestdealever.today^$all
 ||bestdefensega.com^$all
@@ -771,7 +768,6 @@
 ||bigblockindustry.com^$all
 ||bigboss-mx.com^$all
 ||bigeastshows.com^$all
-||biggboss9winnername.com^$all
 ||biggdigital.com^$all
 ||bigideastobigresults.com^$all
 ||bigprojects.net^$all
@@ -817,7 +813,6 @@
 ||blackmoonapi.com^$all
 ||blackpoolwebsites.com^$all
 ||blackthread.io^$all
-||blagosich.org^$all
 ||blateshukria.space^$all
 ||bletechnolabs.com^$all
 ||blindambitionspeaking.com^$all
@@ -994,7 +989,6 @@
 ||cameetic.com.ar^$all
 ||camerawifitotnhat.com^$all
 ||camllifeholds.net^$all
-||camot.org^$all
 ||camphopeca.com^$all
 ||can-is.com^$all
 ||canada-jobs.com^$all
@@ -1158,7 +1152,6 @@
 ||chrishumphries.com^$all
 ||chriskirkmandesign.com^$all
 ||chrislowrymusic.com^$all
-||christal.biz^$all
 ||christchurchnj.org^$all
 ||christianbookpreviews.com^$all
 ||christiannewsservice.com^$all
@@ -1168,6 +1161,7 @@
 ||chromebrowse.com^$all
 ||chto-lechit.su^$all
 ||chuckcreekmur.com^$all
+||chumslink.com^$all
 ||chungdokwan.org.ve^$all
 ||chunming.ltd^$all
 ||cialisandtadalafil20.com^$all
@@ -1270,6 +1264,7 @@
 ||com-new.us^$all
 ||com-validation.top^$all
 ||com-verification.top^$all
+||com.app^$all
 ||com.black^$all
 ||com.camera^$all
 ||com.fail^$all
@@ -1279,6 +1274,7 @@
 ||com.online^$all
 ||com.secure^$all
 ||com.secure.sci-hub.org^$all
+||com.site^$all
 ||com.website^$all
 ||comcity.com^$all
 ||comedydangal.com^$all
@@ -1384,6 +1380,7 @@
 ||crowdfundmillionaire.co.uk^$all
 ||cruiseaficionados.com^$all
 ||cruisingsverige.se^$all
+||crustipfs.info^$all
 ||crwseafoodweek.com^$all
 ||cryingpuppet.com^$all
 ||cryofuel.com^$all
@@ -1506,6 +1503,7 @@
 ||debtswave.com^$all
 ||deco-pt.com^$all
 ||decoreway.com^$all
+||dedigger.com^$all
 ||deehrelict.com^$all
 ||deepbeatzradio.com^$all
 ||deeprooted.nyc^$all
@@ -1518,7 +1516,6 @@
 ||dejagroovesalonandspa.com^$all
 ||delcastilloarellano.com^$all
 ||deli.bz^$all
-||deliveryoka.com^$all
 ||deliworkshopexpress.xyz^$all
 ||dell-small-business.com^$all
 ||deltaairlinessuvey.today^$all
@@ -2014,6 +2011,7 @@
 ||f3littlerock.com^$all
 ||f9view.com^$all
 ||fabtastictravels.com^$all
+||faceb00k-vcs.000webhostapp.com^$all
 ||facebook-emails.com^$all
 ||facebook.comfacebook.com^$all
 ||facebookrecreation.webflow.io^$all
@@ -2079,7 +2077,6 @@
 ||fighttalk.nl^$all
 ||figjamonline.com^$all
 ||filaras.com^$all
-||file-space.org^$all
 ||filefrog.net^$all
 ||fileroom.io^$all
 ||filmatik.nl^$all
@@ -2118,6 +2115,7 @@
 ||flagshipreg.com^$all
 ||flatvault.com^$all
 ||flavion.com^$all
+||fleckings.com^$all
 ||flex-download.com^$all
 ||flexomends.today^$all
 ||flickr.com.photos^$all
@@ -2164,6 +2162,7 @@
 ||formation-2020.fr^$all
 ||fornecedordaindustria.com.br^$all
 ||forpitssake.org^$all
+||fortbendcountygov.com^$all
 ||fortboxx.com^$all
 ||fortunapromo.com^$all
 ||forum.neosmartpen.com^$all
@@ -2278,11 +2277,9 @@
 ||gcslongview.com^$all
 ||gd-kcmco.com^$all
 ||gdmsoccer.org^$all
-||gdsradio.com^$all
 ||gearsofwarfans.com^$all
 ||gecomuseum.com^$all
 ||geebox.com.cn^$all
-||geekboypress.com^$all
 ||geekweekevent.com^$all
 ||geistdesgeldes.com^$all
 ||gekata.info^$all
@@ -2320,7 +2317,6 @@
 ||getseriousfitness.net^$all
 ||gettalkedabout.com^$all
 ||getunwind.com^$all
-||getyourwinz.xyz^$all
 ||gf668.vip^$all
 ||gffhis.top^$all
 ||gghssharakh.in^$all
@@ -2747,6 +2743,7 @@
 ||imencyclopedia.com^$all
 ||imertual.com^$all
 ||imfbet123.com^$all
+||immaturityforcharity.com^$all
 ||immunobytes.com^$all
 ||imnotlance.com^$all
 ||impact-enterprises.org^$all
@@ -2785,6 +2782,7 @@
 ||infinityfukuoka.com^$all
 ||infocatolicos.com^$all
 ||infopayment.ru^$all
+||informazionepolitica.it^$all
 ||infos-automobile.fr^$all
 ||infoticspa.cl^$all
 ||infoyam.com^$all
@@ -2976,6 +2974,7 @@
 ||jnwsl.net^$all
 ||jobe-industries.com^$all
 ||jobproc.online^$all
+||joconorml.org^$all
 ||john1-1.com^$all
 ||johnferrara.com^$all
 ||johnlekay.com^$all
@@ -3671,6 +3670,7 @@
 ||millsdesignsgroup.com^$all
 ||minati.ir^$all
 ||minecraftors.ru^$all
+||minervas.org^$all
 ||minhalacademy.org^$all
 ||minhaskamal.github.io^$all
 ||minhbien.org^$all
@@ -3787,6 +3787,7 @@
 ||msidalocalcouncil.com^$all
 ||msoworld.org^$all
 ||mtcpreps.com^$all
+||mtfunadventures.com^$all
 ||mtsmuh3alfurqan.my.id^$all
 ||muenchen-sightrunning.de^$all
 ||mujplynomer.cz^$all
@@ -4308,7 +4309,6 @@
 ||photocannon.com^$all
 ||photos-moscar.fr^$all
 ||phptrends.com^$all
-||phrenetic.org^$all
 ||pi1f.in^$all
 ||piacererestaurant.com^$all
 ||piazzagrande.info^$all
@@ -4401,6 +4401,7 @@
 ||pndpp-us.cf^$all
 ||poboleda.org^$all
 ||pocafeina.cat^$all
+||pocket-link10.co^$all
 ||pocket-link12.co^$all
 ||pocket-link13.co^$all
 ||pocket-link3.co^$all
@@ -4791,7 +4792,6 @@
 ||root-to-market.co.uk^$all
 ||rootsbistrohouston.com^$all
 ||rootweb.com.mx^$all
-||rosalcom.com^$all
 ||roseliamanga.com^$all
 ||rosesgcra.com^$all
 ||rostartmedia.com^$all
@@ -4882,6 +4882,7 @@
 ||sangbadpratidin.net^$all
 ||sangkha.ac.th^$all
 ||saniac.com^$all
+||sanjoseobrero.edu.pe^$all
 ||sankafact.com^$all
 ||santapaulhillier.com^$all
 ||sapaks.com^$all
@@ -4978,6 +4979,7 @@
 ||sendmantic.com^$all
 ||senicarque.com^$all
 ||senorthemes.com^$all
+||sentrim-hotels.com^$all
 ||seo-od.com^$all
 ||seo-realty.ru^$all
 ||seocognition.com^$all
@@ -5082,6 +5084,7 @@
 ||sildenafilctab.com^$all
 ||sildenafilvi.com^$all
 ||silentlybren.com^$all
+||siliconvalleydj.com^$all
 ||silverhillswinery.com^$all
 ||silverliningdiner.com^$all
 ||similar.my.id^$all
@@ -5871,7 +5874,6 @@
 ||url3.site^$all
 ||ursabank.ru^$all
 ||usadye.ru^$all
-||usamaa.co.uk^$all
 ||usawebdesign.website^$all
 ||usbfilefinder.com^$all
 ||uschinacounsel.com^$all
@@ -5960,6 +5962,7 @@
 ||video-hned.com^$all
 ||videoactionquest.com^$all
 ||videobest.biz^$all
+||videocdn.click^$all
 ||videogamerlaw.com^$all
 ||videos2024.biz^$all
 ||videosflix.in^$all
@@ -6304,6 +6307,7 @@
 ||www.dmitrykorchak.com^$all
 ||www.dncook.com^$all
 ||www.dodgecitybodyshop.com^$all
+||www.dogefiles.io^$all
 ||www.donsocks.com^$all
 ||www.douploads.com^$all
 ||www.douploads.net^$all
@@ -6396,7 +6400,6 @@
 ||www.mckeeassocinc.com^$all
 ||www.medcareernews.com^$all
 ||www.megaparseonalse.com^$all
-||www.memoriadatv.com^$all
 ||www.menumasak.com^$all
 ||www.messepost-online.info^$all
 ||www.mhost.co.tz^$all
@@ -6452,7 +6455,6 @@
 ||www.salsamenteriadeiciompi.it^$all
 ||www.sampulkreativ.com^$all
 ||www.sanctumbristol.com^$all
-||www.sanjoseobrero.edu.pe^$all
 ||www.sassafrasvalleyranch.com^$all
 ||www.savefromnets.com^$all
 ||www.savepauldingco.com^$all
@@ -6573,7 +6575,6 @@
 ||yersseqx.click^$all
 ||yicaige.com^$all
 ||yilps.nl^$all
-||yin12s.vip^$all
 ||ykcedu.com^$all
 ||ymurocks.com^$all
 ||yodnews.ru^$all
@@ -6618,6 +6619,7 @@
 ||zaptoons.com^$all
 ||zaragoza-pirineos2022.com^$all
 ||zargotel.org^$all
+||zawox.com^$all
 ||zaxonoax.com^$all
 ||zaxqjq3w2pit.top^$all
 ||zcodesystemvipreview.com^$all
