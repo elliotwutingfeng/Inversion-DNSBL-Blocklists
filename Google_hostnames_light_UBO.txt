@@ -147,6 +147,7 @@
 ||abhishekmeena.in^$all
 ||abnews24.net^$all
 ||abnormaljing.info^$all
+||aboutblackboston.org^$all
 ||absfinishers.com^$all
 ||absolutelyreliable.com^$all
 ||absolutewinning.com^$all
@@ -374,7 +375,6 @@
 ||amic-group.com^$all
 ||amichocolates.com^$all
 ||amirage.net^$all
-||amitagorji.com^$all
 ||amitechlabs.com^$all
 ||amnestyhk.org^$all
 ||amodaflowers.com^$all
@@ -487,6 +487,7 @@
 ||argos-suck.com^$all
 ||argusbiomedical.com^$all
 ||argyllschool.com^$all
+||ari.or.id^$all
 ||ariven.com^$all
 ||arkigrafix.com^$all
 ||arleto.ro^$all
@@ -521,6 +522,7 @@
 ||asalunresgicus.ml^$all
 ||asanoxn.com^$all
 ||asd.de^$all
+||asdmcm.com^$all
 ||asdweb.org^$all
 ||aseagro.com.ar^$all
 ||asecondmind.com^$all
@@ -609,7 +611,6 @@
 ||az4ne.com^$all
 ||azadicshahabpur.in^$all
 ||azbunny.com^$all
-||azdoc.site^$all
 ||azfastfix.com^$all
 ||azithromycinv.com^$all
 ||azizultex.me^$all
@@ -644,6 +645,7 @@
 ||bamboogarden29.com^$all
 ||banaaras.com^$all
 ||bandfm.radio.br^$all
+||bangla24report.com^$all
 ||banimunoz.com^$all
 ||banking-refund.com^$all
 ||bankofireland.live^$all
@@ -673,6 +675,7 @@
 ||batzbatz.ru^$all
 ||baxfj.cfd^$all
 ||bay-57.net^$all
+||bb.org^$all
 ||bbqbiobrush.com^$all
 ||bcbn.com.sg^$all
 ||bdbanksinfo.com^$all
@@ -792,7 +795,6 @@
 ||bitcoin20.org^$all
 ||bitcoinbettingwebsite.xyz^$all
 ||bitcoinprivatekeyfinder.com^$all
-||bitcolon.com^$all
 ||bitconnect.com^$all
 ||bitlink.vn^$all
 ||bitstarz-casinos.com^$all
@@ -838,6 +840,7 @@
 ||bluecoatmusic.org^$all
 ||bluefrenchbulldogscentral.com^$all
 ||bluemountainpharmacyacanada.ru^$all
+||bluepigweb.site^$all
 ||bluesober.com^$all
 ||blugreenweb.com.au^$all
 ||blurayregioncodes.com^$all
@@ -934,6 +937,7 @@
 ||bulldozer-vfx.com^$all
 ||bumbuajaib.com^$all
 ||bumdoseout.live^$all
+||bunkr.su^$all
 ||bunox.net^$all
 ||buntspecht.us^$all
 ||burberryoutletbo.com^$all
@@ -1335,7 +1339,6 @@
 ||countrywoodsrvpark.com^$all
 ||coupmonitor.com^$all
 ||coupongccnew.com^$all
-||couponmaster.co.uk^$all
 ||courrielche.com^$all
 ||courseherofree219.ml^$all
 ||courseherofree220.ml^$all
@@ -1380,7 +1383,6 @@
 ||crowdfundmillionaire.co.uk^$all
 ||cruiseaficionados.com^$all
 ||cruisingsverige.se^$all
-||crustipfs.info^$all
 ||crwseafoodweek.com^$all
 ||cryingpuppet.com^$all
 ||cryofuel.com^$all
@@ -1503,7 +1505,6 @@
 ||debtswave.com^$all
 ||deco-pt.com^$all
 ||decoreway.com^$all
-||dedigger.com^$all
 ||deehrelict.com^$all
 ||deepbeatzradio.com^$all
 ||deeprooted.nyc^$all
@@ -1788,6 +1789,7 @@
 ||easternrope.com^$all
 ||eastsideforhire.com^$all
 ||easyfinder.su^$all
+||easyfitnessdaily.com^$all
 ||easyincomeopportunities.com^$all
 ||easymoneysurvey.space^$all
 ||easypiks.com^$all
@@ -1863,6 +1865,7 @@
 ||elisabethqueen.com^$all
 ||eliteemailsoftware.com^$all
 ||eliteouterwear.co^$all
+||elitepolls.com^$all
 ||elithatz.com^$all
 ||elizziebooks.com^$all
 ||eljallartsannex.com^$all
@@ -2010,7 +2013,6 @@
 ||f0rn0one.com^$all
 ||f3littlerock.com^$all
 ||f9view.com^$all
-||fabtastictravels.com^$all
 ||faceb00k-vcs.000webhostapp.com^$all
 ||facebook-emails.com^$all
 ||facebook.comfacebook.com^$all
@@ -2077,6 +2079,7 @@
 ||fighttalk.nl^$all
 ||figjamonline.com^$all
 ||filaras.com^$all
+||fileever.net^$all
 ||filefrog.net^$all
 ||fileroom.io^$all
 ||filmatik.nl^$all
@@ -3099,6 +3102,7 @@
 ||kepris.com^$all
 ||kerasentials.life^$all
 ||kerino.buzz^$all
+||kerlouisette.com^$all
 ||ketchummarketingtomoms.com^$all
 ||kevinkovaleski.com^$all
 ||kevinyar.ir^$all
@@ -3106,6 +3110,7 @@
 ||keyholeanguine.top^$all
 ||keynorthusa.com^$all
 ||keys-chloroquineclinique.com^$all
+||keys-shop.in^$all
 ||keysmarinelab.org^$all
 ||kflepenci.com^$all
 ||khalidit.store^$all
@@ -3392,6 +3397,7 @@
 ||login-verification.top^$all
 ||login-verify.top^$all
 ||logodesigninusa.com^$all
+||lolbot.net^$all
 ||lombasdy.com^$all
 ||london-towns.co.uk^$all
 ||londondownsgolf.com^$all
@@ -3416,6 +3422,7 @@
 ||lostthenfound.info^$all
 ||losttoys.info^$all
 ||lotobad.com^$all
+||lotterysambadnight.in^$all
 ||louandjosh2018.com^$all
 ||loupfilles.com^$all
 ||louwillville.com^$all
@@ -3445,7 +3452,6 @@
 ||lunzjersey.com^$all
 ||lupiana.net^$all
 ||lustrepurelight.com^$all
-||luwist.com^$all
 ||luxelection2020.com^$all
 ||luxlley.com^$all
 ||luxurythaispa.in^$all
@@ -3714,7 +3720,6 @@
 ||mobialy.com^$all
 ||mobilecontentplanet.biz^$all
 ||mobilegrandrapids.com^$all
-||mobileshield.net^$all
 ||mobilevps.com^$all
 ||mobiliario-sostenible.com^$all
 ||modapktricks.com^$all
@@ -3740,7 +3745,6 @@
 ||moniquebarry.com^$all
 ||monkeyfistdigital.com^$all
 ||monkeymediahouse.com^$all
-||monoamniotic.org^$all
 ||montana.co.ke^$all
 ||montblancpensoutletsaleonline.com^$all
 ||montues.com^$all
@@ -3880,6 +3884,7 @@
 ||nationalappsbd.com^$all
 ||nationalhostingsolutions.com^$all
 ||nationalpcsolutions.com^$all
+||natostrap.com^$all
 ||naturaldownload.com^$all
 ||naturalhealthbrands.net^$all
 ||naturopathyresortspa.com^$all
@@ -3929,7 +3934,6 @@
 ||newschattogram24.com^$all
 ||newseurope.eu^$all
 ||newsforyou.me^$all
-||newsherenow.ru^$all
 ||newsworldcity.ml^$all
 ||newtownnd.com^$all
 ||newvideodownloader.com^$all
@@ -4103,7 +4107,6 @@
 ||onlinecategoryflip.cfd^$all
 ||onlineeffexor.us.com^$all
 ||onlinefans.club^$all
-||onlinejess.com^$all
 ||onlinejobs.org.nz^$all
 ||onlinemediahits.com^$all
 ||onlines247.io^$all
@@ -4165,9 +4168,11 @@
 ||otopols.com^$all
 ||ottawaphoto.com^$all
 ||ouct.org^$all
+||ourl.in^$all
 ||ourmatrixclub.com^$all
 ||ournewportal.com^$all
 ||ourotherlocation.com^$all
+||oursimplejoys.com^$all
 ||outeegnasurvey.space^$all
 ||outeyeanywhen.space^$all
 ||outsiders-agency.com^$all
@@ -4180,6 +4185,7 @@
 ||owlfolk.com^$all
 ||ownthebiz.com^$all
 ||oxbowparish.com^$all
+||oxide.network^$all
 ||oxidev.com^$all
 ||oyekirurgiskpoliklinikk.no^$all
 ||oyemathias.com^$all
@@ -4247,7 +4253,6 @@
 ||paypal-net.biz^$all
 ||paypal-proof-generator.threatiscool.repl.co^$all
 ||paypallogini.org^$all
-||paysecure.ro^$all
 ||pazitosinc.com^$all
 ||pazsanchez.com^$all
 ||pcappsfull.com^$all
@@ -4881,7 +4886,6 @@
 ||sanfordmusicfest.com^$all
 ||sangbadpratidin.net^$all
 ||sangkha.ac.th^$all
-||saniac.com^$all
 ||sanjoseobrero.edu.pe^$all
 ||sankafact.com^$all
 ||santapaulhillier.com^$all
@@ -4941,6 +4945,7 @@
 ||sdstra.academy^$all
 ||seachtop.com^$all
 ||seahagseafood.com^$all
+||sealycopular.top^$all
 ||seanrea.com^$all
 ||search4bbm.com^$all
 ||searchestracker.com^$all
@@ -4979,7 +4984,6 @@
 ||sendmantic.com^$all
 ||senicarque.com^$all
 ||senorthemes.com^$all
-||sentrim-hotels.com^$all
 ||seo-od.com^$all
 ||seo-realty.ru^$all
 ||seocognition.com^$all
@@ -5203,6 +5207,7 @@
 ||southdownsway-hikersrest.com^$all
 ||southernmosthousehotel.com^$all
 ||southerntireandautomiami.com^$all
+||sp-affiliate.ru^$all
 ||spaceditor.space^$all
 ||spacershandbook.com^$all
 ||spanisharts.info^$all
@@ -5410,7 +5415,6 @@
 ||tanglenotices.com^$all
 ||tanglewoodretreat.co.nz^$all
 ||tangovagabond.com^$all
-||tanwi1234.github.io^$all
 ||taoli99.com^$all
 ||taotechingdaily.com^$all
 ||taploadedblog.com^$all
@@ -5624,7 +5628,6 @@
 ||threeremainproductions.com^$all
 ||thresholdplace.com^$all
 ||thriftmepretty.com^$all
-||thrive-health.com^$all
 ||thucphamtci.com^$all
 ||thunda.com.au^$all
 ||ti-files.org^$all
@@ -6412,7 +6415,6 @@
 ||www.moenipulation.co.uk^$all
 ||www.musicianschannel.com^$all
 ||www.nailscars.com^$all
-||www.natostrap.com^$all
 ||www.nenasperu.pe^$all
 ||www.nerdnuts.com^$all
 ||www.netflexandsweat.com^$all
@@ -6450,7 +6452,6 @@
 ||www.roblox7.com^$all
 ||www.rocketmoney.dev^$all
 ||www.saawconcepts.com^$all
-||www.sabiagrik.com^$all
 ||www.sajjad.ir^$all
 ||www.salsamenteriadeiciompi.it^$all
 ||www.sampulkreativ.com^$all
