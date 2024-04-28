@@ -11,7 +11,6 @@
 ||1080vietnam.com^$all
 ||11rxonline.com^$all
 ||123abc.co.nz^$all
-||123br.com.br^$all
 ||123juara.website^$all
 ||12webmaster.com^$all
 ||133slot.xyz^$all
@@ -184,6 +183,7 @@
 ||accure.com.au^$all
 ||accutaneple.com^$all
 ||acdrecycling.co.uk^$all
+||acedoagency.com^$all
 ||acequalityplumbingheating.com^$all
 ||acgbvf.top^$all
 ||achayot.org^$all
@@ -498,6 +498,7 @@
 ||apple-webservice.com^$all
 ||appleid-server.com^$all
 ||appleidfu.com^$all
+||applepie4-com-api-project-698751057487.web.app^$all
 ||applesteps.com^$all
 ||apply-here.online^$all
 ||approvedmodems.com^$all
@@ -744,6 +745,7 @@
 ||beautifullike.com^$all
 ||beautifulsaving.com^$all
 ||beauty-advices.com^$all
+||beautycultnails.com^$all
 ||beautysecretssalon.com^$all
 ||beboldme.com^$all
 ||bedradio.co.kr^$all
@@ -859,6 +861,7 @@
 ||biscomunicacao.com.br^$all
 ||bisitenolsun.com^$all
 ||bitbankinvest.com^$all
+||bitcarra.com^$all
 ||bitcoin20.org^$all
 ||bitcoinbettingwebsite.xyz^$all
 ||bitcoinprivatekeyfinder.com^$all
@@ -972,7 +975,6 @@
 ||brewallgrain.com^$all
 ||bri-institute.ac.id^$all
 ||bridgetbartonfororegon.com^$all
-||bridgewater4th.com^$all
 ||bridgewatermcg.com^$all
 ||brightlnsight.co^$all
 ||brintonengineering.com^$all
@@ -1236,7 +1238,6 @@
 ||chuckcreekmur.com^$all
 ||chungdokwan.org.ve^$all
 ||chunming.ltd^$all
-||churchatthegateway.org^$all
 ||ci.bleachbit.org^$all
 ||cialisandtadalafil20.com^$all
 ||cialisdf.com^$all
@@ -1415,7 +1416,6 @@
 ||courrielche.com^$all
 ||courseherofree219.ml^$all
 ||courseherofree220.ml^$all
-||courtneycorvan.com^$all
 ||courtneykhailstationery.com^$all
 ||covsmrt.com^$all
 ||cozmo.tv^$all
@@ -1787,6 +1787,7 @@
 ||dr-guitar.de^$all
 ||dragoncyclopedia.com^$all
 ||drawmall.com^$all
+||drawnrefurl.top^$all
 ||drbrahmabgmumvdeviganj.in^$all
 ||drc144k.com^$all
 ||dreamhomechiangdao.com^$all
@@ -2021,6 +2022,7 @@
 ||ericviennot.com^$all
 ||erkdnv.top^$all
 ||ernieanderson.com^$all
+||ero-manga-kingdom.com^$all
 ||eroticabyjoseph.com^$all
 ||erowaedm.com^$all
 ||escueladedeportes.cl^$all
@@ -2398,6 +2400,7 @@
 ||getabusinessinsurance.com^$all
 ||getdealstravel.com^$all
 ||getgosu.com^$all
+||gethugebonuses.life^$all
 ||getilitcenter.com^$all
 ||getit.wiki^$all
 ||getiteasy.in^$all
@@ -2481,7 +2484,6 @@
 ||gofenews.com^$all
 ||gofirstnews.com^$all
 ||gogle.us.com^$all
-||gogoplay1.com^$all
 ||goldenwestsites.com^$all
 ||goldfishcake.com^$all
 ||goldluckysurvey.top^$all
@@ -2608,6 +2610,7 @@
 ||hapifun.com^$all
 ||happinessmedia.com^$all
 ||happygohome.com^$all
+||happyheadsproducts.com^$all
 ||happywheels.vip^$all
 ||harbdata.com^$all
 ||hardluckcreative.com^$all
@@ -2705,6 +2708,7 @@
 ||hntgl.com^$all
 ||hoankimthao.vn^$all
 ||hobbystoreshockwave.com^$all
+||hodor.lol^$all
 ||hoigameachau.com^$all
 ||hokkeist.info^$all
 ||holams.com^$all
@@ -2796,6 +2800,7 @@
 ||i-portalberita.com^$all
 ||i-selections.club^$all
 ||i-seoexpert.ru^$all
+||i6j.net^$all
 ||iage.com.au^$all
 ||iamdjmoore.com^$all
 ||iamjustloud.com^$all
@@ -3287,7 +3292,6 @@
 ||kmsactivator.co^$all
 ||kmspico-download.com^$all
 ||kniga-v-uhe.ru^$all
-||knigomiry.ru^$all
 ||knollslab.com^$all
 ||knoweunites.top^$all
 ||knuckledzone.com^$all
@@ -3379,6 +3383,7 @@
 ||lamadelines.com^$all
 ||lamaisonhenry.com^$all
 ||lamartini.com^$all
+||lambstonecellarswinery.com^$all
 ||lamiesoccer.com^$all
 ||lamir2022.fr^$all
 ||lamodaamimanerablog.com^$all
@@ -3594,6 +3599,7 @@
 ||lucianmldvn.com^$all
 ||luckerssurvey.top^$all
 ||luckharbor.net^$all
+||luckyglobe.co^$all
 ||luckyok.top^$all
 ||luckypeak.vip^$all
 ||luckyshopee.top^$all
@@ -3655,6 +3661,7 @@
 ||magicinstll.com^$all
 ||mahagirivillasdreamland.com^$all
 ||maidsandmorecleaning.com^$all
+||mail-lovers.com^$all
 ||mail-roundcube.site^$all
 ||mailbox-notification.com^$all
 ||maindispace.com^$all
@@ -3758,6 +3765,7 @@
 ||mcqgeek.com^$all
 ||mcsleazy.net^$all
 ||mcvehil.net^$all
+||mding5692.github.io^$all
 ||mdjxmo.com^$all
 ||meawo.cloud^$all
 ||mecantano.com^$all
@@ -3770,6 +3778,7 @@
 ||medskaparna.se^$all
 ||medtechcapital.ch^$all
 ||meetamate.site^$all
+||meetanew.com^$all
 ||meetme4.xyz^$all
 ||mega-infos.xyz^$all
 ||mega.net.id^$all
@@ -3781,7 +3790,6 @@
 ||megastroim.ru^$all
 ||megatradeinvest.online^$all
 ||megaxpress.com^$all
-||megso.in^$all
 ||mehrdadafsari.com^$all
 ||meisterkate.com^$all
 ||mejorestilodevida.net^$all
@@ -3918,6 +3926,7 @@
 ||momupl.com^$all
 ||mon.camping.free.fr^$all
 ||mondaphoto.com^$all
+||mondessalicyl.top^$all
 ||mondolfoinguerra.com^$all
 ||money-boom.xyz^$all
 ||money-chishiki.com^$all
@@ -4094,6 +4103,7 @@
 ||naturopathyresortspa.com^$all
 ||naulme.info^$all
 ||naverdownload.eu^$all
+||navimap.xyz^$all
 ||nayatelhosting.com^$all
 ||nazinfood.com^$all
 ||nbdu.top^$all
@@ -4135,7 +4145,6 @@
 ||news-huzide.com^$all
 ||news-juxone.cc^$all
 ||news-miut.click^$all
-||news-pufefa.cc^$all
 ||news-veyuco.com^$all
 ||news-wuweyo.com^$all
 ||news-zivibi.com^$all
@@ -4153,6 +4162,7 @@
 ||newyorksri.com^$all
 ||nexilis-hobbies.com^$all
 ||nexionnetworking.com^$all
+||next-js-auth-murex.vercel.app^$all
 ||nextjs-hasura-boilerplate.vercel.app^$all
 ||nextstophorizon.org^$all
 ||nexus-solutions.com^$all
@@ -4210,6 +4220,7 @@
 ||northernbeachesliquoraccord.com^$all
 ||northwoodsmemories.com^$all
 ||nosakast.com^$all
+||nosherspity.top^$all
 ||nospamfor.us^$all
 ||notados.com^$all
 ||notificationscenter.com^$all
@@ -4249,6 +4260,7 @@
 ||nunoimiraikaikei.com^$all
 ||nuovomaschile.com^$all
 ||nutsmildly.uno^$all
+||nuttysquirrelgames.com^$all
 ||nvuti.chat^$all
 ||nvuti.gd^$all
 ||nyadvancedneurology.com^$all
@@ -4268,6 +4280,7 @@
 ||obs-studio.co^$all
 ||oceanconxt.com^$all
 ||oceanresearchproject.com^$all
+||oddtipster.web.app^$all
 ||odjrabot.com^$all
 ||off2dr.com^$all
 ||office180.net^$all
@@ -4323,6 +4336,7 @@
 ||onionsystem33.com^$all
 ||online-television-live-tv2.online^$all
 ||onlinebetku.com^$all
+||onlinebetting.pro^$all
 ||onlinebusines.ru^$all
 ||onlinecategoryflip.cfd^$all
 ||onlinecoursesschools.com^$all
@@ -4344,7 +4358,6 @@
 ||ontspro.com^$all
 ||oogloods.net^$all
 ||ootestuckas.com^$all
-||opcryogonalon.com^$all
 ||open-sc.xyz^$all
 ||openrich.info^$all
 ||opensg.org^$all
@@ -4567,7 +4580,6 @@
 ||pinealtones.com^$all
 ||pinkkayakpress.com^$all
 ||pinkshadeshop.com^$all
-||pinktada.com^$all
 ||pinkurock.com^$all
 ||pinzerofive.live^$all
 ||pipolife.net^$all
@@ -5391,6 +5403,7 @@
 ||slw.com.br^$all
 ||smart-discount.org^$all
 ||smart-kids.info^$all
+||smart-pss.ru^$all
 ||smartb2bmarcom.com^$all
 ||smartherbvip.com^$all
 ||smartinvestment.world^$all
@@ -5509,10 +5522,7 @@
 ||startelefonia.it^$all
 ||starthighlyquicktheproduct.vip^$all
 ||starthighlyspeedytheproduct.vip^$all
-||starthighlyswifttheproduct.vip^$all
 ||startprecisehighlytheproduct.vip^$all
-||startspeedyhighlytheproduct.vip^$all
-||startstronghighlytheproduct.vip^$all
 ||startupepicenter.com^$all
 ||startupiqaccelerator.com^$all
 ||startups.be^$all
@@ -6109,7 +6119,6 @@
 ||unfreeads.com^$all
 ||unhumanbeckons.uno^$all
 ||unidemarches.fr^$all
-||unifiedit.xyz^$all
 ||unionfarmsofafrica.com^$all
 ||unionjordan.com^$all
 ||uniplan-engineering.com^$all
@@ -6236,7 +6245,6 @@
 ||victorariassole.com^$all
 ||victoriafranklindillon.com^$all
 ||vidange-pompage-fosse-septique.fr^$all
-||video-hned.com^$all
 ||videoactionquest.com^$all
 ||videobest.biz^$all
 ||videobuddy.com^$all
@@ -6568,6 +6576,7 @@
 ||www.chessonlaw.com^$all
 ||www.chq-inc.com^$all
 ||www.circusmaximusfestival.com^$all
+||www.claronet.com^$all
 ||www.clinitec.com.br^$all
 ||www.clubweb.ir^$all
 ||www.cnetguide.com^$all
@@ -6694,7 +6703,6 @@
 ||www.lookbestproperty.com^$all
 ||www.magdalenabonev.com^$all
 ||www.magellangpsupdates.com^$all
-||www.mail-lovers.com^$all
 ||www.makemynote.com^$all
 ||www.manurenove.fr^$all
 ||www.mapasnumerologicos.com.br^$all
