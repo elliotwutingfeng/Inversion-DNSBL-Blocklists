@@ -932,6 +932,7 @@
 ||aoomomn.com^$all
 ||ap-ts.com^$all
 ||apabullaste.com^$all
+||apartastoria.com^$all
 ||apcsuministros.com^$all
 ||apicachebot.com^$all
 ||apicedesenvolve.com.br^$all
@@ -1793,6 +1794,7 @@
 ||cakegalleryoman.com^$all
 ||cakepiebraz.top^$all
 ||cakhia.games^$all
+||calcricing.shop^$all
 ||calendaraboutnothing.com^$all
 ||calendariodeconteudo.com^$all
 ||calendarsnmore.com^$all
@@ -7673,6 +7675,7 @@
 ||qzshiwei.cn^$all
 ||r14qi.com^$all
 ||r171n.com^$all
+||raadiouudi.cfd^$all
 ||racemi.com^$all
 ||rachat-or.com^$all
 ||rackemup.bike^$all
@@ -9078,6 +9081,7 @@
 ||territoiressud.org^$all
 ||tescilpanel.com^$all
 ||tescotesco.com^$all
+||tesed.cfd^$all
 ||tesla-musk-x.com^$all
 ||testoline88.xyz^$all
 ||tet.university^$all
@@ -10004,6 +10008,7 @@
 ||wahidirectory.com^$all
 ||waho.plus^$all
 ||wahrung-erhalten.info^$all
+||waidn.org^$all
 ||waipian8.com^$all
 ||wajapanfilmfest.it^$all
 ||waleed.com^$all
